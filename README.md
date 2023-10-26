@@ -14,4 +14,13 @@ https://github.com/BattletechModders/ModTek
 MechAffinity  - Credits to JamieWolf  
 https://github.com/wmtorode/mechaffinity
 
+
+--Installation--
+
+1.) Choose a release version on right hand side
+
+2.) Drag the PilotPerksOverhaul folder into your Mods directory
+
+3.)
+
 --Compatabilty--
