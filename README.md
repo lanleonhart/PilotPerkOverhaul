@@ -7,7 +7,11 @@ This mod is an overhaul of the Ronin and Backer Pilots in Battletech. Each Pilot
 
 -- Requirments --
 
-Modtek - Multiple Authors   https://github.com/BattletechModders/ModTek
-MechAffinity  - Credits to JamieWolf  https://github.com/wmtorode/mechaffinity
+Modtek - Multiple Authors   
+https://github.com/BattletechModders/ModTek
+
+
+MechAffinity  - Credits to JamieWolf  
+https://github.com/wmtorode/mechaffinity
 
 --Compatabilty--
