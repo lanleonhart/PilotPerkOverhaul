@@ -1,0 +1,214 @@
+{
+  "version": 2,
+  "debug": true,
+  "enablePilotAffinity": true,
+  "enablePilotSelect": true,
+  "enablePilotQuirks": true,
+  "enableMonthlyMoraleReset": false,
+  "enableStablePiloting": false,
+  "affinitySettings": {
+    "missionsBeforeDecay": 3,
+    "lowestPossibleDecay": 2,
+    "removeAffinityAfter": 13,
+    "maxAffinityPoints": 18,
+    "decayByModulo": false,
+    "debugForceTag": "",
+    "defaultDaysBeforeSimDecay": -1,
+    "showDescriptionsOnChassis": true,
+    "trackSimDecayByStat": true,
+    "trackLowestDecayByStat": false,
+    "showAllPilotAffinities": true,
+    "topAffinitiesInTooltipCount": 3,
+    "showQuirks": true,
+    "affinityGroups": [],
+    "prefabOverrides": []
+  },
+  "quirkSettings": {
+    "playerQuirkPools": false,
+    "argoAdditive": true,
+    "argoMultiAutoAdjust": true,
+    "argoMin": 0.0,
+    "quirkPools": [],
+    "tooltipTags": [],
+    "addTags": []
+  },
+  "stablePilotingSettings": {
+    "reductionPerPiloting": 0.02,
+    "increasePerInjury": 0.05,
+    "tagEffects": [],
+    "InverseMax": 20
+  },
+  "pilotUiSettings": {
+  "enableAffinityColour": true,
+    "orderByAffinity": false,
+    "pilotIcons": [
+      {
+        "colour": "#d81012",
+        "tag": "pilot_btateam",
+        "descriptionDefId": "",
+        "svgAssetId": ""
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_davion",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Davion",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_steiner",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Lyran",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_kurita",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Kurita",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_marik",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Marik",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_liao",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Liao",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_comstar",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Comstar",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_periphery",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Periphery",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_taurian",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Taurian",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_aurigan",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_AuriganReach",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_aurigandirectorate",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_AuriganDirectorate",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_magistracy",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_canopus",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_outworld",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Outworld",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_lothian",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_lothian",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_ives",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ives",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_illyria",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Illyria",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_marian",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Marian",
+        "priority": 3
+      },
+       {
+        "colour": "#000000",
+        "tag": "pilot_solaris",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Solaris",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_tortuga",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_tortuga",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_valkyrate",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_valk",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_circinus",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_circinus",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_oberon",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_oberon",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "commander_player",
+        "descriptionDefId": "",
+        "svgAssetId": "uixSvgIcon_mwrank_Commander",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "PqMarked",
+        "descriptionDefId": "",
+        "svgAssetId": "uixSvgIcon_mwrank_Ronin",
+        "priority": 10
+      }
+      ]
+  }
+    }
