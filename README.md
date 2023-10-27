@@ -17,3 +17,9 @@ https://github.com/wmtorode/mechaffinity
 
 --Installation--
  Drag the PilotPerksOverhaul folder into your Mods directory
+
+
+![image](https://github.com/lanleonhart/PilotPerkOverhaul/assets/20054743/1b590857-388c-47e8-951c-fa48eeccad48)
+
+![image](https://github.com/lanleonhart/PilotPerkOverhaul/assets/20054743/2570b240-e9d3-412e-a34e-c71055c1ff84)
+
