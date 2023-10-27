@@ -1,6 +1,7 @@
 {
-	"Id": "pilot_marian",
-	"Name": "Marian",
-	"Details": "This MechWarrior originates from the Marian Hegemony",
-	"Icon": ""
+	"Name": "pilot_marian",
+	"Important": false,
+	"PlayerVisible": true,
+	"FriendlyName": "Marian",
+	"Description": "A Mechwarrior from the Marian Hegemony"
   }

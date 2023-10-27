@@ -1,6 +1,7 @@
 {
-	"Id": "pilot_valkyrate",
-	"Name": "Greater Valkyrate",
-	"Details": "This MechWarrior originates from the Greater Valkyrate",
-	"Icon": ""
+	"Name": "pilot_valkyrate",
+	"Important": false,
+	"PlayerVisible": true,
+	"FriendlyName": "Valkyrate",
+	"Description": "A Mechwarrior from the Greate Valkyrate"
   }

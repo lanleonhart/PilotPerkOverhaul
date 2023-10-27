@@ -1,6 +1,7 @@
 {
-	"Id": "pilot_solaris",
-	"Name": "Solaris VII",
-	"Details": "This MechWarrior originates from the Solaris VII the arena world",
-	"Icon": ""
+	"Name": "pilot_solaris",
+	"Important": false,
+	"PlayerVisible": true,
+	"FriendlyName": "Solaris VII",
+	"Description": "A Mechwarrior from the arena world of Solaris VII"
   }

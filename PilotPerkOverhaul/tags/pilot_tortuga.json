@@ -1,6 +1,7 @@
 {
-	"Id": "pilot_tortuga",
-	"Name": "Tortuga",
-	"Details": "This MechWarrior originates from the Tortuga Dominions",
-	"Icon": ""
+	"Name": "pilot_tortuga",
+	"Important": false,
+	"PlayerVisible": true,
+	"FriendlyName": "Tortuga",
+	"Description": "A Mechwarrior from the Tortuga Dominions"
   }

@@ -1,6 +1,7 @@
 {
-	"Id": "pilot_oberon",
-	"Name": "Oberon",
-	"Details": "This MechWarrior originates from the Oberon Confederation",
-	"Icon": ""
+	"Name": "pilot_oberon",
+	"Important": false,
+	"PlayerVisible": true,
+	"FriendlyName": "Oberon",
+	"Description": "A Mechwarrior from the Oberon Confederacy"
   }

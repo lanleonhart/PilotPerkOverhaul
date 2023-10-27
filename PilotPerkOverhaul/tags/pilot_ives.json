@@ -1,6 +1,7 @@
 {
-	"Id": "pilot_ives",
-	"Name": "St Ives",
-	"Details": "This MechWarrior originates from the St Ives Compact",
-	"Icon": ""
+	"Name": "pilot_ives",
+	"Important": false,
+	"PlayerVisible": true,
+	"FriendlyName": "St. Ives",
+	"Description": "A Mechwarrior from the St. Ives Compact"
   }

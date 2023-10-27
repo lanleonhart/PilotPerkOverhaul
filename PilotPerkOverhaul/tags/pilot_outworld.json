@@ -1,6 +1,7 @@
 {
-	"Id": "pilot_outworld",
-	"Name": "Outworlds Alliance",
-	"Details": "This MechWarrior originates from the Outworlds Alliance",
-	"Icon": ""
+	"Name": "pilot_outworld",
+	"Important": false,
+	"PlayerVisible": true,
+	"FriendlyName": "Outworlder",
+	"Description": "A Mechwarrior from the Outworlds Alliance"
   }

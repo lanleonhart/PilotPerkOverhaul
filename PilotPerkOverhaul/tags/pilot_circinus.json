@@ -1,6 +1,7 @@
 {
-	"Id": "pilot_circinus",
-	"Name": "Circinus Federation",
-	"Details": "This MechWarrior originates from the Circinus Federation",
-	"Icon": ""
+	"Name": "pilot_circinus",
+	"Important": false,
+	"PlayerVisible": true,
+	"FriendlyName": "Circinus",
+	"Description": "A Mechwarrior from the Circinus Federation"
   }
