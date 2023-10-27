@@ -18,6 +18,8 @@ https://github.com/wmtorode/mechaffinity
 --Installation--
  Drag the PilotPerksOverhaul folder into your Mods directory
 
+Drop the setting.json from the MechAffinity folder into BATTLETECH/Mods/MechAffinity folder and overwrite.
+
 
 ![image](https://github.com/lanleonhart/PilotPerkOverhaul/assets/20054743/1b590857-388c-47e8-951c-fa48eeccad48)
 
