@@ -23,3 +23,4 @@ Drop the setting.json from the MechAffinity folder into BATTLETECH/Mods/MechAffi
 
 
 
+![PIPShowcase](https://github.com/lanleonhart/PilotPerkOverhaul/assets/20054743/802adf91-ec01-4de8-92f6-4948bbcebbfd)
