@@ -197,6 +197,125 @@
       },
       {
         "colour": "#000000",
+        "tag": "pilot_wolf",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanWolf",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_bloodspirit",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanBloodSpirit",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_burrock",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanBurrock",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_cloudcobra",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanCloudCobra",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_coyote",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanCoyote",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_diamondshark",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanDiamondShark",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_firemandrill",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanFireMandrill",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_ghostbear",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanGhostBear",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_goliathscoprion",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanGoliathScorpion",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_hellshorses",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanHellsHorses",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_icehellion",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanIceHellion",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_novacat",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanNovaCat",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_smokejaguar",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanSmokeJaguar",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_snowraven",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanSnowRaven",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_staradder",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_StarAdder",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_steelviper",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_ClanSteelViper",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
+        "tag": "pilot_wordofblake",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_WordOfBlake",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
         "tag": "commander_player",
         "descriptionDefId": "",
         "svgAssetId": "uixSvgIcon_mwrank_Commander",
