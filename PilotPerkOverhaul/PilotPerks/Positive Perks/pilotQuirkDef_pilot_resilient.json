@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_resilient",
     "tag": "pilot_resilient",
     "quirkName": "Resilient",
-    "description": "+3 HP. -10% Stability Damage.",
+    "description": "",
 "effectData": [
   {
     "durationData": {

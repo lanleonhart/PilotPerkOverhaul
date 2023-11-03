@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_reject",
     "tag": "pilot_reject",
     "quirkName": "Experiment Reject",
-    "description": "-1 to All Skills. -2 HP. -1 Accuracy.",
+    "description": "",
 "effectData": [
   {
     "durationData": {

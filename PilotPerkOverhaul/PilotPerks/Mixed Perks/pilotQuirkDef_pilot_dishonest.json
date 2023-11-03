@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_dishonest",
   "tag": "pilot_dishonest",
   "quirkName": "Dishonest",
-  "description": "5% Chance to Steal 500 Cbills From OR For You.",
+  "description": "",
   "effectData": [],
   "quirkEffects": [
     {

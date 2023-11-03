@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_command",
   "tag": "pilot_command",
   "quirkName": "Commander",
-  "description": "[ +1 Lance Initiative, +1 Piloting]",
+  "description": "",
   "effectData": [
     {
       "durationData": {

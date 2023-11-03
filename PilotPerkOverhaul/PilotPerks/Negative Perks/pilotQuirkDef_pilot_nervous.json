@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_nervous",
     "tag": "pilot_nervous",
     "quirkName": "Nervous",
-    "description": "-1 Accuracy. Chance to Panic.",
+    "description": "",
 "effectData": [
   {
     "durationData": {

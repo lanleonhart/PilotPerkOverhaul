@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_criminal",
   "tag": "pilot_criminal",
   "quirkName": "Criminal",
-  "description": "-1 Tactics, +8% Run Distance, +3% Stability Damage",
+  "description": "",
   "effectData": [
     {
       "durationData": {

@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_cautious",
   "tag": "pilot_cautious",
   "quirkName": "Cautious",
-  "description":  "[-1 Initiative, -5% Run Distance, Entrench on Movement]",
+  "description":  "",
   "effectData": [
     {
       "durationData": {

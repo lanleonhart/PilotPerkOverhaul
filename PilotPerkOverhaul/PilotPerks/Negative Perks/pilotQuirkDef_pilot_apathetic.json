@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_apathetic",
     "tag": "pilot_apathetic",
     "quirkName": "Apathetic",
-    "description": "-3 Initiative.",
+    "description": "",
 "effectData": [
   {
     "durationData": {

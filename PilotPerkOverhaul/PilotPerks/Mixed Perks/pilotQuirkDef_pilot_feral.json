@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_feral",
     "tag": "pilot_feral",
     "quirkName": "Feral",
-    "description": "5% Chance to Panic. +1 Accuracy. +1 EVA Gained.",
+    "description": "",
 "effectData": [],
   "quirkEffects": [
     {

@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_reckless",
   "tag": "pilot_reckless",
   "quirkName": "Reckless",
-  "description": "+3% Jam Chance, +5% Stability Damage Taken, +20% Run Distance",
+  "description": "",
   "effectData": [
     {
       "durationData": {

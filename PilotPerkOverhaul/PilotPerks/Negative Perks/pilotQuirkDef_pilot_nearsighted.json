@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_nearsighted",
     "tag": "pilot_nearsighted",
     "quirkName": "Near Sighted",
-    "description": "Spotting Range Reduced.",
+    "description": "",
 "effectData": [
   {
     "durationData": {

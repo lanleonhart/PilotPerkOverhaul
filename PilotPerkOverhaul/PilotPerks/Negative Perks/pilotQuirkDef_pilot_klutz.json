@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_klutz",
   "tag": "pilot_klutz",
   "quirkName": "Klutz",
-  "description": "+1 Evasion Gain. May fall when firing.",
+  "description": "",
   "effectData": [
     {
       "durationData": {

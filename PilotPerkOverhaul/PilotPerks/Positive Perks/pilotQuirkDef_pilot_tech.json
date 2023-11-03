@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_tech",
   "tag": "pilot_tech",
   "quirkName": "Technician",
-  "description": "+1 MechTech",
+  "description": "",
   "effectData": [],
   "quirkEffects": [
     {

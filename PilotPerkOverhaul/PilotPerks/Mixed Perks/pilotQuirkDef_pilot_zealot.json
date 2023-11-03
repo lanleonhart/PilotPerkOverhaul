@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_zealot",
     "tag": "pilot_zealot",
     "quirkName": "Fanatical Zealot",
-    "description": "+1 HP. +20% Max Run Distance. No Ejection.",
+    "description": "",
 "effectData": [
   {
     "durationData": {

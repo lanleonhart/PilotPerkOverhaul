@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_heatspecialist",
     "tag": "pilot_heatspecialist",
     "quirkName": "Specialist: Heat Management",
-    "description": "-8% Heat Generation.",
+    "description": "",
 "effectData": [
   {
   "durationData": {

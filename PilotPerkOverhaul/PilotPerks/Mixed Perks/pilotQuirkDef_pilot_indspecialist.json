@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_indspecialist",
     "tag": "pilot_indspecialist",
     "quirkName": "Specialist: Bombardment",
-    "description": "+10% Indirect Fire Accuracy. -1 HP. -2 Max Evasion.",
+    "description": "",
 "effectData": [],
   "quirkEffects": [
     {

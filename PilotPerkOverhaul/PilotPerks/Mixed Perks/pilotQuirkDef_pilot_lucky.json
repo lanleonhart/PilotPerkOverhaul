@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_lucky",
   "tag": "pilot_lucky",
   "quirkName": "Lucky",
-  "description": "-1 To Hit, +2 Max Evasion ",
+  "description": "",
   "effectData": [
     {
       "durationData": {

@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_fragile",
     "tag": "pilot_fragile",
     "quirkName": "Fragile",
-    "description": "-2 HP.",
+    "description": "",
 "effectData": [],
   "quirkEffects": [
     {

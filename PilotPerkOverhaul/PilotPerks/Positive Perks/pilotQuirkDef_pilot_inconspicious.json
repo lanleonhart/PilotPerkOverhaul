@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_inconspicious",
     "tag": "pilot_inconspicious",
     "quirkName": "Inconspicuous",
-    "description": "-5% Visibility.",
+    "description": "",
 "effectData": [
   {
     "durationData": {

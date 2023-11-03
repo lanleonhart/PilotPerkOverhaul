@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_jinxed",
   "tag": "pilot_jinxed",
   "quirkName": "Jinxed",
-  "description": " +5% Stability Damage Taken, -2 Max Evasion",
+  "description": "",
   "effectData": [
     {
       "durationData": {

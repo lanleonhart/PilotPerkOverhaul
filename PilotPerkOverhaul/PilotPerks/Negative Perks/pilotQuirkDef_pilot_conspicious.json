@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_conspicious",
     "tag": "pilot_conspicious",
     "quirkName": "Conspicuous",
-    "description": "+5% Visibility.",
+    "description": "",
 "effectData": [  {
   "durationData": {
     "duration": -1,

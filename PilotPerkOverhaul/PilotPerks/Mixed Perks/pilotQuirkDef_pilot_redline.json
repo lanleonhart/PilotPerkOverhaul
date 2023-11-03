@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_redline",
     "tag": "pilot_redline",
     "quirkName": "Riding the Line",
-    "description": "-3% Heat Gen. +5 Heat Cap. +10% Visibility.",
+    "description": "",
 "effectData": [
   {
     "durationData": {

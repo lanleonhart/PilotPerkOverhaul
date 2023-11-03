@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_noble",
   "tag": "pilot_noble",
   "quirkName": "Noble",
-  "description": "[-5% Lance Resolve, -1 Gunnery, +1 Guts]",
+  "description": "",
   "effectData": [
     {
       "durationData": {

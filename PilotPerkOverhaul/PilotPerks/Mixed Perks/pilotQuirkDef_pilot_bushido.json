@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_bushido",
     "tag": "pilot_bushido",
     "quirkName": "Bushido",
-    "description": "+1 Initiative. No Ejection.",
+    "description": "",
 "effectData": [
   {
     "durationData": {

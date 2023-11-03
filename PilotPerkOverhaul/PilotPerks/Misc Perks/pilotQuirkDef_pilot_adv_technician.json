@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_adv_technician",
     "tag": "pilot_adv_technician",
     "quirkName": "Advanced Technician",
-    "description": "+2 Mech Tech. Increased Upkeep.",
+    "description": "",
 "effectData": [],
   "quirkEffects": [
     {

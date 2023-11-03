@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_deadeye",
     "tag": "pilot_deadeye",
     "quirkName": "DeadEye",
-    "description": "[+1 Acc, +1 Gunnery, Multi-Trac].",
+    "description": "",
 "effectData": [
   {
     "durationData": {

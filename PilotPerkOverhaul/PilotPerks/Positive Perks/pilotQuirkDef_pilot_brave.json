@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_brave",
   "tag": "pilot_brave",
   "quirkName": "Brave",
-  "description": " [+1 Guts, -1 Recoil, +2% Heat Generation, +5% Resolve Gain]",
+  "description": "",
   "effectData": [
     {
       "durationData": {

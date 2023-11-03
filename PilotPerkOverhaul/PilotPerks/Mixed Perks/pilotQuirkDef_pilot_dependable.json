@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_dependable",
   "tag": "pilot_dependable",
   "quirkName": "Dependable",
-  "description": " [+2 Initiative, -5% Jam Chance, +3 Indirect Accuracy]",
+  "description": "",
   "effectData": [
     {
       "durationData": {

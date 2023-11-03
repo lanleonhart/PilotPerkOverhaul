@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_calm",
     "tag": "pilot_calm",
     "quirkName": "Calm",
-    "description": "-10% Chance to panic.",
+    "description": "",
 "effectData": [
   {
   "durationData": {

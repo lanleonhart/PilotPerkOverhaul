@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_reserve",
     "tag": "pilot_reserve",
     "quirkName": "Reserve Pilot",
-    "description": "This individual has training on Battlemechs but sticks to fixing them if given the choice.",
+    "description": "",
 "effectData": [],
   "quirkEffects": [
     {

@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_wealthy",
   "tag": "pilot_wealthy",
   "quirkName": "Wealthy",
-  "description": "-1 to All Skills, + 2 Initiative, -5% Heat Generation",
+  "description": "",
   "effectData": [
     {
       "durationData": {

@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_spacer",
   "tag": "pilot_spacer",
   "quirkName": "Spacer",
-  "description": "[+1 Tactics, +1 Guts]",
+  "description": "",
   "effectData": [
     {
       "durationData": {

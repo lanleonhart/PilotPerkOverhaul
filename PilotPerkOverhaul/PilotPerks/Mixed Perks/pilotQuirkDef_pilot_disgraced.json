@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_disgraced",
   "tag": "pilot_disgraced",
   "quirkName": "Disgraced",
-  "description": "+1 ECM Shield and Probe. -1 Morale.",
+  "description": "",
   "effectData": [
     {
       "durationData": {

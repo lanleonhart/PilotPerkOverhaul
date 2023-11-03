@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_officer",
   "tag": "pilot_officer",
   "quirkName": "Officer",
-  "description": "[+1 Lance Initiative, +1 Guts, +1 Tactics, -1 Recoil]",
+  "description": "",
   "effectData": [
     {
       "durationData": {

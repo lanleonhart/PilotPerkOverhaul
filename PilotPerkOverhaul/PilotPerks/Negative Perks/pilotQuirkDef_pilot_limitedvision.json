@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_limitedvision",
     "tag": "pilot_limitedvision",
     "quirkName": "Limited Vision",
-    "description": "-2% chance to hit.",
+    "description": ".",
 "effectData": [
   {
     "durationData": {

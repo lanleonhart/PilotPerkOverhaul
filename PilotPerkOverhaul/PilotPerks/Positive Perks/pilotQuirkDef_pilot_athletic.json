@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_athletic",
   "tag": "pilot_athletic",
   "quirkName": "Athletic",
-  "description": " [ +1 HP, +1 Max EVA ]",
+  "description": "",
   "effectData": [
       {
         "durationData": {

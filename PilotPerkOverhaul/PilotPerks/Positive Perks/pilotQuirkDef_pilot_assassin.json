@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_assassin",
   "tag": "pilot_assassin",
   "quirkName": "Assassin",
-  "description": "[+5% Called Shot, +1  Evasion]",
+  "description": "",
   "effectData": [
     {
       "durationData": {

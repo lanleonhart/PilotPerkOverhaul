@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_military",
   "tag": "pilot_military",
   "quirkName": "Ex-Military",
-  "description": "[+2 Tactics, Increased Spotting Range]",
+  "description": "",
   "effectData": [
     {
     "durationData": {

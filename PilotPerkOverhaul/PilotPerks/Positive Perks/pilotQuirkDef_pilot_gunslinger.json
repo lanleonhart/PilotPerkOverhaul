@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_gunslinger",
     "tag": "pilot_gunslinger",
     "quirkName": "Gunslinger",
-    "description": "[+1 Acc, +2 Max Evasion, +3% Called Shot -3% Chance to Jam]",
+    "description": "",
 "effectData": [
   {
     "durationData": {

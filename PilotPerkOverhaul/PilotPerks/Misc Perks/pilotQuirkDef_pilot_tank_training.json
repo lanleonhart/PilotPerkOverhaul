@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_tank_training",
     "tag": "pilot_tank_training",
     "quirkName": "Tank Training",
-    "description": "This pilot has been trained to operate tanks.",
+    "description": "",
 "effectData": [],
   "quirkEffects": [
     {

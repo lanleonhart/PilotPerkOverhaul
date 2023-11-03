@@ -2,7 +2,7 @@
     "id": "pilotQuirkDef_pilot_novice_technician",
     "tag": "pilot_novice_technician",
     "quirkName": "Novice Technician",
-    "description": "+0.5 Mech Tech.",
+    "description": "",
 "effectData": [],
   "quirkEffects": [
     {
