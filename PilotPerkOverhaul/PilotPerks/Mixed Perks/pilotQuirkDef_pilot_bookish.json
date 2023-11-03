@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_bookish",
   "tag": "pilot_bookish",
   "quirkName": "Bookish",
-  "description": "+5%Sight&Sensors. +5% Pilot Upkeep",
+  "description": "[-1 Guts, +1 MechTech]",
   "effectData": [
     {
       "durationData": {
@@ -17,43 +17,18 @@
       },
       "effectType": "StatisticEffect",
       "Description": {
-        "Id": "ComstarQuirkSensor",
-        "Name": "Beagle Probe",
-        "Details": "Increased Sight/Sensors",
+        "Id": "GutsBuff",
+        "Name": "Guts Skill +1",
+        "Details": "Buffs Guts Skill",
         "Icon": "uixSvgIcon_equipment_Cockpit"
       },
       "nature": "Buff",
       "statisticData": {
-        "statName": "SensorDistanceAbsolute",
-        "operation": "Float_Multiply",
-        "modValue": "1.05",
-        "modType": "System.Single"
-      }
-    },
-    {
-      "durationData": {
-        "duration": -1,
-        "stackLimit": -1
-      },
-      "targetingData": {
-        "effectTriggerType": "Passive",
-        "effectTargetType": "Creator",
-        "showInTargetPreview": false,
-        "showInStatusPanel": false
-      },
-      "effectType": "StatisticEffect",
-      "Description": {
-        "Id": "ComstarQuirkSpotting",
-        "Name": "SPOTTING DISTANCE INCREASED",
-        "Details": "Increases spotting distance by 50m.",
-        "Icon": "uixSvgIcon_equipment_Cockpit"
-      },
-      "nature": "Buff",
-      "statisticData": {
-        "statName": "SpotterDistanceAbsolute",
-        "operation": "Float_Multiply",
-        "modValue": "1.05",
-        "modType": "System.Single"
+        "statName": "Guts",
+        "operation": "Int_Add",
+        "modValue": "-1",
+        "modType": "System.Int32",
+        "targetCollection": "Pilot"
       }
     }
   ],
@@ -61,6 +36,12 @@
     {
       "type": "PilotCostFactor",
       "modifier": 0.05,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    },
+    {
+      "type": "MechTech",
+      "modifier": 1.0,
       "secondaryModifier": 0.0,
       "affectedIds": []
     }

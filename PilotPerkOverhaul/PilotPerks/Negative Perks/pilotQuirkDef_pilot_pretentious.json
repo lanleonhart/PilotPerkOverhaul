@@ -3,7 +3,34 @@
     "tag": "pilot_pretentious",
     "quirkName": "Pretentious",
     "description": "-5% Lance Resolve.",
-"effectData": [],
+"effectData": [
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "AllLanceMates",
+      "showInTargetPreview": false,
+      "showInStatusPanel": false
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "ResolveGainLance",
+      "Name": "Lance Resolve Generation",
+      "Details": "Provides a bonus to actions that generate Morale.",
+      "Icon": "uixSvgIcon_equipment_Cockpit"
+    },
+    "nature": "Buff",
+    "statisticData": {
+      "statName": "resolveGenBaseMult",
+      "operation": "Float_Multiply",
+      "modValue": "0.95",
+      "modType": "System.Single"
+    }
+  }
+],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",

@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_lucky",
   "tag": "pilot_lucky",
   "quirkName": "Lucky",
-  "description": "+0.5 Clustering. -10% Jam Chance Multi. +10% Upkeep",
+  "description": "-1 To Hit, +2 Max Evasion ",
   "effectData": [
     {
       "durationData": {
@@ -15,18 +15,18 @@
       },
       "effectType": "StatisticEffect",
       "Description": {
-        "Id": "LuckyJamChance",
-        "Name": "Improved Called Shot",
-        "Details": "Called Shots twice as reliable",
-        "Icon": "uixSvgIcon_ability_mastertactician"
+        "Id": "StatusEffect-MaxEVA",
+        "Name": "Increase Max Evasive Pips",
+        "Details": "This unit has an increased maximum evasion.",
+        "Icon": "uixSvgIcon_action_evasivemove"
       },
       "statisticData": {
-        "statName": "CACModJammingChance",
-        "operation": "Float_Multiply",
-        "modValue": "0.9",
-        "modType": "System.Single",
-        "targetCollection": "Weapon"
-      }
+        "statName": "MaxEvasivePips",
+        "operation": "Int_Add",
+        "modValue": "2",
+        "modType": "System.Int32"
+      },
+      "nature": "Buff"
     },
     {
       "durationData": {
@@ -35,29 +35,30 @@
       },
       "targetingData": {
         "effectTriggerType": "Passive",
-        "effectTargetType": "Creator"
+        "effectTargetType": "EnemiesWithinRange",
+        "showInTargetPreview": false,
+        "showInStatusPanel": false
       },
       "effectType": "StatisticEffect",
       "Description": {
-        "Id": "StatusEffect_BCCluster",
-        "Name": "Laser Weapon Cluster Chance Improved",
-        "Details": "Substantially increases the clustering of this unit's LRM weapons.",
-        "Icon": "AdvancedTC"
+        "Id": "StatusEffect-ChanceToHit",
+        "Name": " Hit Chance Against Unit",
+        "Details": "All attacks against this units suffer a penalty",
+        "Icon": "uixSvgIcon_equipment_Gyro"
       },
       "nature": "Buff",
       "statisticData": {
-        "statName": "ClusteringModifier",
+        "statName": "ToHitThisActor",
         "operation": "Float_Add",
-        "modValue": "0.5",
-        "modType": "System.Single",
-        "targetCollection": "Weapon"
+        "modValue": "1.0",
+        "modType": "System.Single"
       }
     }
   ],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",
-      "modifier": 0.05,
+      "modifier": 0.12,
       "secondaryModifier": 0.0,
       "affectedIds": []
     }

@@ -3,11 +3,70 @@
     "tag": "pilot_zealot",
     "quirkName": "Fanatical Zealot",
     "description": "+1 HP. +20% Max Run Distance. No Ejection.",
-"effectData": [],
+"effectData": [
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator"
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "PrimitiveCockpitEject",
+      "Name": "Torso Mount Cockpit: Disallow Ejection",
+      "Details": "PASSIVE: Attacking with a single weapon ignores COVER and GUARDED on the target.",
+      "Icon": "uixSvgIcon_ability_precisionstrike"
+    },
+    "statisticData": {
+      "statName": "CanEject",
+      "operation": "Set",
+      "modValue": "false",
+      "modType": "System.Boolean",
+      "targetCollection": "Pilot"
+    },
+    "nature": "Buff"
+  },
+  {
+    "Description" : {
+        "Id" : "StatusEffect-TSM-SprintSpeed",
+        "Name" : "PROTOTYPE TRIPLE MYOMER",
+        "Details" : "This unit's improved myomer muscle technology improves its movement speed by [AMT].",
+        "Icon" : "UixSvgIcon_specialEquip_System"
+    },
+    "effectType" : "StatisticEffect",
+    "nature" : "Buff",
+    "durationData" : {
+        "duration" : -1,
+        "stackLimit" : -1
+    },
+    "targetingData" : {
+        "effectTriggerType" : "Passive",
+        "effectTargetType" : "Creator",
+        "showInTargetPreview" : false,
+        "showInStatusPanel" : false,
+        "hideApplicationFloatie" : true
+    },
+    "statisticData" : {
+        "statName" : "RunSpeed",
+        "operation" : "Float_Multiply",
+        "modValue" : "1.2",
+        "modType" : "System.Single"
+    }
+  }
+],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",
       "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    },
+    {
+      "type": "PilotHealth",
+      "modifier": 1.0,
       "secondaryModifier": 0.0,
       "affectedIds": []
     }

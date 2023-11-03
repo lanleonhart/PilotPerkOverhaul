@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_reckless",
   "tag": "pilot_reckless",
   "quirkName": "Reckless",
-  "description": "+1 Evasion Ignore. -1 Max Evasion.",
+  "description": "+3% Jam Chance, +5% Stability Damage Taken, +20% Run Distance",
   "effectData": [
     {
       "durationData": {
@@ -11,25 +11,50 @@
       },
       "targetingData": {
         "effectTriggerType": "Passive",
-        "specialRules": "NotSet",
         "effectTargetType": "Creator",
         "showInTargetPreview": false,
         "showInStatusPanel": false
       },
       "effectType": "StatisticEffect",
       "Description": {
-        "Id": "RecklessQuirkEvaIgnore",
-        "Name": "CLAN TTS",
-        "Details": "+2Acc, +50% Crit, +30% Range, -50%MinRange for ALL Weapons.",
-        "Icon": "AdvancedTC"
+        "Id": "Ultralightpenalty",
+        "Name": "Gyro UL: Increased Stability Damage Taken",
+        "Details": "Suffers a Stability penalty.",
+        "Icon": "uixSvgIcon_equipment_Gyro"
       },
       "nature": "Buff",
       "statisticData": {
-        "statName": "EvasivePipsIgnored",
-        "operation": "Float_Add",
-        "modValue": "1.0",
-        "modType": "System.Single",
-        "targetCollection": "Weapon"
+        "statName": "ReceivedInstabilityMultiplier",
+        "operation": "Float_Multiply",
+        "modValue": "1.05",
+        "modType": "System.Single"
+      }
+    },
+    {
+      "Description" : {
+          "Id" : "StatusEffect-TSM-SprintSpeed",
+          "Name" : "PROTOTYPE TRIPLE MYOMER",
+          "Details" : "This unit's improved myomer muscle technology improves its movement speed by [AMT].",
+          "Icon" : "UixSvgIcon_specialEquip_System"
+      },
+      "effectType" : "StatisticEffect",
+      "nature" : "Buff",
+      "durationData" : {
+          "duration" : -1,
+          "stackLimit" : -1
+      },
+      "targetingData" : {
+          "effectTriggerType" : "Passive",
+          "effectTargetType" : "Creator",
+          "showInTargetPreview" : false,
+          "showInStatusPanel" : false,
+          "hideApplicationFloatie" : true
+      },
+      "statisticData" : {
+          "statName" : "RunSpeed",
+          "operation" : "Float_Multiply",
+          "modValue" : "1.2",
+          "modType" : "System.Single"
       }
     },
     {
@@ -43,19 +68,27 @@
       },
       "effectType": "StatisticEffect",
       "Description": {
-        "Id": "RecklessQuirkEvaPenalty",
-        "Name": "EVASIVE MOVE",
-        "Details": "This unit generates an extra EVASIVE charge from movement actions (up to its maximum).",
-        "Icon": "uixSvgIcon_action_evasivemove"
+        "Id": "LocationJam",
+        "Name": "Decreased Jam Chance ",
+        "Details": "Less likely to Jam",
+        "Icon": "uixSvgIcon_ability_mastertactician"
       },
       "statisticData": {
-        "statName": "MaxEvasivePips",
-        "operation": "Int_Add",
-        "modValue": "-1",
-        "modType": "System.Int32"
-      },
-      "nature": "Buff"
+        "statName": "CACModJammingChance",
+        "operation": "Float_Multiply",
+        "modValue": "1.03",
+        "modType": "System.Single",
+        "targetCollection": "Weapon",
+        "Location": "{current}"
+      }
     }
   ],
-  "quirkEffects": []
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.22,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
 }

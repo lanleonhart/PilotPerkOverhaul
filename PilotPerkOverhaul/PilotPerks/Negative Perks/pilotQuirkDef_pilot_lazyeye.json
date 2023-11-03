@@ -3,7 +3,32 @@
     "tag": "pilot_lazyeye",
     "quirkName": "Lazy Eye",
     "description": "-1 Accuracy.",
-"effectData": [],
+"effectData": [
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator"
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "StatusEffect-Attack_ToHitBallistic-T1",
+      "Name": "FCS Ballistic Accuracy: Improved Ballistic Accuracy",
+      "Details": "+1Acc for Ballistic Weapons.",
+      "Icon": "targeting"
+    },
+    "nature": "Buff",
+    "statisticData": {
+      "statName": "AccuracyModifier",
+      "operation": "Float_Add",
+      "modValue": "1.0",
+      "modType": "System.Single"
+    }
+  }
+],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",

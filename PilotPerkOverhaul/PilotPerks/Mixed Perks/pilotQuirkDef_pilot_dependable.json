@@ -2,8 +2,59 @@
   "id": "pilotQuirkDef_pilot_dependable",
   "tag": "pilot_dependable",
   "quirkName": "Dependable",
-  "description": "-5% Stability Taken. Improved Panic Resist. +5% Upkeep",
+  "description": " [+2 Initiative, -5% Jam Chance, +3 Indirect Accuracy]",
   "effectData": [
+    {
+      "durationData": {
+        "duration": -1,
+        "stackLimit": -1
+      },
+      "targetingData": {
+        "effectTriggerType": "Passive",
+        "effectTargetType": "Creator",
+        "showInTargetPreview": false,
+        "showInStatusPanel": false
+      },
+      "effectType": "StatisticEffect",
+      "Description": {
+        "Id": "PilotInitiative",
+        "Name": "Improved Initiative",
+        "Details": "Provides + 1 Initiative.",
+        "Icon": "uixSvgIcon_equipment_Cockpit"
+      },
+      "nature": "Buff",
+      "statisticData": {
+        "statName": "SBI_MOD_MISC",
+        "operation": "Int_Add",
+        "modValue": "2",
+        "modType": "System.Int32"
+      }
+    },
+    {
+      "durationData": {
+        "duration": -1,
+        "stackLimit": -1
+      },
+      "targetingData": {
+        "effectTriggerType": "Passive",
+        "effectTargetType": "Creator"
+      },
+      "effectType": "StatisticEffect",
+      "Description": {
+        "Id": "LocationJam",
+        "Name": "Decreased Jam Chance ",
+        "Details": "Less likely to Jam",
+        "Icon": "uixSvgIcon_ability_mastertactician"
+      },
+      "statisticData": {
+        "statName": "CACModJammingChance",
+        "operation": "Float_Multiply",
+        "modValue": "0.95",
+        "modType": "System.Single",
+        "targetCollection": "Weapon",
+        "Location": "{current}"
+      }
+    },
     {
       "durationData": {
         "duration": -1,
@@ -17,24 +68,25 @@
       },
       "effectType": "StatisticEffect",
       "Description": {
-        "Id": "DependableStabilityQuirk",
-        "Name": "INCOMING STABILITY DAMAGE DECREASED",
-        "Details": "Incoming stability damage reduced by 10%.",
-        "Icon": "uixSvgIcon_equipment_Gyro"
+        "Id": "StatusEffect-Indirect_Bonus",
+        "Name": "Improved Indirect Hit Chance",
+        "Details": "Indirect Attacks Have a +1 Acc.",
+        "Icon": "targeting"
       },
       "nature": "Buff",
       "statisticData": {
-        "statName": "ReceivedInstabilityMultiplier",
-        "operation": "Float_Multiply",
-        "modValue": "0.95",
+        "statName": "ToHitIndirectModifier",
+        "operation": "Float_Add",
+        "modValue": "3.0",
         "modType": "System.Single"
       }
     }
+
   ],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",
-      "modifier": 0.05,
+      "modifier": 0.35,
       "secondaryModifier": 0.0,
       "affectedIds": []
     }
