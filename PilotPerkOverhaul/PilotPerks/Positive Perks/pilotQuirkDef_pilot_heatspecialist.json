@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_heatspecialist",
+    "tag": "pilot_heatspecialist",
+    "quirkName": "Specialist: Heat Management",
+    "description": "-8% Heat Generation.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

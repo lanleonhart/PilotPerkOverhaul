@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_novice_technician",
+    "tag": "pilot_novice_technician",
+    "quirkName": "Novice Technician",
+    "description": "0.5 Mech Tech.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

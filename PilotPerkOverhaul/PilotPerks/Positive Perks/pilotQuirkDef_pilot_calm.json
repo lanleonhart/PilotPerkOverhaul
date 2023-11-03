@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_calm",
+    "tag": "pilot_calm",
+    "quirkName": "Calm",
+    "description": "-10% Chance to panic.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

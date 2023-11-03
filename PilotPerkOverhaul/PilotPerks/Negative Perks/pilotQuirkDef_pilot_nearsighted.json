@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_nearsighted",
+    "tag": "pilot_nearsighted",
+    "quirkName": "Near Sighted",
+    "description": "Spotting Range -100 meters.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

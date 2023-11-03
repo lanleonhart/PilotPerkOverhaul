@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_lazyeye",
+    "tag": "pilot_lazyeye",
+    "quirkName": "Lazy Eye",
+    "description": "-1 Accuracy.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

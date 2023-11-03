@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_lamspecialist",
+    "tag": "pilot_lamspecialist",
+    "quirkName": "Specialist: LAM Piloting",
+    "description": "+30% Jump Jet Distance. +2 Max Evasion. +1 Piloting.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

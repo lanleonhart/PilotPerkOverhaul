@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_limitedvision",
+    "tag": "pilot_limitedvision",
+    "quirkName": "Limited Vision",
+    "description": "-15% chance to hit.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

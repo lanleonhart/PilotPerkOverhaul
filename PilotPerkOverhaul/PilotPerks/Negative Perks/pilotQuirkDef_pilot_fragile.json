@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_fragile",
+    "tag": "pilot_fragile",
+    "quirkName": "Fragile",
+    "description": "-2 HP.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

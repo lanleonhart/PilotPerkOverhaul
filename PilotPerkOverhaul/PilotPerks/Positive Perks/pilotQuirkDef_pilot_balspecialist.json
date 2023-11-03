@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_balspecialist",
+    "tag": "pilot_balspecialist",
+    "quirkName": "Specialist: Ballistic",
+    "description": "+5% Ballistic Weapon Dmg. -1 Recoil.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

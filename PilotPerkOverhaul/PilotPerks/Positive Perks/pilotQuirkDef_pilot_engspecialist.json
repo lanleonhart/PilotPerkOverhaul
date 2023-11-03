@@ -1,0 +1,15 @@
+{
+  "id": "pilotQuirkDef_pilot_engspecialist",
+  "tag": "pilot_engspecialist",
+  "quirkName": "Specialist: Energy",
+  "description": "+5% Energy Weapon Dmg. +1 Energy Accuracy.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

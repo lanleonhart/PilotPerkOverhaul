@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_pretentious",
+    "tag": "pilot_pretentious",
+    "quirkName": "Pretentious",
+    "description": "-5% Lance Resolve.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

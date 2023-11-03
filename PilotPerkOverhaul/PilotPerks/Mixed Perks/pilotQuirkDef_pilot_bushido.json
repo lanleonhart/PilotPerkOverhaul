@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_bushido",
+    "tag": "pilot_bushido",
+    "quirkName": "Bushido",
+    "description": "+1 Initiative. No Ejection.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

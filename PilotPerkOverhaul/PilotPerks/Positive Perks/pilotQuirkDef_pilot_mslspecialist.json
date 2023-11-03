@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_mslspecialist",
+    "tag": "pilot_mslspecialist",
+    "quirkName": "Specialist: Missile",
+    "description": "+5% Missile Weapon Dmg. +5% Indirect Fire Accuracy.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

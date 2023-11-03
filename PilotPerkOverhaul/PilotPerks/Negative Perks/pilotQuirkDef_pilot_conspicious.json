@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_conspicious",
+    "tag": "pilot_conspicious",
+    "quirkName": "Conspicuous",
+    "description": "+5% Visibility.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

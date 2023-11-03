@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_gunslinger",
+    "tag": "pilot_gunslinger",
+    "quirkName": "Gunslinger",
+    "description": "+1 Accuracy. +2 Max Evasion. +3% Called Shot. -3% Chance to Jam.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_reject",
+    "tag": "pilot_reject",
+    "quirkName": "Experiment Reject",
+    "description": "-1 to All Skills. -2 HP. -1 Accuracy.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

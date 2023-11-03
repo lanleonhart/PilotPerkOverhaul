@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_tank_training",
+    "tag": "pilot_tank_training",
+    "quirkName": "Tank Training",
+    "description": "This pilot has been trained to operate tanks.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

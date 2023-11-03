@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_nervous",
+    "tag": "pilot_nervous",
+    "quirkName": "Nervous",
+    "description": "-3% Accuracy. Chance to Panic.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

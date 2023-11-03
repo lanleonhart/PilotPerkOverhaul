@@ -1,0 +1,15 @@
+{
+    "id": "pilotQuirkDef_pilot_deadeye",
+    "tag": "pilot_deadeye",
+    "quirkName": "DeadEye",
+    "description": "+5% Chance to Hit. +1 Gunnery. Multi-Trac.",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.15,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}
