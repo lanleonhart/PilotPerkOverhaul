@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_gladiator",
   "tag": "pilot_gladiator",
   "quirkName": "Gladiator",
-  "description": "+5% Punch/Kick/Phys Melee Damage & Stability. +20% Upkeep.",
+  "description": "[+1 Acc, +2 Max Evasion, +3% Called Shot -3% Chance to Jam]",
   "effectData": [
     {
       "durationData": {
@@ -17,16 +17,16 @@
       },
       "effectType": "StatisticEffect",
       "Description": {
-        "Id": "TSM_Damage_Weapon",
-        "Name": "Melee Weapon Damage Mod",
-        "Details": "Damage Modifier",
-        "Icon": "uixSvgIcon_equipment_ActuatorArm"
+        "Id": "StatusEffect-ChanceToHit",
+        "Name": " Hit Chance Against Unit",
+        "Details": "All attacks from this unit has a accuracy bonus",
+        "Icon": "uixSvgIcon_equipment_Gyro"
       },
       "nature": "Buff",
       "statisticData": {
-        "statName": "CBTBE_Physical_Weapon_Target_Damage_Multi",
-        "operation": "Float_Multiply",
-        "modValue": "1.05",
+        "statName": "AccuracyModifier",
+        "operation": "Float_Add",
+        "modValue": "-1.0",
         "modType": "System.Single"
       }
     },
@@ -37,22 +37,43 @@
       },
       "targetingData": {
         "effectTriggerType": "Passive",
-        "effectTargetType": "Creator",
-        "showInTargetPreview": false,
-        "showInStatusPanel": false
+        "effectTargetType": "Creator"
       },
       "effectType": "StatisticEffect",
       "Description": {
-        "Id": "TSM_Stability_Weapon",
-        "Name": "Melee Weapon Damage Mod",
-        "Details": "Damage Modifier",
-        "Icon": "uixSvgIcon_equipment_ActuatorArm"
+        "Id": "StatusEffect-MaxEVA",
+        "Name": "Increase Max Evasive Pips",
+        "Details": "This unit has an increased maximum evasion.",
+        "Icon": "uixSvgIcon_action_evasivemove"
       },
-      "nature": "Buff",
       "statisticData": {
-        "statName": "CBTBE_Physical_Weapon_Target_Instability_Multi",
+        "statName": "MaxEvasivePips",
+        "operation": "Int_Add",
+        "modValue": "2",
+        "modType": "System.Int32"
+      },
+      "nature": "Buff"
+    },
+    {
+      "durationData": {
+        "duration": -1,
+        "stackLimit": -1
+      },
+      "targetingData": {
+        "effectTriggerType": "Passive",
+        "effectTargetType": "Creator"
+      },
+      "effectType": "StatisticEffect",
+      "Description": {
+        "Id": "StatusEffect-RequireNI",
+        "Name": "Vehicular DNI Activatable: Increased Called Shot Targeted Location Hit Chance",
+        "Details": "Called Shots twice as reliable",
+        "Icon": "uixSvgIcon_ability_mastertactician"
+      },
+      "statisticData": {
+        "statName": "CalledShotBonusMultiplier",
         "operation": "Float_Multiply",
-        "modValue": "1.05",
+        "modValue": "1.03",
         "modType": "System.Single"
       }
     },
@@ -63,101 +84,22 @@
       },
       "targetingData": {
         "effectTriggerType": "Passive",
-        "effectTargetType": "Creator",
-        "showInTargetPreview": false,
-        "showInStatusPanel": false
+        "effectTargetType": "Creator"
       },
       "effectType": "StatisticEffect",
       "Description": {
-        "Id": "TSM_Damage_Punch",
-        "Name": "Melee Weapon Damage Mod",
-        "Details": "Damage Modifier",
-        "Icon": "uixSvgIcon_equipment_ActuatorArm"
+        "Id": "LocationJam",
+        "Name": "Decreased Jam Chance ",
+        "Details": "Less likely to Jam",
+        "Icon": "uixSvgIcon_ability_mastertactician"
       },
-      "nature": "Buff",
       "statisticData": {
-        "statName": "CBTBE_Punch_Target_Damage_Multi",
+        "statName": "CACModJammingChance",
         "operation": "Float_Multiply",
-        "modValue": "1.05",
-        "modType": "System.Single"
-      }
-    },
-    {
-      "durationData": {
-        "duration": -1,
-        "stackLimit": -1
-      },
-      "targetingData": {
-        "effectTriggerType": "Passive",
-        "effectTargetType": "Creator",
-        "showInTargetPreview": false,
-        "showInStatusPanel": false
-      },
-      "effectType": "StatisticEffect",
-      "Description": {
-        "Id": "TSM_Stability_Punch",
-        "Name": "Melee Weapon Damage Mod",
-        "Details": "Damage Modifier",
-        "Icon": "uixSvgIcon_equipment_ActuatorArm"
-      },
-      "nature": "Buff",
-      "statisticData": {
-        "statName": "CBTBE_Punch_Target_Instability_Multi",
-        "operation": "Float_Multiply",
-        "modValue": "1.05",
-        "modType": "System.Single"
-      }
-    },
-    {
-      "durationData": {
-        "duration": -1,
-        "stackLimit": -1
-      },
-      "targetingData": {
-        "effectTriggerType": "Passive",
-        "effectTargetType": "Creator",
-        "showInTargetPreview": false,
-        "showInStatusPanel": false
-      },
-      "effectType": "StatisticEffect",
-      "Description": {
-        "Id": "TSM_Damage_Kick",
-        "Name": "Melee Weapon Damage Mod",
-        "Details": "Damage Modifier",
-        "Icon": "uixSvgIcon_equipment_ActuatorArm"
-      },
-      "nature": "Buff",
-      "statisticData": {
-        "statName": "CBTBE_Kick_Target_Damage_Multi",
-        "operation": "Float_Multiply",
-        "modValue": "1.05",
-        "modType": "System.Single"
-      }
-    },
-    {
-      "durationData": {
-        "duration": -1,
-        "stackLimit": -1
-      },
-      "targetingData": {
-        "effectTriggerType": "Passive",
-        "effectTargetType": "Creator",
-        "showInTargetPreview": false,
-        "showInStatusPanel": false
-      },
-      "effectType": "StatisticEffect",
-      "Description": {
-        "Id": "TSM_Stability_Kick",
-        "Name": "Melee Weapon Damage Mod",
-        "Details": "Damage Modifier",
-        "Icon": "uixSvgIcon_equipment_ActuatorArm"
-      },
-      "nature": "Buff",
-      "statisticData": {
-        "statName": "CBTBE_Kick_Target_Instability_Multi",
-        "operation": "Float_Multiply",
-        "modValue": "1.05",
-        "modType": "System.Single"
+        "modValue": "0.97",
+        "modType": "System.Single",
+        "targetCollection": "Weapon",
+        "Location": "{current}"
       }
     }
   ],

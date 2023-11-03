@@ -3,11 +3,44 @@
     "tag": "pilot_resilient",
     "quirkName": "Resilient",
     "description": "+3 HP. -10% Stability Damage.",
-"effectData": [],
+"effectData": [
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator",
+      "showInTargetPreview": false,
+      "showInStatusPanel": false
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "Ultralightpenalty",
+      "Name": "Gyro UL: Increased Stability Damage Taken",
+      "Details": "Suffers a Stability penalty.",
+      "Icon": "uixSvgIcon_equipment_Gyro"
+    },
+    "nature": "Buff",
+    "statisticData": {
+      "statName": "ReceivedInstabilityMultiplier",
+      "operation": "Float_Multiply",
+      "modValue": "0.9",
+      "modType": "System.Single"
+    }
+  }
+],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",
-      "modifier": 0.15,
+      "modifier": 0.30,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    },
+    {
+      "type": "PilotHealth",
+      "modifier": 3.0,
       "secondaryModifier": 0.0,
       "affectedIds": []
     }

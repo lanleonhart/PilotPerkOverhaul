@@ -2,12 +2,72 @@
     "id": "pilotQuirkDef_pilot_mslspecialist",
     "tag": "pilot_mslspecialist",
     "quirkName": "Specialist: Missile",
-    "description": "+5% Missile Weapon Dmg. +5% Indirect Fire Accuracy.",
-"effectData": [],
+    "description": "+5% Missile Weapon Dmg. +1 Indirect Fire Accuracy.",
+"effectData": [
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTargetsCreator": true,
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator",
+      "showInTargetPreview": false,
+      "showInStatusPanel": false
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "BallisticDamageReduction",
+      "Name": "Ballistic Damage Buff",
+      "Details": "Ballistic damage Buff by 5%.",
+      "Icon": "uixSvgIcon_action_end"
+    },
+    "nature": "Buff",
+    "statisticData": {
+      "statName" : "DamagePerShot",
+                "operation" : "Float_Multiply",
+                "modValue" : "1.05",
+                "modType" : "System.Single",
+                "additionalRules" : "NotSet",
+                "targetCollection" : "Weapon",
+                "targetWeaponCategory" : "Missile",
+                "targetWeaponType" : "NotSet",
+                "targetAmmoCategory" : "NotSet",
+                "targetWeaponSubType" : "NotSet"
+    }
+  },
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": 1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator",
+      "showInTargetPreview": false,
+      "showInStatusPanel": false
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "StatusEffect-Indirect_Bonus",
+      "Name": "Improved Indirect Hit Chance",
+      "Details": "Indirect Attacks Have a +1 Acc.",
+      "Icon": "targeting"
+    },
+    "nature": "Buff",
+    "statisticData": {
+      "statName": "ToHitIndirectModifier",
+      "operation": "Float_Add",
+      "modValue": "-1.0",
+      "modType": "System.Single"
+    }
+  }
+],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",
-      "modifier": 0.15,
+      "modifier": 0.30,
       "secondaryModifier": 0.0,
       "affectedIds": []
     }

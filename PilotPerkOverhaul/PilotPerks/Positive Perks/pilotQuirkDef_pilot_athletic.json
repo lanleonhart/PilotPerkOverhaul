@@ -2,45 +2,39 @@
   "id": "pilotQuirkDef_pilot_athletic",
   "tag": "pilot_athletic",
   "quirkName": "Athletic",
-  "description": "+1 Bonus Health. Faster fatigue recovery. +5% Upkeep",
+  "description": " [ +1 HP, +1 Max EVA ]",
   "effectData": [
-    {
-      "durationData": {
-        "duration": -1
-      },
-      "targetingData": {
-        "effectTriggerType": "Passive",
-        "triggerLimit": 0,
-        "extendDurationOnTrigger": 0,
-        "specialRules": "NotSet",
-        "effectTargetType": "Creator",
-        "range": 0,
-        "forcePathRebuild": false,
-        "forceVisRebuild": false,
-        "showInTargetPreview": false,
-        "showInStatusPanel": false
-      },
-      "effectType": "StatisticEffect",
-      "Description": {
-        "Id": "QuirkAthleticKillThreshold",
-        "Name": "Decreases Heat Generation",
-        "Details": "Heat generation reduced by 10%",
-        "Icon": "uixSvgIcon_ability_mastertactician"
-      },
-      "statisticData": {
-        "targetCollection": "Pilot",
-        "statName": "MissionKilledThreshold",
-        "operation": "Int_Add",
-        "modValue": "1",
-        "modType": "System.Int32"
-      },
-      "nature": "Buff"
-    }
+      {
+        "durationData": {
+          "duration": -1,
+          "stackLimit": -1
+        },
+        "targetingData": {
+          "effectTriggerType": "Passive",
+          "effectTargetType": "Creator",
+          "showInTargetPreview": false,
+          "showInStatusPanel": false
+        },
+        "effectType": "StatisticEffect",
+        "Description": {
+          "Id": "GainEvasion",
+          "Name": "Gain Evasive PIPs",
+          "Details": "Gains Additional Evasion Pips While Active.",
+          "Icon": "uixSvgIcon_equipment_Gyro"
+        },
+        "nature": "Buff",
+        "statisticData": {
+          "statName": "EvasivePipsGainedAdditional",
+          "operation": "Int_Add",
+          "modValue": "1",
+          "modType": "System.Int32"
+        }
+      }
   ],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",
-      "modifier": 0.05,
+      "modifier": 0.10,
       "secondaryModifier": 0.0,
       "affectedIds": []
     },

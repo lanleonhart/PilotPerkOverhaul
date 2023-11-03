@@ -2,26 +2,18 @@
   "id": "pilotQuirkDef_pilot_merchant",
   "tag": "pilot_merchant",
   "quirkName": "Merchant",
-  "description": "Reduces upkeep of Argo Upgrades by 5%. 5% Chance for 1000 Cbills/Day. 10% Pilot Upkeep.",
+  "description": "Well versed in the act of moving goods where they need to be. This individual has a knack for acquiring LostTech. [+1 Salvage]",
   "effectData": [],
   "quirkEffects": [
     {
-      "type": "CriminalEffect",
-      "modifier": 5.0,
-      "secondaryModifier": -1000.0,
+      "type": "AdditionalSalvage",
+      "modifier": 1,
+      "secondaryModifier": 0,
       "affectedIds": []
     },
     {
-      "type": "ArgoUpkeepFactor",
-      "modifier": 0.95,
-      "secondaryModifier": 0.0,
-      "affectedIds": [
-        "PqAllArgoUpgrades"
-      ]
-    },
-    {
       "type": "PilotCostFactor",
-      "modifier": 0.1,
+      "modifier": 0.12,
       "secondaryModifier": 0.0,
       "affectedIds": []
     }

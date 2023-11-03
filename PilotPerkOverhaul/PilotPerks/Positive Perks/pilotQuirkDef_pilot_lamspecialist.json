@@ -2,8 +2,86 @@
     "id": "pilotQuirkDef_pilot_lamspecialist",
     "tag": "pilot_lamspecialist",
     "quirkName": "Specialist: LAM Piloting",
-    "description": "+30% Jump Jet Distance. +2 Max Evasion. +1 Piloting.",
-"effectData": [],
+    "description": "+15% Jump Jet Distance. +2 Max Evasion. +1 Piloting.",
+"effectData": [
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator",
+      "showInTargetPreview": false,
+      "showInStatusPanel": false
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "PilotingBuff",
+      "Name": "Piloting Skill +1",
+      "Details": "Buffs Piloting Skill",
+      "Icon": "uixSvgIcon_equipment_Cockpit"
+    },
+    "nature": "Buff",
+    "statisticData": {
+      "statName": "Piloting",
+      "operation": "Int_Add",
+      "modValue": "1",
+      "modType": "System.Int32",
+      "targetCollection": "Pilot"
+    }
+  },
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator"
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "StatusEffect-MaxEVA",
+      "Name": "Increase Max Evasive Pips",
+      "Details": "This unit has an increased maximum evasion.",
+      "Icon": "uixSvgIcon_action_evasivemove"
+    },
+    "statisticData": {
+      "statName": "MaxEvasivePips",
+      "operation": "Int_Add",
+      "modValue": "2",
+      "modType": "System.Int32"
+    },
+    "nature": "Buff"
+  },
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator",
+      "showInTargetPreview": false,
+      "showInStatusPanel": false
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "Jumpe",
+      "Name": "Increase Jump Jet Distance",
+      "Details": "Jump Jet Distance Increased.",
+      "Icon": "uixSvgIcon_equipment_Gyro"
+    },
+    "statisticData": {
+      "statName": "JumpDistanceMultiplier",
+      "operation": "Float_Multiply",
+      "modValue": "1.15",
+      "modType": "System.Single"
+    },
+    "nature": "Buff"
+  }      
+],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",

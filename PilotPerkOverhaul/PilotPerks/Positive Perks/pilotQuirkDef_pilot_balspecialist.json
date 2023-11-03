@@ -3,11 +3,69 @@
     "tag": "pilot_balspecialist",
     "quirkName": "Specialist: Ballistic",
     "description": "+5% Ballistic Weapon Dmg. -1 Recoil.",
-"effectData": [],
+"effectData": [
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator"
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "StatusEffect-Recoil-I",
+      "Name": "Decreased Recoil",
+      "Details": "Decreased Recoil",
+      "Icon": "uixSvgIcon_ability_mastertactician"
+    },
+    "statisticData": {
+      "statName": "RefireModifier",
+      "operation": "Int_Add",
+      "modValue": "-1",
+      "modType": "System.Int32",
+      "targetCollection": "Weapon"
+    }
+  },
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTargetsCreator": true,
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator",
+      "showInTargetPreview": false,
+      "showInStatusPanel": false
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "BallisticDamageReduction",
+      "Name": "Ballistic Damage Buff",
+      "Details": "Ballistic damage Buff by 5%.",
+      "Icon": "uixSvgIcon_action_end"
+    },
+    "nature": "Buff",
+    "statisticData": {
+      "statName" : "DamagePerShot",
+                "operation" : "Float_Multiply",
+                "modValue" : "1.05",
+                "modType" : "System.Single",
+                "additionalRules" : "NotSet",
+                "targetCollection" : "Weapon",
+                "targetWeaponCategory" : "Ballistic",
+                "targetWeaponType" : "NotSet",
+                "targetAmmoCategory" : "NotSet",
+                "targetWeaponSubType" : "NotSet"
+    }
+  }
+],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",
-      "modifier": 0.15,
+      "modifier": 0.25,
       "secondaryModifier": 0.0,
       "affectedIds": []
     }

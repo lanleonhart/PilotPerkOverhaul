@@ -3,7 +3,67 @@
   "tag": "pilot_engspecialist",
   "quirkName": "Specialist: Energy",
   "description": "+5% Energy Weapon Dmg. +1 Energy Accuracy.",
-"effectData": [],
+"effectData": [
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTargetsCreator": true,
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator",
+      "showInTargetPreview": false,
+      "showInStatusPanel": false
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "BallisticDamageReduction",
+      "Name": "Ballistic Damage Buff",
+      "Details": "Ballistic damage Buff by 5%.",
+      "Icon": "uixSvgIcon_action_end"
+    },
+    "nature": "Buff",
+    "statisticData": {
+      "statName" : "DamagePerShot",
+                "operation" : "Float_Multiply",
+                "modValue" : "1.05",
+                "modType" : "System.Single",
+                "additionalRules" : "NotSet",
+                "targetCollection" : "Weapon",
+                "targetWeaponCategory" : "Energy",
+                "targetWeaponType" : "NotSet",
+                "targetAmmoCategory" : "NotSet",
+                "targetWeaponSubType" : "NotSet"
+    }
+  },
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator"
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "StatusEffect-ENGSPEC",
+      "Name": "Improved Energy Accuracy",
+      "Details": "+1 Acc for Energy Weapons.",
+      "Icon": "targeting"
+    },
+    "nature": "Buff",
+    "statisticData": {
+      "statName": "AccuracyModifier",
+      "operation": "Float_Add",
+      "modValue": "-1.0",
+      "modType": "System.Single",
+      "targetCollection": "Weapon",
+      "targetWeaponCategory": "Energy"
+    }
+  }
+],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",

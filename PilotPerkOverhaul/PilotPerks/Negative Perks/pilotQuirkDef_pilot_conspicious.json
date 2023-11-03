@@ -3,7 +3,58 @@
     "tag": "pilot_conspicious",
     "quirkName": "Conspicuous",
     "description": "+5% Visibility.",
-"effectData": [],
+"effectData": [  {
+  "durationData": {
+    "duration": -1,
+    "stackLimit": -1
+  },
+  "targetingData": {
+    "effectTriggerType": "Passive",
+    "effectTargetType": "Creator",
+    "showInTargetPreview": false,
+    "showInStatusPanel": false
+  },
+  "effectType": "StatisticEffect",
+  "Description": {
+    "Id": "Stealth_Visibility_Decrease_Stealth",
+    "Name": "Lootable Chameleon LPS Activatable: Decreased Visual Signature",
+    "Details": "Visibility Statuseffect.",
+    "Icon": "uixSvgIcon_equipment_TTS"
+  },
+  "nature": "Buff",
+  "statisticData": {
+    "statName": "SpottingVisibilityMultiplier",
+    "operation": "Float_Multiply",
+    "modValue": "1.05",
+    "modType": "System.Single"
+  }
+},
+{
+  "durationData": {
+    "duration": -1,
+    "stackLimit": -1
+  },
+  "targetingData": {
+    "effectTriggerType": "Passive",
+    "effectTargetType": "Creator",
+    "showInTargetPreview": false,
+    "showInStatusPanel": false
+  },
+  "effectType": "StatisticEffect",
+  "Description": {
+    "Id": "Stealth_Signature_Decrease_Stealth",
+    "Name": "Lootable Chameleon LPS Activatable: Decreased Sensor Signature",
+    "Details": "Signature Statuseffect.",
+    "Icon": "uixSvgIcon_equipment_TTS"
+  },
+  "nature": "Buff",
+  "statisticData": {
+    "statName": "SensorSignatureModifier",
+    "operation": "Float_Multiply",
+    "modValue": "1.05",
+    "modType": "System.Single"
+  }
+}],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",

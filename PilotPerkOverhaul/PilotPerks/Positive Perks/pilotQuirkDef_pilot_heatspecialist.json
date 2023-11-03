@@ -3,7 +3,35 @@
     "tag": "pilot_heatspecialist",
     "quirkName": "Specialist: Heat Management",
     "description": "-8% Heat Generation.",
-"effectData": [],
+"effectData": [
+  {
+  "durationData": {
+    "duration": -1,
+    "stackLimit": -1
+  },
+  "targetingData": {
+    "effectTriggerType": "Passive",
+    "effectTargetType": "Creator",
+    "showInTargetPreview": false,
+    "showInStatusPanel": false
+  },
+  "effectType": "StatisticEffect",
+  "Description": {
+    "Id": "StatusEffect-Heat_Shoulder",
+    "Name": "Name This Effect",
+    "Details": "Heat generation increased by 10%.",
+    "Icon": "uixSvgIcon_equipment_ThermalExchanger"
+  },
+  "nature": "Buff",
+  "statisticData": {
+    "statName": "HeatGenerated",
+    "operation": "Float_Multiply",
+    "modValue": "0.92",
+    "modType": "System.Single",
+    "targetCollection": "Weapon"
+  }
+}
+],
   "quirkEffects": [
     {
       "type": "PilotCostFactor",

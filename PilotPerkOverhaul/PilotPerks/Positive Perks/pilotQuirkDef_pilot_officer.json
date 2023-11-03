@@ -2,7 +2,7 @@
   "id": "pilotQuirkDef_pilot_officer",
   "tag": "pilot_officer",
   "quirkName": "Officer",
-  "description": "+2.5% Lance Sight&Sensors. +10% Upkeep",
+  "description": "[+1 Lance Initiative, +1 Guts, +1 Tactics, -1 Recoil]",
   "effectData": [
     {
       "durationData": {
@@ -23,51 +23,97 @@
       },
       "effectType": "StatisticEffect",
       "Description": {
-        "Id": "OfficerLanceSensors",
-        "Name": "Beagle Probe",
-        "Details": "Increased Sight/Sensors",
+        "Id": "PilotInitiative",
+        "Name": "Improved Initiative",
+        "Details": "Provides + 1 Initiative.",
         "Icon": "uixSvgIcon_equipment_Cockpit"
       },
       "nature": "Buff",
       "statisticData": {
-        "statName": "SensorDistanceAbsolute",
-        "operation": "Float_Multiply",
-        "modValue": "1.025",
-        "modType": "System.Single"
-      }
-    },
-    {
-      "durationData": {
-        "duration": -1,
-        "stackLimit": -1
-      },
-      "targetingData": {
-        "effectTriggerType": "Passive",
-        "triggerLimit": 0,
-        "extendDurationOnTrigger": 0,
-        "specialRules": "NotSet",
-        "effectTargetType": "AllLanceMates",
-        "range": 0,
-        "forcePathRebuild": false,
-        "forceVisRebuild": false,
-        "showInTargetPreview": false,
-        "showInStatusPanel": false
-      },
-      "effectType": "StatisticEffect",
-      "Description": {
-        "Id": "OfficerLanceSight",
-        "Name": "SPOTTING DISTANCE INCREASED",
-        "Details": "Increases spotting distance by 50m.",
-        "Icon": "uixSvgIcon_equipment_Cockpit"
-      },
-      "nature": "Buff",
-      "statisticData": {
-        "statName": "SpotterDistanceAbsolute",
-        "operation": "Float_Multiply",
-        "modValue": "1.025",
-        "modType": "System.Single"
-      }
+        "statName": "SBI_MOD_MISC",
+        "operation": "Int_Add",
+        "modValue": "1",
+        "modType": "System.Int32"
     }
+  },
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator",
+      "showInTargetPreview": false,
+      "showInStatusPanel": false
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "GutsBuff",
+      "Name": "Guts Skill +1",
+      "Details": "Buffs Guts Skill",
+      "Icon": "uixSvgIcon_equipment_Cockpit"
+    },
+    "nature": "Buff",
+    "statisticData": {
+      "statName": "Guts",
+      "operation": "Int_Add",
+      "modValue": "1",
+      "modType": "System.Int32",
+      "targetCollection": "Pilot"
+    }
+  },
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator",
+      "showInTargetPreview": false,
+      "showInStatusPanel": false
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "TacticsBuff",
+      "Name": "Tactics Skill +1",
+      "Details": "Buffs Tactics Skill",
+      "Icon": "uixSvgIcon_equipment_Cockpit"
+    },
+    "nature": "Buff",
+    "statisticData": {
+      "statName": "Tactics",
+      "operation": "Int_Add",
+      "modValue": "1",
+      "modType": "System.Int32",
+      "targetCollection": "Pilot"
+    }
+  },
+  {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": -1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+      "effectTargetType": "Creator"
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "StatusEffect-RecoilD",
+      "Name": "Decreased Recoil",
+      "Details": "Decreased Recoil",
+      "Icon": "uixSvgIcon_ability_mastertactician"
+    },
+    "statisticData": {
+      "statName": "RefireModifier",
+      "operation": "Int_Add",
+      "modValue": "-1",
+      "modType": "System.Int32",
+      "targetCollection": "Weapon"
+    }
+  }
   ],
   "quirkEffects": [
     {
