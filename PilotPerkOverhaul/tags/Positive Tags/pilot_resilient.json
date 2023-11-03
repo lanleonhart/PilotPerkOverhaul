@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_resilient",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Resilient",
+    "Description": "Gifted in physical prowess this pilot is able to take punches and keep rolling [+3 HP, -10% Stability Damage]"
+}

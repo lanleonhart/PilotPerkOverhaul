@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_indspecialist",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Bombardment Specialist",
+    "Description": "Trained in indirect bombardment tactics [+15% Indirect Fire Accuracy, -1 HP, -2 Max Evasion]"
+}

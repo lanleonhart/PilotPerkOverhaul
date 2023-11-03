@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_reject",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Experiment Reject",
+    "Description": "This pilot was part of an experimental medical program gone wrong [ -1 to All Skills, -2 HP, -1 Acc]"
+}

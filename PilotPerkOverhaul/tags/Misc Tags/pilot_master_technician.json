@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_master_technician",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Master Technician",
+    "Description": "This individual has spent their career honing their skills in repair and maintenance. They are highly respected and sought after by any Mercenary Crew [+4 MechTech, Increased Upkeep]"
+}

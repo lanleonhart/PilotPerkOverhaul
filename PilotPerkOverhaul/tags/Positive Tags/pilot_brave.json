@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_brave",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Brave",
+    "Description": "When other pilots would flee, they stand and fight [+1 Guts, -1 Recoil, +2% Heat Generation, +5% Resolve Gain]"
+}

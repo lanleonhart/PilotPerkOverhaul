@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_nervous",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Nervous",
+    "Description": "This pilot is not confident in thier capabilties when under fire. [-3% Accuracy, +5% Chance to Panic]"
+}

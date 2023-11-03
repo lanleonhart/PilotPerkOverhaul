@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_adv_technician",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Advanced Technician",
+    "Description": "Dedicated to maintaining and repairing Battlemechs. This individual has extensive knowledge of associated systems [+2 MechTech, Increased Upkeep]"
+}

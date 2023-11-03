@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_conspicuous",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Conspicuous",
+    "Description": "This pilot has no situational awareness, often standing out taking fire [+5% Visibility]"
+}

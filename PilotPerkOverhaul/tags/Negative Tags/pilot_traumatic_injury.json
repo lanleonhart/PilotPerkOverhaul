@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_traumatic_injury",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Traumatic Injury",
+    "Description": "This pilot has suffered a severe injury leaving them less capable in the field [-2 HP]"
+}

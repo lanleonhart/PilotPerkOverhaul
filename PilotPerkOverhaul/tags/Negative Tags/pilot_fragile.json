@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_fragile",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Fragile",
+    "Description": "This individual is of small stature they are physically frail. [-2 HP]"
+}

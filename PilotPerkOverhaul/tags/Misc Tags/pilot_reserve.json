@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_reserve",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Reserve Pilot",
+    "Description": "This individual has training on Battlemechs but sticks to fixing them if given the choice. [-1 to All Skills]"
+}

@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_limitedvision",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Limited Vision",
+    "Description": "This pilot has difficulties seeing after losing an eye [-15% chance to hit]"
+}

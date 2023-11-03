@@ -25,7 +25,7 @@
 			{ "Type": "PilotDef", "Path": "Pilots" },
 		{
 			"Type": "QuirkDef",
-		"Path": "PilotPerks"
+		"Path": "PilotPerks/"
 		}
 		
 	]

@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_calm",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Calm",
+    "Description": "This pilots calm demeanour keeps them stable and ready to fight [-10% Chance to panic]"
+}

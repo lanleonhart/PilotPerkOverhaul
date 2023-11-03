@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_engspecialist",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Energy Specialist",
+    "Description": "Trained in effecient, and deadly use of Energy weapon systems [+5% Energy Weapon Dmg, +1 Energy Accuracy]"
+}
