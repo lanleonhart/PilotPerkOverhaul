@@ -1,0 +1,40 @@
+Positive Perk List
+pilot_assassin					13 / 72 Pilot(s)	18.06% Occurrence
+pilot_athletic					21 / 72 Pilot(s)	29.17% Occurrence
+pilot_command					17 / 72 Pilot(s)	23.61% Occurrence
+pilot_excomstar					20 / 72 Pilot(s)	27.78% Occurrence
+pilot_lostech					20 / 72 Pilot(s)	27.78% Occurrence
+pilot_merchant					13 / 72 Pilot(s)	18.06% Occurrence
+pilot_military					18 / 72 Pilot(s)	25.00% Occurrence
+pilot_spacer					24 / 72 Pilot(s)	33.33% Occurrence
+pilot_tech					23 / 72 Pilot(s)	31.94% Occurrence
+pilot_wealthy					18 / 72 Pilot(s)	25.00% Occurrence
+Mixed Perk List
+pilot_bookish					5 / 72 Pilot(s)	6.94% Occurrence
+pilot_cautious					12 / 72 Pilot(s)	16.67% Occurrence
+pilot_criminal					16 / 72 Pilot(s)	22.22% Occurrence
+pilot_dependable					9 / 72 Pilot(s)	12.50% Occurrence
+pilot_dishonest					11 / 72 Pilot(s)	15.28% Occurrence
+pilot_drunk					6 / 72 Pilot(s)	8.33% Occurrence
+pilot_reckless					6 / 72 Pilot(s)	8.33% Occurrence
+pilot_honest					8 / 72 Pilot(s)	11.11% Occurrence
+pilot_noble					9 / 72 Pilot(s)	12.50% Occurrence
+pilot_bushido					9 / 72 Pilot(s)	12.50% Occurrence
+pilot_zealot					4 / 72 Pilot(s)	5.56% Occurrence
+pilot_feral					5 / 72 Pilot(s)	6.94% Occurrence
+pilot_redline					3 / 72 Pilot(s)	4.17% Occurrence
+Negative Perk List
+pilot_klutz					3 / 72 Pilot(s)	4.17% Occurrence
+pilot_nervous					2 / 72 Pilot(s)	2.78% Occurrence
+pilot_fragile					4 / 72 Pilot(s)	5.56% Occurrence
+pilot_apathetic					8 / 72 Pilot(s)	11.11% Occurrence
+pilot_lazyeye					6 / 72 Pilot(s)	8.33% Occurrence
+pilot_traumatic_injury					4 / 72 Pilot(s)	5.56% Occurrence
+pilot_nearsighted					1 / 72 Pilot(s)	1.39% Occurrence
+pilot_limitedvision					0 / 72 Pilot(s)	0.00% Occurrence
+pilot_conspicious					2 / 72 Pilot(s)	2.78% Occurrence
+pilot_pretentious					6 / 72 Pilot(s)	8.33% Occurrence
+pilot_reject					4 / 72 Pilot(s)	5.56% Occurrence
+pilot_inconspicious					4 / 72 Pilot(s)	5.56% Occurrence
+pilot_calm					3 / 72 Pilot(s)	4.17% Occurrence
+pilot_jinxed					3 / 72 Pilot(s)	4.17% Occurrence

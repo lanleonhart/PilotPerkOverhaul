@@ -1,0 +1,749 @@
+Bono (Green)
+Characteristics
+Eyes: Blue
+Handedness: Left
+Blood Type: AB-
+Stature: Below Average
+Traits
+Positive: "pilot_lostech"
+---
+FalkM (Green)
+Characteristics
+Eyes: Hazel
+Handedness: Ambidextrous
+Blood Type: O+
+Stature: Below Average
+Traits
+Positive: "pilot_spacer"
+Positive: "pilot_lostech"
+---
+Gibbs (Green)
+Characteristics
+Eyes: Brown
+Handedness: Right
+Blood Type: B+
+Stature: Below Average
+Traits
+Positive: "pilot_command"
+---
+Godfrey (Green)
+Characteristics
+Eyes: Heterochromatic
+Handedness: Ambidextrous
+Blood Type: O+
+Stature: Above Average
+Traits
+Positive: "pilot_athletic"
+---
+Heysek (Green)
+Characteristics
+Eyes: Green
+Handedness: Left
+Blood Type: AB-
+Stature: Below Average
+Traits
+Positive: "pilot_wealthy"
+Negative: "pilot_apathetic"
+---
+Hollabaugh (Green)
+Characteristics
+Eyes: Green
+Handedness: Right
+Blood Type: O-
+Stature: Tall
+Traits
+Positive: "pilot_tech"
+---
+Jakes (Green)
+Characteristics
+Eyes: Heterochromatic
+Handedness: Right
+Blood Type: O-
+Stature: Short
+Traits
+Positive: "pilot_wealthy"
+Positive: "pilot_excomstar"
+Mixed: "pilot_bookish"
+Negative: "pilot_calm"
+---
+Korwes (Green)
+Characteristics
+Eyes: Blue
+Handedness: Right
+Blood Type: B+
+Stature: Short
+Traits
+Positive: "pilot_wealthy"
+Positive: "pilot_excomstar"
+Mixed: "pilot_honest"
+---
+Leone (Green)
+Characteristics
+Eyes: Blue
+Handedness: Right
+Blood Type: O+
+Stature: Tall
+Traits
+Positive: "pilot_merchant"
+Negative: "pilot_traumatic_injury"
+---
+Liebenow (Green)
+Characteristics
+Eyes: Brown
+Handedness: Left
+Blood Type: A+
+Stature: Above Average
+Traits
+Positive: "pilot_command"
+---
+Miller (Green)
+Characteristics
+Eyes: Green
+Handedness: Ambidextrous
+Blood Type: AB+
+Stature: Tall
+Traits
+Positive: "pilot_command"
+Mixed: "pilot_reckless"
+---
+Oliver (Green)
+Characteristics
+Eyes: Green
+Handedness: Left
+Blood Type: AB-
+Stature: Below Average
+Traits
+Positive: "pilot_wealthy"
+---
+Piazza (Green)
+Characteristics
+Eyes: Heterochromatic
+Handedness: Left
+Blood Type: AB+
+Stature: Average
+Traits
+Positive: "pilot_assassin"
+Mixed: "pilot_redline"
+---
+Ryia (Green)
+Characteristics
+Eyes: Brown
+Handedness: Ambidextrous
+Blood Type: A-
+Stature: Tall
+Traits
+Positive: "pilot_merchant"
+Negative: "pilot_inconspicious"
+---
+Saada (Green)
+Characteristics
+Eyes: Green
+Handedness: Left
+Blood Type: O+
+Stature: Above Average
+Traits
+Positive: "pilot_wealthy"
+Positive: "pilot_athletic"
+---
+Sampson (Green)
+Characteristics
+Eyes: Blue
+Handedness: Left
+Blood Type: A+
+Stature: Tall
+Traits
+Positive: "pilot_spacer"
+Positive: "pilot_merchant"
+Mixed: "pilot_criminal"
+---
+Shields (Green)
+Characteristics
+Eyes: Brown
+Handedness: Right
+Blood Type: O+
+Stature: Below Average
+Traits
+Positive: "pilot_merchant"
+---
+Shvartz (Green)
+Characteristics
+Eyes: Hazel
+Handedness: Ambidextrous
+Blood Type: AB-
+Stature: Average
+Traits
+Positive: "pilot_excomstar"
+---
+Slipais (Green)
+Characteristics
+Eyes: Green
+Handedness: Right
+Blood Type: A-
+Stature: Above Average
+Traits
+Positive: "pilot_athletic"
+---
+SwansonA (Green)
+Characteristics
+Eyes: Heterochromatic
+Handedness: Left
+Blood Type: O+
+Stature: Short
+Traits
+Positive: "pilot_lostech"
+Mixed: "pilot_bushido"
+---
+Thomas (Green)
+Characteristics
+Eyes: Brown
+Handedness: Ambidextrous
+Blood Type: AB+
+Stature: Average
+Traits
+Positive: "pilot_excomstar"
+Mixed: "pilot_cautious"
+---
+Voyls (Green)
+Characteristics
+Eyes: Green
+Handedness: Ambidextrous
+Blood Type: B+
+Stature: Tall
+Traits
+Positive: "pilot_military"
+---
+Woods (Green)
+Characteristics
+Eyes: Blue
+Handedness: Right
+Blood Type: A-
+Stature: Average
+Traits
+Positive: "pilot_assassin"
+Positive: "pilot_tech"
+Negative: "pilot_apathetic"
+---
+Bixby (Regular)
+Characteristics
+Eyes: Heterochromatic
+Handedness: Ambidextrous
+Blood Type: AB+
+Stature: Tall
+Traits
+Positive: "pilot_command"
+Mixed: "pilot_honest"
+Negative: "pilot_reject"
+---
+Bozeman (Regular)
+Characteristics
+Eyes: Heterochromatic
+Handedness: Right
+Blood Type: O-
+Stature: Below Average
+Traits
+Positive: "pilot_wealthy"
+---
+Brewer (Regular)
+Characteristics
+Eyes: Green
+Handedness: Right
+Blood Type: B+
+Stature: Short
+Traits
+Positive: "pilot_command"
+Mixed: "pilot_honest"
+---
+Brown (Regular)
+Characteristics
+Eyes: Blue
+Handedness: Ambidextrous
+Blood Type: A-
+Stature: Short
+Traits
+Positive: "pilot_merchant"
+Mixed: "pilot_cautious"
+---
+Cleary (Regular)
+Characteristics
+Eyes: Hazel
+Handedness: Ambidextrous
+Blood Type: AB+
+Stature: Above Average
+Traits
+Positive: "pilot_lostech"
+---
+Cochran (Regular)
+Characteristics
+Eyes: Green
+Handedness: Ambidextrous
+Blood Type: AB-
+Stature: Tall
+Traits
+Positive: "pilot_tech"
+---
+Doukas (Regular)
+Characteristics
+Eyes: Blue
+Handedness: Right
+Blood Type: A-
+Stature: Average
+Traits
+Positive: "pilot_assassin"
+Mixed: "pilot_bookish"
+---
+Durand (Regular)
+Characteristics
+Eyes: Heterochromatic
+Handedness: Ambidextrous
+Blood Type: B+
+Stature: Tall
+Traits
+Positive: "pilot_tech"
+---
+Eck (Regular)
+Characteristics
+Eyes: Brown
+Handedness: Left
+Blood Type: O+
+Stature: Tall
+Traits
+Positive: "pilot_merchant"
+Negative: "pilot_klutz"
+---
+Fielding (Regular)
+Characteristics
+Eyes: Blue
+Handedness: Ambidextrous
+Blood Type: B+
+Stature: Above Average
+Traits
+Positive: "pilot_military"
+Positive: "pilot_spacer"
+Mixed: "pilot_bushido"
+---
+Hording (Regular)
+Characteristics
+Eyes: Hazel
+Handedness: Left
+Blood Type: A-
+Stature: Above Average
+Traits
+Positive: "pilot_athletic"
+Negative: "pilot_calm"
+---
+Hurtado (Regular)
+Characteristics
+Eyes: Brown
+Handedness: Ambidextrous
+Blood Type: O-
+Stature: Below Average
+Traits
+Positive: "pilot_spacer"
+Mixed: "pilot_dependable"
+Negative: "pilot_traumatic_injury"
+---
+Kaufman (Regular)
+Characteristics
+Eyes: Brown
+Handedness: Ambidextrous
+Blood Type: AB+
+Stature: Below Average
+Traits
+Positive: "pilot_wealthy"
+Mixed: "pilot_criminal"
+---
+Keane (Regular)
+Characteristics
+Eyes: Hazel
+Handedness: Ambidextrous
+Blood Type: B+
+Stature: Tall
+Traits
+Positive: "pilot_assassin"
+---
+Lemos (Regular)
+Characteristics
+Eyes: Green
+Handedness: Ambidextrous
+Blood Type: B+
+Stature: Short
+Traits
+Positive: "pilot_excomstar"
+Negative: "pilot_traumatic_injury"
+---
+Loving (Regular)
+Characteristics
+Eyes: Brown
+Handedness: Left
+Blood Type: AB+
+Stature: Above Average
+Traits
+Positive: "pilot_tech"
+---
+Mzik (Regular)
+Characteristics
+Eyes: Blue
+Handedness: Left
+Blood Type: O+
+Stature: Above Average
+Traits
+Positive: "pilot_lostech"
+Negative: "pilot_fragile"
+---
+Nick (Regular)
+Characteristics
+Eyes: Green
+Handedness: Ambidextrous
+Blood Type: A+
+Stature: Below Average
+Traits
+Positive: "pilot_command"
+Positive: "pilot_military"
+Mixed: "pilot_feral"
+---
+Reichenbach (Regular)
+Characteristics
+Eyes: Hazel
+Handedness: Ambidextrous
+Blood Type: AB-
+Stature: Above Average
+Traits
+Positive: "pilot_lostech"
+Negative: "pilot_apathetic"
+---
+Alaniz (Veteran)
+Characteristics
+Eyes: Heterochromatic
+Handedness: Ambidextrous
+Blood Type: O+
+Stature: Below Average
+Traits
+Positive: "pilot_tech"
+Mixed: "pilot_bushido"
+---
+Archangel (Veteran)
+Characteristics
+Eyes: Hazel
+Handedness: Right
+Blood Type: O+
+Stature: Short
+Traits
+Positive: "pilot_athletic"
+Mixed: "pilot_reckless"
+---
+Bemis (Veteran)
+Characteristics
+Eyes: Blue
+Handedness: Ambidextrous
+Blood Type: B+
+Stature: Tall
+Traits
+Positive: "pilot_tech"
+Mixed: "pilot_feral"
+---
+Chang (Veteran)
+Characteristics
+Eyes: Green
+Handedness: Left
+Blood Type: AB+
+Stature: Short
+Traits
+Positive: "pilot_merchant"
+Mixed: "pilot_cautious"
+---
+Chik (Veteran)
+Characteristics
+Eyes: Brown
+Handedness: Right
+Blood Type: AB-
+Stature: Above Average
+Traits
+Positive: "pilot_lostech"
+Positive: "pilot_tech"
+Mixed: "pilot_noble"
+---
+Chung (Veteran)
+Characteristics
+Eyes: Green
+Handedness: Ambidextrous
+Blood Type: A+
+Stature: Average
+Traits
+Positive: "pilot_lostech"
+Mixed: "pilot_drunk"
+---
+Coldfire (Veteran)
+Characteristics
+Eyes: Heterochromatic
+Handedness: Left
+Blood Type: A-
+Stature: Short
+Traits
+Positive: "pilot_command"
+Mixed: "pilot_honest"
+---
+Doochin (Veteran)
+Characteristics
+Eyes: Green
+Handedness: Left
+Blood Type: AB+
+Stature: Above Average
+Traits
+Positive: "pilot_merchant"
+Mixed: "pilot_criminal"
+Negative: "pilot_lazyeye"
+---
+Eckett (Veteran)
+Characteristics
+Eyes: Heterochromatic
+Handedness: Left
+Blood Type: A+
+Stature: Above Average
+Traits
+Positive: "pilot_wealthy"
+Positive: "pilot_command"
+Mixed: "pilot_dependable"
+Negative: "pilot_jinxed"
+---
+Endorf (Veteran)
+Characteristics
+Eyes: Blue
+Handedness: Left
+Blood Type: AB+
+Stature: Tall
+Traits
+Positive: "pilot_lostech"
+Mixed: "pilot_feral"
+Mixed: "pilot_bushido"
+Negative: "pilot_reject"
+---
+FalkA (Veteran)
+Characteristics
+Eyes: Green
+Handedness: Left
+Blood Type: O+
+Stature: Below Average
+Traits
+Positive: "pilot_command"
+Mixed: "pilot_bushido"
+---
+Hardie (Veteran)
+Characteristics
+Eyes: Hazel
+Handedness: Ambidextrous
+Blood Type: AB+
+Stature: Above Average
+Traits
+Positive: "pilot_assassin"
+Positive: "pilot_military"
+Mixed: "pilot_drunk"
+---
+Helterbran (Veteran)
+Characteristics
+Eyes: Brown
+Handedness: Right
+Blood Type: AB-
+Stature: Tall
+Traits
+Positive: "pilot_wealthy"
+Mixed: "pilot_criminal"
+Mixed: "pilot_cautious"
+---
+Hill (Veteran)
+Characteristics
+Eyes: Brown
+Handedness: Ambidextrous
+Blood Type: A+
+Stature: Above Average
+Traits
+Positive: "pilot_military"
+Mixed: "pilot_noble"
+Negative: "pilot_lazyeye"
+---
+Huxley (Veteran)
+Characteristics
+Eyes: Blue
+Handedness: Left
+Blood Type: A+
+Stature: Tall
+Traits
+Positive: "pilot_tech"
+Mixed: "pilot_cautious"
+Negative: "pilot_pretentious"
+---
+Reinke (Veteran)
+Characteristics
+Eyes: Brown
+Handedness: Right
+Blood Type: O+
+Stature: Average
+Traits
+Positive: "pilot_military"
+Mixed: "pilot_criminal"
+Negative: "pilot_reject"
+---
+Test9 (Veteran)
+Characteristics
+Eyes: Green
+Handedness: Right
+Blood Type: A-
+Stature: Below Average
+Traits
+Positive: "pilot_lostech"
+Positive: "pilot_excomstar"
+Mixed: "pilot_cautious"
+---
+Apex (Elite)
+Characteristics
+Eyes: Green
+Handedness: Ambidextrous
+Blood Type: B+
+Stature: Below Average
+Traits
+Positive: "pilot_spacer"
+Positive: "pilot_athletic"
+Mixed: "pilot_drunk"
+Negative: "pilot_fragile"
+---
+Arclight (Elite)
+Characteristics
+Eyes: Brown
+Handedness: Left
+Blood Type: A-
+Stature: Average
+Traits
+Positive: "pilot_tech"
+Positive: "pilot_command"
+Mixed: "pilot_cautious"
+Mixed: "pilot_dishonest"
+Negative: "pilot_conspicious"
+---
+Blockade (Elite)
+Characteristics
+Eyes: Green
+Handedness: Ambidextrous
+Blood Type: A+
+Stature: Tall
+Traits
+Positive: "pilot_excomstar"
+Mixed: "pilot_drunk"
+Negative: "pilot_klutz"
+---
+Buckshot (Elite)
+Characteristics
+Eyes: Brown
+Handedness: Left
+Blood Type: AB+
+Stature: Short
+Traits
+Positive: "pilot_wealthy"
+Positive: "pilot_excomstar"
+Mixed: "pilot_criminal"
+---
+Kraken (Elite)
+Characteristics
+Eyes: Brown
+Handedness: Right
+Blood Type: O-
+Stature: Above Average
+Traits
+Positive: "pilot_excomstar"
+Positive: "pilot_spacer"
+Mixed: "pilot_criminal"
+Negative: "pilot_apathetic"
+---
+Mockingbird (Elite)
+Characteristics
+Eyes: Blue
+Handedness: Ambidextrous
+Blood Type: AB-
+Stature: Below Average
+Traits
+Positive: "pilot_command"
+Positive: "pilot_athletic"
+Mixed: "pilot_dependable"
+---
+Ozone (Elite)
+Characteristics
+Eyes: Brown
+Handedness: Ambidextrous
+Blood Type: B+
+Stature: Short
+Traits
+Positive: "pilot_excomstar"
+Positive: "pilot_merchant"
+Mixed: "pilot_criminal"
+Mixed: "pilot_dependable"
+---
+Paradise (Elite)
+Characteristics
+Eyes: Brown
+Handedness: Ambidextrous
+Blood Type: A+
+Stature: Short
+Traits
+Positive: "pilot_athletic"
+Positive: "pilot_military"
+Mixed: "pilot_criminal"
+Mixed: "pilot_drunk"
+Negative: "pilot_calm"
+---
+Showboat (Elite)
+Characteristics
+Eyes: Heterochromatic
+Handedness: Left
+Blood Type: AB+
+Stature: Short
+Traits
+Positive: "pilot_command"
+Positive: "pilot_excomstar"
+Mixed: "pilot_zealot"
+Negative: "pilot_nervous"
+---
+Squire (Elite)
+Characteristics
+Eyes: Green
+Handedness: Right
+Blood Type: AB-
+Stature: Tall
+Traits
+Positive: "pilot_military"
+Positive: "pilot_spacer"
+Mixed: "pilot_noble"
+Negative: "pilot_reject"
+---
+Sumo (Elite)
+Characteristics
+Eyes: Green
+Handedness: Right
+Blood Type: AB-
+Stature: Below Average
+Traits
+Positive: "pilot_command"
+Mixed: "pilot_bookish"
+---
+Wildfire (Elite)
+Characteristics
+Eyes: Blue
+Handedness: Ambidextrous
+Blood Type: O+
+Stature: Average
+Traits
+Positive: "pilot_tech"
+Positive: "pilot_wealthy"
+Mixed: "pilot_noble"
+Mixed: "pilot_dishonest"
+Negative: "pilot_pretentious"
+---
+Witness (Elite)
+Characteristics
+Eyes: Green
+Handedness: Ambidextrous
+Blood Type: B+
+Stature: Short
+Traits
+Positive: "pilot_assassin"
+Positive: "pilot_spacer"
+Mixed: "pilot_drunk"
+Mixed: "pilot_zealot"
+---
