@@ -34,15 +34,21 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
+            "eyes_hazel",
             "pilot_marik",
+            "experience_green",
+            "eyes_heterochromatic",
             "name_GV",
             "handedness_right",
-            "eyes_hazel",
-            "stature_above average",
-            "pilot_green",
-            "pilot_inconspicuous",
             "blood type_a_positive",
-            "experience_green"
+            "pilot_inconspicuous",
+            "pilot_brave",
+            "bloodtype_b_positive",
+            "stature_above average",
+            "pilot_pilot_fragile",
+            "pilot_pilot_bookish",
+            "pilot_technician",
+            "pilot_green"
         ],
         "tagSetSourceFile": ""
     },

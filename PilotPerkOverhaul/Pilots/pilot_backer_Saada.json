@@ -31,15 +31,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_green",
-            "handedness_right",
-            "name_Spenthia",
-            "pilot_lucky",
-            "stature_short",
-            "blood type_a_negative",
             "pilot_pilot_nearsighted",
-            "pilot_davion",
-            "pilot_assassin"
+            "pilot_assassin",
+            "name_Spenthia",
+            "bloodtype_o_negative",
+            "handedness_right",
+            "stature_short",
+            "stature_average",
+            "blood type_a_negative",
+            "pilot_lucky",
+            "eyes_green",
+            "eyes_brown",
+            "pilot_merchant",
+            "pilot_davion"
         ],
         "tagSetSourceFile": ""
     },

@@ -40,17 +40,23 @@
     "PilotTags": {
         "items": [
             "pilot_pilot_feral",
-            "stature_below average",
-            "pilot_pilot_zealot",
-            "handedness_right",
-            "blood type_b_positive",
-            "pilot_athletic",
-            "name_Kraken",
-            "pilot_periphery",
+            "pilot_assassin",
             "eyes_heterochromatic",
             "pilot_lostech",
+            "pilot_periphery",
+            "handedness_right",
+            "stature_below average",
+            "stature_average",
+            "pilot_athletic",
+            "name_Kraken",
+            "pilot_spacer",
+            "pilot_pilot_zealot",
+            "eyes_brown",
+            "pilot_officer",
+            "bloodtype_o_positive",
+            "blood type_b_positive",
             "pilot_pilot_limitedvision",
-            "pilot_assassin"
+            "pilot_pilot_dependable"
         ],
         "tagSetSourceFile": ""
     },

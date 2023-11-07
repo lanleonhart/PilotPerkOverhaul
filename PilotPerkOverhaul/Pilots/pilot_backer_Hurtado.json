@@ -34,13 +34,17 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
+            "pilot_calm",
             "blood type_ab_negative",
             "stature_below average",
-            "pilot_pilot_zealot",
             "handedness_right",
-            "pilot_calm",
+            "eyes_blue",
             "name_Brother",
+            "pilot_pilot_zealot",
+            "stature_above average",
             "eyes_brown",
+            "bloodtype_a_negative",
+            "pilot_merchant",
             "pilot_davion"
         ],
         "tagSetSourceFile": ""

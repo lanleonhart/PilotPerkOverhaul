@@ -40,16 +40,23 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "name_Ozone",
-            "pilot_pilot_bushido",
-            "pilot_pilot_drunk",
-            "pilot_spacer",
-            "blood type_b_positive",
-            "pilot_athletic",
-            "stature_above average",
-            "pilot_periphery",
             "eyes_heterochromatic",
-            "handedness_ambidextrous"
+            "pilot_periphery",
+            "handedness_right",
+            "stature_average",
+            "pilot_athletic",
+            "name_Ozone",
+            "pilot_spacer",
+            "bloodtype_a_positive",
+            "pilot_brave",
+            "pilot_inconspicuous",
+            "stature_above average",
+            "pilot_pilot_bushido",
+            "eyes_brown",
+            "pilot_pilot_bookish",
+            "handedness_ambidextrous",
+            "blood type_b_positive",
+            "pilot_pilot_drunk"
         ],
         "tagSetSourceFile": ""
     },

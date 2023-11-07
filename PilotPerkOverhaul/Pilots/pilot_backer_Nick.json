@@ -37,13 +37,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_green",
             "name_Corsair",
+            "pilot_tortuga",
+            "eyes_heterochromatic",
             "handedness_right",
-            "blood type_b_positive",
+            "stature_below average",
+            "pilot_spacer",
             "pilot_lucky",
+            "eyes_green",
             "stature_tall",
-            "pilot_tortuga"
+            "bloodtype_ab_positive",
+            "pilot_officer",
+            "blood type_b_positive"
         ],
         "tagSetSourceFile": ""
     },

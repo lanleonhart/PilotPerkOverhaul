@@ -42,10 +42,13 @@ valid_faction_tags = [
     "pilot_worldofblake"
 ]
 
-# Directory paths
-input_directory = "C:/Users/Silver/Documents/GitHub/White-Fire/PilotPerkOverhaul/RandomGeneratorScript/PilotGeneration"
-output_directory = "C:/Users/Silver/Documents/GitHub/White-Fire/PilotPerkOverhaul/PilotPerkOverhaul/Pilots"
+# Get the directory of the script
+script_directory = os.path.dirname(__file__)
 
+# Directory paths relative to the script's location
+input_directory = os.path.join(script_directory, "PilotGeneration")
+# Directory path for output JSON files, considering the structure
+output_directory = os.path.join(script_directory, "..", "PilotPerkOverhaul", "Pilots")
 # Iterate through JSON files in the input directory
 for filename in os.listdir(input_directory):
     if filename.endswith(".json"):

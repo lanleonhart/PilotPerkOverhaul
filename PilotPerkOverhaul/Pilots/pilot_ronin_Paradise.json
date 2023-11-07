@@ -41,17 +41,22 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "name_Paradise",
-            "pilot_ex-comstar",
-            "pilot_spacer",
-            "stature_average",
+            "handedness_left",
             "pilot_pilot_reckless",
-            "pilot_commander",
-            "pilot_periphery",
-            "pilot_pilot_criminal",
             "eyes_heterochromatic",
+            "pilot_periphery",
+            "stature_short",
+            "stature_average",
+            "name_Paradise",
+            "bloodtype_a_positive",
+            "pilot_spacer",
+            "pilot_ex-comstar",
             "blood type_a_positive",
-            "handedness_ambidextrous"
+            "eyes_green",
+            "pilot_pilot_criminal",
+            "handedness_ambidextrous",
+            "pilot_pilot_bookish",
+            "pilot_commander"
         ],
         "tagSetSourceFile": ""
     },

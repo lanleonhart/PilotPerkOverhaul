@@ -34,13 +34,17 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "stature_average",
-            "handedness_right",
             "pilot_pilot_reckless",
-            "blood type_b_positive",
-            "name_M4J35T1C",
+            "pilot_resilient",
             "pilot_periphery",
+            "handedness_right",
+            "name_M4J35T1C",
+            "stature_average",
+            "bloodtype_a_positive",
+            "eyes_green",
+            "stature_tall",
             "eyes_brown",
+            "blood type_b_positive",
             "pilot_technician"
         ],
         "tagSetSourceFile": ""

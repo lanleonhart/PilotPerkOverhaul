@@ -35,14 +35,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_green",
-            "pilot_pilot_drunk",
-            "stature_average",
+            "eyes_heterochromatic",
+            "bloodtype_ab_negative",
             "name_Jester",
-            "handedness_left",
+            "stature_average",
+            "pilot_deadeye",
+            "blood type_a_negative",
+            "pilot_pilot_cautious",
+            "eyes_green",
+            "stature_above average",
             "pilot_steiner",
+            "handedness_left",
             "pilot_merchant",
-            "blood type_a_negative"
+            "pilot_pilot_drunk"
         ],
         "tagSetSourceFile": ""
     },

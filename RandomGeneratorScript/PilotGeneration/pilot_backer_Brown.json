@@ -1,0 +1,14 @@
+{
+    "Id": "pilot_backer_Brown",
+    "PilotTags": {
+        "items": [
+            "eyes_blue",
+            "handedness_right",
+            "bloodtype_b_positive",
+            "stature_average",
+            "pilot_technician",
+            "pilot_pilot_feral",
+            "pilot_pilot_apathetic"
+        ]
+    }
+}

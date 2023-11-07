@@ -42,16 +42,24 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_bookish",
-            "handedness_right",
-            "blood type_ab_positive",
             "name_Mockingbird",
+            "blood type_ab_positive",
+            "pilot_pilot_nearsighted",
+            "eyes_hazel",
+            "eyes_heterochromatic",
+            "pilot_lostech",
             "pilot_periphery",
+            "handedness_right",
+            "pilot_gunslinger",
+            "stature_average",
+            "pilot_ex-comstar",
             "pilot_lucky",
             "stature_tall",
-            "pilot_pilot_nearsighted",
-            "eyes_heterochromatic",
-            "pilot_gunslinger"
+            "bloodtype_ab_positive",
+            "handedness_left",
+            "pilot_pilot_dishonest",
+            "pilot_pilot_bookish",
+            "pilot_technician"
         ],
         "tagSetSourceFile": ""
     },

@@ -36,17 +36,23 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "stature_below average",
-            "pilot_pilot_jinxed",
-            "handedness_right",
-            "blood type_o_negative",
-            "pilot_pilot_honest",
-            "pilot_green",
-            "pilot_lucky",
             "pilot_kurita",
-            "eyes_brown",
+            "eyes_hazel",
+            "pilot_pilot_jinxed",
             "name_Hacker",
-            "experience_green"
+            "experience_green",
+            "blood type_o_negative",
+            "bloodtype_ab_negative",
+            "handedness_right",
+            "stature_below average",
+            "pilot_lucky",
+            "pilot_inconspicuous",
+            "pilot_pilot_honest",
+            "stature_above average",
+            "eyes_brown",
+            "pilot_pilot_fragile",
+            "handedness_ambidextrous",
+            "pilot_green"
         ],
         "tagSetSourceFile": ""
     },

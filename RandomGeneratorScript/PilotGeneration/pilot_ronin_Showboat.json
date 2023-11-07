@@ -1,0 +1,16 @@
+{
+    "Id": "pilot_ronin_Showboat",
+    "PilotTags": {
+        "items": [
+            "eyes_blue",
+            "handedness_left",
+            "bloodtype_ab_negative",
+            "stature_average",
+            "pilot_gunslinger",
+            "pilot_spacer",
+            "pilot_pilot_cautious",
+            "pilot_pilot_reckless",
+            "pilot_pilot_jinxed"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Id": "pilot_backer_Eckett",
+    "PilotTags": {
+        "items": [
+            "eyes_brown",
+            "handedness_left",
+            "bloodtype_ab_positive",
+            "stature_short",
+            "pilot_merchant",
+            "pilot_pilot_noble"
+        ]
+    }
+}

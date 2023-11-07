@@ -33,15 +33,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "handedness_right",
-            "blood type_o_negative",
-            "stature_above average",
-            "name_Coach",
-            "pilot_periphery",
-            "pilot_green",
-            "eyes_heterochromatic",
+            "pilot_assassin",
             "experience_green",
-            "pilot_assassin"
+            "eyes_heterochromatic",
+            "name_Coach",
+            "blood type_o_negative",
+            "handedness_right",
+            "pilot_periphery",
+            "eyes_blue",
+            "bloodtype_o_negative",
+            "pilot_calm",
+            "pilot_pilot_pretentious",
+            "stature_tall",
+            "stature_above average",
+            "pilot_green"
         ],
         "tagSetSourceFile": ""
     },

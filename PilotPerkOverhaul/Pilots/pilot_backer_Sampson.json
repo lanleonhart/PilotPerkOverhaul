@@ -31,15 +31,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_green",
+            "handedness_ambidextrous",
+            "pilot_pilot_reject",
+            "eyes_hazel",
             "pilot_marik",
             "blood type_o_positive",
-            "pilot_officer",
-            "pilot_pilot_drunk",
+            "handedness_right",
             "name_Live_Fire",
+            "eyes_green",
+            "bloodtype_ab_positive",
             "stature_above average",
-            "pilot_pilot_reject",
-            "handedness_ambidextrous"
+            "pilot_pilot_fragile",
+            "pilot_officer",
+            "pilot_athletic",
+            "pilot_pilot_drunk"
         ],
         "tagSetSourceFile": ""
     },

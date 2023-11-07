@@ -31,15 +31,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_officer",
-            "handedness_right",
             "eyes_hazel",
-            "pilot_davion",
-            "pilot_athletic",
+            "handedness_right",
             "pilot_pilot_lazyeye",
             "stature_short",
+            "eyes_blue",
+            "name_McWraith",
+            "stature_average",
             "blood type_a_negative",
-            "name_McWraith"
+            "pilot_spacer",
+            "bloodtype_b_positive",
+            "pilot_pilot_conspicious",
+            "pilot_officer",
+            "pilot_athletic",
+            "pilot_davion"
         ],
         "tagSetSourceFile": ""
     },

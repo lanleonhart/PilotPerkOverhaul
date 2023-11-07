@@ -31,14 +31,17 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_ex-comstar",
-            "blood type_o_positive",
-            "name_Rook",
-            "handedness_right",
             "eyes_hazel",
-            "pilot_steiner",
+            "pilot_assassin",
+            "blood type_o_positive",
+            "handedness_right",
             "pilot_pilot_lazyeye",
-            "stature_short"
+            "stature_short",
+            "bloodtype_a_positive",
+            "pilot_ex-comstar",
+            "name_Rook",
+            "stature_tall",
+            "pilot_steiner"
         ],
         "tagSetSourceFile": ""
     },

@@ -38,15 +38,22 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_green",
-            "handedness_right",
+            "blood type_ab_positive",
+            "pilot_assassin",
+            "pilot_pilot_limitedvision",
             "pilot_pilot_reckless",
+            "eyes_heterochromatic",
+            "pilot_periphery",
+            "handedness_right",
+            "stature_short",
+            "stature_below average",
+            "pilot_lostech",
+            "bloodtype_a_positive",
+            "eyes_green",
+            "pilot_pilot_zealot",
             "name_Blockade",
             "pilot_athletic",
-            "blood type_ab_positive",
-            "pilot_merchant",
-            "pilot_periphery",
-            "stature_short"
+            "pilot_merchant"
         ],
         "tagSetSourceFile": ""
     },

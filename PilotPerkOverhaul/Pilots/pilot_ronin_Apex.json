@@ -39,15 +39,21 @@
     "PilotTags": {
         "items": [
             "pilot_pilot_feral",
-            "name_Apex",
-            "blood type_ab_negative",
-            "stature_average",
-            "handedness_right",
-            "pilot_deadeye",
-            "pilot_merchant",
+            "pilot_military",
+            "pilot_gladiator",
+            "eyes_heterochromatic",
             "pilot_periphery",
+            "blood type_ab_negative",
+            "handedness_right",
+            "stature_average",
+            "pilot_deadeye",
+            "pilot_spacer",
+            "stature_tall",
+            "name_Apex",
+            "bloodtype_b_positive",
             "eyes_brown",
-            "pilot_gladiator"
+            "pilot_merchant",
+            "pilot_pilot_dependable"
         ],
         "tagSetSourceFile": ""
     },

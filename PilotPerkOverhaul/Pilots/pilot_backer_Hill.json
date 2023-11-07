@@ -37,16 +37,23 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_zealot",
+            "pilot_kurita",
+            "eyes_hazel",
+            "pilot_pilot_nearsighted",
+            "pilot_military",
+            "pilot_pilot_reckless",
+            "blood type_o_negative",
             "pilot_gunslinger",
             "handedness_right",
-            "eyes_hazel",
-            "name_Dust_Raker",
-            "pilot_pilot_redline",
             "stature_short",
-            "pilot_kurita",
-            "pilot_pilot_nearsighted",
-            "blood type_o_negative"
+            "pilot_pilot_redline",
+            "name_Dust_Raker",
+            "pilot_lucky",
+            "pilot_pilot_zealot",
+            "bloodtype_b_positive",
+            "stature_above average",
+            "pilot_pilot_bushido",
+            "pilot_pilot_traumatic_injury"
         ],
         "tagSetSourceFile": ""
     },

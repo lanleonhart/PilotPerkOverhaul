@@ -38,14 +38,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "name_Ronin",
-            "pilot_pilot_bookish",
-            "stature_average",
-            "handedness_right",
             "blood type_b_positive",
-            "pilot_military",
             "pilot_kurita",
-            "eyes_brown"
+            "pilot_pilot_feral",
+            "pilot_military",
+            "handedness_right",
+            "stature_below average",
+            "stature_average",
+            "pilot_deadeye",
+            "pilot_pilot_pretentious",
+            "pilot_lucky",
+            "bloodtype_ab_positive",
+            "pilot_pilot_bookish",
+            "eyes_brown",
+            "name_Ronin"
         ],
         "tagSetSourceFile": ""
     },

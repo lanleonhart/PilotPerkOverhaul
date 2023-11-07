@@ -1,0 +1,16 @@
+{
+    "Id": "pilot_ronin_Sumo",
+    "PilotTags": {
+        "items": [
+            "eyes_brown",
+            "handedness_right",
+            "bloodtype_ab_negative",
+            "stature_tall",
+            "pilot_military",
+            "pilot_officer",
+            "pilot_lucky",
+            "pilot_pilot_dependable",
+            "pilot_pilot_traumatic_injury"
+        ]
+    }
+}

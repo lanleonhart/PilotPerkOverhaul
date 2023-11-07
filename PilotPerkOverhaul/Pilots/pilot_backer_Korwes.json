@@ -34,13 +34,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_green",
-            "pilot_spacer",
-            "stature_average",
             "name_Omega",
+            "handedness_right",
+            "stature_short",
+            "stature_average",
+            "pilot_spacer",
+            "blood type_a_positive",
+            "eyes_green",
+            "pilot_lucky",
+            "eyes_brown",
             "handedness_left",
-            "pilot_davion",
-            "blood type_a_positive"
+            "bloodtype_o_positive",
+            "pilot_davion"
         ],
         "tagSetSourceFile": ""
     },

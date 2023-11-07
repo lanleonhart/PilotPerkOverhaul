@@ -34,12 +34,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_taurian",
-            "stature_below average",
-            "handedness_right",
-            "pilot_military",
             "eyes_hazel",
+            "pilot_military",
+            "bloodtype_a_negative",
+            "pilot_gunslinger",
+            "handedness_right",
+            "stature_below average",
             "blood type_a_negative",
+            "pilot_taurian",
+            "stature_tall",
+            "pilot_brave",
+            "pilot_pilot_bushido",
+            "handedness_left",
             "name_Skyros"
         ],
         "tagSetSourceFile": ""

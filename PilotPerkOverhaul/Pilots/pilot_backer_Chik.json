@@ -41,12 +41,18 @@
         "items": [
             "pilot_pilot_feral",
             "name_Paradox",
+            "eyes_heterochromatic",
+            "bloodtype_o_negative",
             "stature_below average",
             "eyes_blue",
-            "handedness_left",
-            "pilot_steiner",
             "pilot_deadeye",
-            "blood type_a_negative"
+            "blood type_a_negative",
+            "pilot_ex-comstar",
+            "pilot_pilot_cautious",
+            "stature_above average",
+            "pilot_steiner",
+            "handedness_left",
+            "pilot_pilot_traumatic_injury"
         ],
         "tagSetSourceFile": ""
     },

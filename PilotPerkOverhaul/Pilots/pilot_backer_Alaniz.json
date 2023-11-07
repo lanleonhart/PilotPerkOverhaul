@@ -37,14 +37,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "name_Dragon_66",
-            "blood type_ab_negative",
-            "pilot_pilot_drunk",
-            "pilot_spacer",
             "eyes_hazel",
-            "handedness_left",
+            "pilot_lostech",
+            "blood type_ab_negative",
+            "handedness_right",
+            "stature_short",
+            "bloodtype_a_positive",
+            "pilot_spacer",
+            "name_Dragon_66",
             "pilot_pilot_fragile",
             "stature_tall",
+            "eyes_brown",
+            "handedness_left",
+            "pilot_pilot_bookish",
+            "pilot_pilot_drunk",
             "pilot_davion"
         ],
         "tagSetSourceFile": ""

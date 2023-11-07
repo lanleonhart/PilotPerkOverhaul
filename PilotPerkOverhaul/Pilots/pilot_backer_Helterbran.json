@@ -36,15 +36,21 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_zealot",
-            "stature_average",
-            "eyes_blue",
-            "handedness_right",
             "blood type_ab_positive",
             "name_Pathfinder",
-            "pilot_brave",
             "pilot_periphery",
-            "pilot_lucky"
+            "handedness_right",
+            "stature_average",
+            "eyes_blue",
+            "pilot_spacer",
+            "pilot_lucky",
+            "pilot_brave",
+            "pilot_pilot_zealot",
+            "stature_above average",
+            "eyes_brown",
+            "bloodtype_a_negative",
+            "pilot_pilot_bookish",
+            "pilot_technician"
         ],
         "tagSetSourceFile": ""
     },

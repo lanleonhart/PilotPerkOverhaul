@@ -36,14 +36,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "name_Mummy_Bear",
-            "handedness_right",
+            "pilot_pilot_noble",
             "pilot_pilot_reckless",
-            "pilot_steiner",
-            "pilot_merchant",
-            "stature_short",
             "eyes_heterochromatic",
-            "blood type_o_negative"
+            "blood type_o_negative",
+            "handedness_right",
+            "stature_short",
+            "name_Mummy_Bear",
+            "bloodtype_ab_positive",
+            "eyes_brown",
+            "pilot_steiner",
+            "handedness_left",
+            "pilot_merchant"
         ],
         "tagSetSourceFile": ""
     },

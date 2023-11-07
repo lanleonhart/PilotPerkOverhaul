@@ -31,14 +31,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
+            "bloodtype_o_positive",
             "blood type_ab_negative",
-            "name_Succubus",
             "handedness_right",
             "eyes_blue",
-            "pilot_steiner",
             "stature_short",
+            "stature_below average",
             "pilot_inconspicuous",
-            "pilot_pilot_traumatic_injury"
+            "eyes_green",
+            "pilot_steiner",
+            "pilot_officer",
+            "pilot_pilot_traumatic_injury",
+            "name_Succubus"
         ],
         "tagSetSourceFile": ""
     },

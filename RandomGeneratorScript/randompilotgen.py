@@ -41,8 +41,11 @@ characteristics = {
     "Stature": ["Average", "Tall", "Above Average", "Short", "Below Average"],
 }
 
-# Output folder for JSON files
-output_folder = r"C:\Users\Silver\Documents\GitHub\White-Fire\PilotPerkOverhaul\RandomGeneratorScript\PilotGeneration"
+# Get the directory of the script
+script_directory = os.path.dirname(__file__)
+
+# Output folder for JSON files relative to the script's location
+output_folder = os.path.join(script_directory, "PilotGeneration")
 
 # Create the output folder if it doesn't exist
 os.makedirs(output_folder, exist_ok=True)
@@ -116,7 +119,7 @@ for pilot_category, pilot_name in sorted_pilots:
             "items": [
                 f"eyes_{pilot_characteristics['Eyes'].lower()}",
                 f"handedness_{pilot_characteristics['Handedness'].lower()}",
-                f"blood type_{pilot_characteristics['Blood Type'].replace('+', '_positive').replace('-', '_negative').lower()}",
+                f"bloodtype_{pilot_characteristics['Blood Type'].replace('+', '_positive').replace('-', '_negative').lower()}",
                 f"stature_{pilot_characteristics['Stature'].lower()}",
             ]
         }

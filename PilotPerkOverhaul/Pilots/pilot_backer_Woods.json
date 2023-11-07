@@ -31,13 +31,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_blue",
-            "handedness_right",
-            "pilot_pilot_honest",
-            "blood type_ab_positive",
-            "stature_short",
             "pilot_kurita",
+            "blood type_ab_positive",
             "pilot_gladiator",
+            "bloodtype_ab_negative",
+            "handedness_right",
+            "stature_short",
+            "eyes_blue",
+            "stature_below average",
+            "pilot_spacer",
+            "pilot_pilot_honest",
             "name_Ice_Trey"
         ],
         "tagSetSourceFile": ""

@@ -34,15 +34,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
+            "pilot_pilot_reject",
             "pilot_marik",
-            "blood type_o_positive",
-            "stature_below average",
             "pilot_military",
-            "handedness_left",
-            "name_Bronzite",
-            "eyes_brown",
             "pilot_gladiator",
-            "pilot_pilot_fragile"
+            "blood type_o_positive",
+            "bloodtype_ab_negative",
+            "stature_below average",
+            "stature_short",
+            "name_Bronzite",
+            "pilot_pilot_fragile",
+            "eyes_brown",
+            "handedness_left",
+            "handedness_ambidextrous",
+            "pilot_merchant"
         ],
         "tagSetSourceFile": ""
     },

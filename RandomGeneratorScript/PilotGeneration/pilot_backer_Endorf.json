@@ -1,0 +1,15 @@
+{
+    "Id": "pilot_backer_Endorf",
+    "PilotTags": {
+        "items": [
+            "eyes_blue",
+            "handedness_right",
+            "bloodtype_ab_negative",
+            "stature_short",
+            "pilot_calm",
+            "pilot_merchant",
+            "pilot_pilot_drunk",
+            "pilot_pilot_zealot"
+        ]
+    }
+}

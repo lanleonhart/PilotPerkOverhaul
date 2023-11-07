@@ -33,14 +33,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_green",
+            "eyes_hazel",
+            "pilot_military",
+            "pilot_gladiator",
+            "pilot_periphery",
             "blood type_ab_negative",
             "handedness_right",
-            "pilot_military",
-            "stature_above average",
             "name_Gearhead",
-            "pilot_periphery",
-            "pilot_gladiator"
+            "eyes_green",
+            "stature_tall",
+            "stature_above average",
+            "pilot_lucky",
+            "handedness_ambidextrous",
+            "bloodtype_o_positive"
         ],
         "tagSetSourceFile": ""
     },

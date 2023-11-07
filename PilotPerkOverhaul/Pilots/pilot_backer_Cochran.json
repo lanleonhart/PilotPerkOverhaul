@@ -33,14 +33,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_ex-comstar",
-            "blood type_ab_negative",
-            "eyes_blue",
-            "handedness_right",
-            "pilot_periphery",
-            "stature_tall",
             "pilot_pilot_nearsighted",
-            "name_Gridlock"
+            "name_Gridlock",
+            "pilot_military",
+            "pilot_assassin",
+            "bloodtype_o_negative",
+            "pilot_periphery",
+            "blood type_ab_negative",
+            "handedness_right",
+            "eyes_blue",
+            "stature_average",
+            "pilot_ex-comstar",
+            "stature_tall",
+            "eyes_brown",
+            "handedness_left"
         ],
         "tagSetSourceFile": ""
     },

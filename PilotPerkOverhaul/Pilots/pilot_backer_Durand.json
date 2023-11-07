@@ -33,12 +33,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
+            "eyes_hazel",
+            "pilot_calm",
             "blood type_ab_negative",
-            "stature_average",
             "handedness_right",
+            "stature_average",
+            "stature_below average",
             "name_Bullet_Trap",
+            "bloodtype_a_positive",
             "pilot_inconspicuous",
+            "pilot_pilot_fragile",
             "eyes_brown",
+            "pilot_technician",
             "pilot_davion"
         ],
         "tagSetSourceFile": ""

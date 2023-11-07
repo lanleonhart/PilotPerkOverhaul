@@ -31,16 +31,23 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "name_Squire",
-            "pilot_pilot_feral",
             "pilot_pilot_nearsighted",
-            "handedness_right",
-            "stature_above average",
+            "pilot_pilot_feral",
             "blood type_ab_positive",
-            "pilot_inconspicuous",
-            "eyes_brown",
             "pilot_gladiator",
-            "pilot_davion"
+            "bloodtype_o_negative",
+            "handedness_right",
+            "stature_below average",
+            "pilot_deadeye",
+            "pilot_pilot_pretentious",
+            "pilot_inconspicuous",
+            "eyes_green",
+            "stature_above average",
+            "eyes_brown",
+            "pilot_pilot_bushido",
+            "pilot_pilot_bookish",
+            "pilot_davion",
+            "name_Squire"
         ],
         "tagSetSourceFile": ""
     },

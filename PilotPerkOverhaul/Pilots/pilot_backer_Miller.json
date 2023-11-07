@@ -31,14 +31,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "name_Deadeye",
-            "stature_average",
-            "handedness_right",
-            "pilot_athletic",
-            "pilot_steiner",
-            "eyes_brown",
             "pilot_pilot_noble",
-            "blood type_a_positive"
+            "handedness_right",
+            "stature_average",
+            "name_Deadeye",
+            "blood type_a_positive",
+            "eyes_green",
+            "bloodtype_b_positive",
+            "stature_tall",
+            "eyes_brown",
+            "pilot_steiner",
+            "pilot_brave",
+            "pilot_athletic"
         ],
         "tagSetSourceFile": ""
     },

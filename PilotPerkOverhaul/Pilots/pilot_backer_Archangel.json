@@ -41,15 +41,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_bookish",
-            "pilot_spacer",
-            "stature_average",
-            "blood type_b_positive",
             "eyes_hazel",
             "pilot_calm",
+            "pilot_lostech",
             "pilot_periphery",
-            "name_Archangel",
-            "handedness_ambidextrous"
+            "handedness_right",
+            "stature_below average",
+            "stature_average",
+            "eyes_blue",
+            "pilot_spacer",
+            "pilot_pilot_bookish",
+            "bloodtype_b_positive",
+            "handedness_ambidextrous",
+            "blood type_b_positive",
+            "name_Archangel"
         ],
         "tagSetSourceFile": ""
     },

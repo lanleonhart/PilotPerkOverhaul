@@ -35,14 +35,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_green",
-            "handedness_right",
-            "name_War_Boar",
             "blood type_ab_positive",
+            "bloodtype_o_negative",
+            "name_War_Boar",
+            "handedness_right",
+            "stature_below average",
+            "pilot_pilot_pretentious",
+            "pilot_deadeye",
+            "eyes_green",
             "pilot_brave",
-            "pilot_steiner",
             "stature_tall",
-            "pilot_pilot_pretentious"
+            "pilot_pilot_zealot",
+            "pilot_steiner",
+            "handedness_left"
         ],
         "tagSetSourceFile": ""
     },

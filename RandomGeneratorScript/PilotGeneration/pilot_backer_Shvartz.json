@@ -1,15 +1,14 @@
 {
-    "Id": "pilot_ronin_Wildfire",
+    "Id": "pilot_backer_Shvartz",
     "PilotTags": {
         "items": [
             "eyes_brown",
             "handedness_right",
-            "blood type_ab_positive",
-            "stature_above average",
+            "bloodtype_ab_negative",
+            "stature_average",
             "pilot_ex-comstar",
-            "pilot_spacer",
             "pilot_pilot_criminal",
-            "pilot_pilot_nervous"
+            "pilot_pilot_klutz"
         ]
     }
 }

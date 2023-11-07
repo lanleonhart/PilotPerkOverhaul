@@ -36,13 +36,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "blood type_o_positive",
-            "name_God",
-            "eyes_blue",
-            "pilot_pilot_klutz",
-            "handedness_left",
-            "stature_tall",
+            "eyes_hazel",
             "pilot_gladiator",
+            "blood type_o_positive",
+            "pilot_calm",
+            "name_God",
+            "handedness_right",
+            "eyes_blue",
+            "stature_short",
+            "pilot_pilot_klutz",
+            "bloodtype_a_positive",
+            "stature_tall",
+            "pilot_pilot_fragile",
+            "handedness_left",
             "pilot_liao"
         ],
         "tagSetSourceFile": ""
