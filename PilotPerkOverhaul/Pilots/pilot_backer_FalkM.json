@@ -33,18 +33,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_tech",
+            "eyes_green",
+            "blood type_ab_negative",
+            "handedness_right",
             "pilot_military",
-            "pilot_criminal",
-            "pilot_gladiator",
+            "stature_above average",
             "name_Gearhead",
-            "pilot_valkyrate"
+            "pilot_periphery",
+            "pilot_gladiator"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

@@ -36,18 +36,17 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_tech",
-            "pilot_military",
-            "pilot_merchant",
-            "pilot_mechwarrior",
+            "blood type_ab_negative",
+            "stature_below average",
+            "eyes_blue",
+            "pilot_athletic",
+            "pilot_kurita",
             "name_Popo",
-            "pilot_kurita"
+            "handedness_ambidextrous"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

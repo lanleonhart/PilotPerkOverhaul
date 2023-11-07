@@ -37,19 +37,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_spacer",
-            "pilot_command",
-            "pilot_athletic",
-            "pilot_mechwarrior",
+            "pilot_pilot_bushido",
+            "handedness_right",
+            "eyes_blue",
+            "pilot_calm",
+            "pilot_steiner",
             "name_Hammer",
-            "pilot_steiner"
+            "stature_tall",
+            "pilot_pilot_fragile",
+            "blood type_a_positive"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

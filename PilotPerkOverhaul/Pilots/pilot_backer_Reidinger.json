@@ -36,19 +36,13 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_tech",
-            "pilot_spacer",
-            "pilot_lucky",
-            "pilot_gladiator",
+
             "name_Ariamaki",
-            "pilot_outworld"
+            "pilot_periphery"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

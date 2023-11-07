@@ -38,18 +38,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_lucky",
-            "pilot_gladiator",
-            "pilot_dependable",
             "name_Ronin",
-            "pilot_kurita"
+            "pilot_pilot_bookish",
+            "stature_average",
+            "handedness_right",
+            "blood type_b_positive",
+            "pilot_military",
+            "pilot_kurita",
+            "eyes_brown"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

@@ -31,17 +31,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_military",
-            "pilot_gladiator",
+            "eyes_green",
+            "pilot_marik",
+            "blood type_o_positive",
+            "pilot_officer",
+            "pilot_pilot_drunk",
             "name_Live_Fire",
-            "pilot_marik"
+            "stature_above average",
+            "pilot_pilot_reject",
+            "handedness_ambidextrous"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

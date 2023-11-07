@@ -31,16 +31,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_criminal",
+            "eyes_green",
+            "handedness_right",
             "name_Spenthia",
-            "pilot_davion"
+            "pilot_lucky",
+            "stature_short",
+            "blood type_a_negative",
+            "pilot_pilot_nearsighted",
+            "pilot_davion",
+            "pilot_assassin"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

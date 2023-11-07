@@ -34,19 +34,17 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_tech",
+            "eyes_green",
             "pilot_spacer",
-            "pilot_military",
-            "pilot_merchant",
-            "pilot_mechwarrior",
+            "stature_average",
             "name_Omega",
-            "pilot_davion"
+            "handedness_left",
+            "pilot_davion",
+            "blood type_a_positive"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

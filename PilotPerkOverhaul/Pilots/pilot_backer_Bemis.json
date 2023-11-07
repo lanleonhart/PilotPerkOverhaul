@@ -34,19 +34,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_merchant",
-            "pilot_mechwarrior",
-            "pilot_command",
-            "pilot_comstar",
+            "pilot_pilot_feral",
+            "pilot_pilot_bookish",
+            "blood type_ab_negative",
+            "pilot_pilot_klutz",
             "name_VonKobra",
-            "pilot_magistracy"
+            "eyes_hazel",
+            "handedness_left",
+            "stature_above average",
+            "pilot_commander",
+            "pilot_periphery"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

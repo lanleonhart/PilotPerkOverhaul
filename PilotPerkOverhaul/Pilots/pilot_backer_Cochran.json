@@ -33,18 +33,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_reckless",
-            "pilot_dependable",
-            "name_Gridlock",
-            "pilot_outworld"
+            "pilot_ex-comstar",
+            "blood type_ab_negative",
+            "eyes_blue",
+            "handedness_right",
+            "pilot_periphery",
+            "stature_tall",
+            "pilot_pilot_nearsighted",
+            "name_Gridlock"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

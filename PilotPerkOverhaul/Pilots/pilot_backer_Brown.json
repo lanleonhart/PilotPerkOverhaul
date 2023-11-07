@@ -36,18 +36,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_brave",
-            "pilot_command",
-            "pilot_mechwarrior",
+            "pilot_pilot_nearsighted",
             "name_Bootcamp",
-            "pilot_steiner"
+            "blood type_b_positive",
+            "pilot_steiner",
+            "stature_short",
+            "eyes_brown",
+            "handedness_ambidextrous",
+            "pilot_gunslinger"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

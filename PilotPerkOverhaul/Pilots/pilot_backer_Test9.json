@@ -38,20 +38,21 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_command",
-            "pilot_dependable",
-            "pilot_bookish",
             "name_Test9",
+            "pilot_pilot_apathetic",
+            "eyes_blue",
+            "handedness_right",
+            "blood type_b_positive",
+            "pilot_pilot_honest",
+            "pilot_commander",
+            "pilot_pilot_redline",
+            "stature_short",
             "pilot_davion"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true,
-	"RoninRequiresWhitelist": true
+    "IsVanguard": false,
+    "RoninRequiresWhitelist": true
 }

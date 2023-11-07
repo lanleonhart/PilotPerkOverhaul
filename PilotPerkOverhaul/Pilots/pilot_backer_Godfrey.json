@@ -36,17 +36,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_merchant",
-            "pilot_bookish",
+            "blood type_o_positive",
             "name_God",
+            "eyes_blue",
+            "pilot_pilot_klutz",
+            "handedness_left",
+            "stature_tall",
+            "pilot_gladiator",
             "pilot_liao"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

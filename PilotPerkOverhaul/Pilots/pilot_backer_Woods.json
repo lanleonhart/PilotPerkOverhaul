@@ -31,16 +31,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "name_Ice_Trey",
-            "pilot_kurita"
+            "eyes_blue",
+            "handedness_right",
+            "pilot_pilot_honest",
+            "blood type_ab_positive",
+            "stature_short",
+            "pilot_kurita",
+            "pilot_gladiator",
+            "name_Ice_Trey"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

@@ -39,13 +39,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_brave",
-            "pilot_assassin",
+            "pilot_pilot_feral",
+            "stature_below average",
+            "pilot_pilot_zealot",
+            "handedness_right",
+            "blood type_b_positive",
+            "pilot_athletic",
             "name_Kraken",
-            "pilot_aurigan"
+            "pilot_periphery",
+            "eyes_heterochromatic",
+            "pilot_lostech",
+            "pilot_pilot_limitedvision",
+            "pilot_assassin"
         ],
         "tagSetSourceFile": ""
     },

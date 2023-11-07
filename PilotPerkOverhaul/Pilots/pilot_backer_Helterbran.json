@@ -36,21 +36,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_tech",
-            "pilot_military",
-            "pilot_merchant",
-            "pilot_criminal",
-            "pilot_spacer",
-            "pilot_lucky",
-            "pilot_mechwarrior",
+            "pilot_pilot_zealot",
+            "stature_average",
+            "eyes_blue",
+            "handedness_right",
+            "blood type_ab_positive",
             "name_Pathfinder",
-            "pilot_circinus"
+            "pilot_brave",
+            "pilot_periphery",
+            "pilot_lucky"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

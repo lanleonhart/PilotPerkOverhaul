@@ -37,13 +37,7 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_bookish",
-            "pilot_tech",
-            "pilot_spacer",
-            "pilot_mechwarrior",
+
             "name_Tinker",
             "pilot_davion"
         ],
@@ -51,5 +45,5 @@
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

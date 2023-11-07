@@ -39,19 +39,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_merchant",
-            "pilot_bookish",
-            "pilot_gladiator",
-            "pilot_military",
-            "pilot_mechwarrior",
+            "pilot_pilot_feral",
             "name_Paradox",
-            "pilot_steiner"
+            "stature_below average",
+            "eyes_blue",
+            "handedness_left",
+            "pilot_steiner",
+            "pilot_deadeye",
+            "blood type_a_negative"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

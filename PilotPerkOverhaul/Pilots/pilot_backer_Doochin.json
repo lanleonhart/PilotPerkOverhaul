@@ -36,20 +36,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_criminal",
+            "blood type_ab_negative",
             "pilot_spacer",
-            "pilot_lucky",
-            "pilot_bookish",
-            "pilot_mechwarrior",
-            "pilot_military",
+            "handedness_right",
+            "eyes_blue",
+            "pilot_pilot_dishonest",
+            "pilot_steiner",
             "name_El_Duce",
-            "pilot_steiner"
+            "stature_short"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

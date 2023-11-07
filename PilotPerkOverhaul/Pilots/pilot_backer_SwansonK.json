@@ -33,12 +33,7 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_dependable",
-            "pilot_cautious",
+
             "name_Ulysses",
             "pilot_liao"
         ],
@@ -46,5 +41,5 @@
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

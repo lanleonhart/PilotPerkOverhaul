@@ -36,12 +36,11 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_bookish",
-            "pilot_military",
-            "pilot_command",
-            "pilot_gladiator",
+            "stature_below average",
+            "handedness_right",
+            "pilot_calm",
+            "eyes_hazel",
+            "blood type_ab_positive",
             "name_Eck",
             "pilot_liao"
         ],
@@ -49,5 +48,5 @@
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

@@ -34,19 +34,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_tech",
-            "pilot_spacer",
+            "pilot_marik",
+            "blood type_o_positive",
+            "stature_below average",
             "pilot_military",
-            "pilot_merchant",
-            "pilot_mechwarrior",
+            "handedness_left",
             "name_Bronzite",
-            "pilot_marik"
+            "eyes_brown",
+            "pilot_gladiator",
+            "pilot_pilot_fragile"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

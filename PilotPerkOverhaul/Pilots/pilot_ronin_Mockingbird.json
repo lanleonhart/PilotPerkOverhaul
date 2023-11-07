@@ -42,13 +42,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_klutz",
-            "pilot_naive",
+            "pilot_pilot_bookish",
+            "handedness_right",
+            "blood type_ab_positive",
             "name_Mockingbird",
-            "pilot_taurian"
+            "pilot_periphery",
+            "pilot_lucky",
+            "stature_tall",
+            "pilot_pilot_nearsighted",
+            "eyes_heterochromatic",
+            "pilot_gunslinger"
         ],
         "tagSetSourceFile": ""
     },

@@ -31,18 +31,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_bookish",
-            "name_Whisper",
-            "pilot_taurian"
+            "pilot_taurian",
+            "eyes_green",
+            "handedness_right",
+            "stature_above average",
+            "blood type_ab_positive",
+            "pilot_brave",
+            "pilot_pilot_criminal",
+            "name_Whisper"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

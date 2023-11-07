@@ -31,17 +31,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "name_McWraith",
-            "pilot_davion"
+            "pilot_officer",
+            "handedness_right",
+            "eyes_hazel",
+            "pilot_davion",
+            "pilot_athletic",
+            "pilot_pilot_lazyeye",
+            "stature_short",
+            "blood type_a_negative",
+            "name_McWraith"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

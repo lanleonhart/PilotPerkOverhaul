@@ -35,18 +35,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_dependable",
-            "pilot_command",
-            "pilot_gladiator",
             "name_Death_Krusade",
-            "pilot_outworld"
+            "pilot_pilot_conspicious",
+            "stature_average",
+            "eyes_blue",
+            "pilot_resilient",
+            "handedness_left",
+            "pilot_periphery",
+            "blood type_a_negative",
+            "pilot_pilot_noble"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

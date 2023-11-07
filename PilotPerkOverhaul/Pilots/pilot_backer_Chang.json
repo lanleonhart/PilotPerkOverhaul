@@ -36,19 +36,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_merchant",
-            "pilot_bookish",
-            "pilot_lucky",
-            "pilot_military",
-            "pilot_mechwarrior",
             "name_Falcon",
-            "pilot_liao"
+            "pilot_liao",
+            "pilot_pilot_feral",
+            "stature_below average",
+            "pilot_calm",
+            "eyes_hazel",
+            "pilot_pilot_redline",
+            "blood type_a_negative",
+            "pilot_pilot_nearsighted",
+            "handedness_ambidextrous"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

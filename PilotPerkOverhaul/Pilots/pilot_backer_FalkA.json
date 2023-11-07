@@ -35,20 +35,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_tech",
-            "pilot_spacer",
-            "pilot_military",
-            "pilot_command",
-            "pilot_mechwarrior",
+            "pilot_pilot_bookish",
+            "blood type_o_positive",
+            "eyes_blue",
+            "handedness_right",
+            "stature_above average",
             "name_Phantom",
-            "pilot_outworld"
+            "pilot_periphery",
+            "pilot_gladiator"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

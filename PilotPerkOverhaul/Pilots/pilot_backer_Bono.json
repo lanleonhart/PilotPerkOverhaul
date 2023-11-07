@@ -31,17 +31,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_gladiator",
-            "pilot_mechwarrior",
+            "pilot_ex-comstar",
+            "pilot_officer",
             "name_T-Bone",
-            "pilot_steiner"
+            "handedness_right",
+            "eyes_blue",
+            "pilot_steiner",
+            "stature_tall",
+            "blood type_a_negative"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

@@ -33,20 +33,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_tech",
+            "pilot_pilot_bookish",
+            "pilot_marik",
             "pilot_spacer",
-            "pilot_criminal",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_brave",
+            "stature_average",
+            "handedness_right",
             "name_WeaselCakes",
-            "pilot_marik"
+            "eyes_brown",
+            "blood type_o_negative"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

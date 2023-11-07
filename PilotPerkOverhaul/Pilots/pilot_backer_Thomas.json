@@ -17,7 +17,7 @@
     "BonusPiloting": 0,
     "BaseGuts": "2",
     "BonusGuts": 0,
-    "BaseTactics": "6",
+    "BaseTactics": "3",
     "BonusTactics": 0,
     "ExperienceUnspent": 0,
     "ExperienceSpent": 6200,
@@ -36,20 +36,21 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_bookish",
-            "pilot_tech",
-            "pilot_military",
-            "pilot_merchant",
-            "pilot_mechwarrior",
-            "pilot_criminal",
+            "stature_below average",
+            "pilot_pilot_jinxed",
+            "handedness_right",
+            "blood type_o_negative",
+            "pilot_pilot_honest",
+            "pilot_green",
+            "pilot_lucky",
+            "pilot_kurita",
+            "eyes_brown",
             "name_Hacker",
-            "pilot_kurita"
+            "experience_green"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

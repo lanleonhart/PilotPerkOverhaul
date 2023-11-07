@@ -42,13 +42,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_criminal",
-            "pilot_tech",
+            "blood type_ab_negative",
+            "pilot_pilot_bushido",
+            "eyes_blue",
+            "handedness_right",
+            "pilot_calm",
+            "pilot_pilot_reckless",
+            "pilot_periphery",
+            "pilot_inconspicuous",
             "name_Arclight",
-            "pilot_aurigan"
+            "stature_tall"
         ],
         "tagSetSourceFile": ""
     },

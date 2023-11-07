@@ -36,17 +36,17 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_merchant",
-            "pilot_bookish",
-            "pilot_mechwarrior",
+            "handedness_right",
             "name_Sabercat",
+            "stature_above average",
+            "blood type_ab_positive",
+            "eyes_brown",
+            "pilot_gladiator",
             "pilot_davion"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

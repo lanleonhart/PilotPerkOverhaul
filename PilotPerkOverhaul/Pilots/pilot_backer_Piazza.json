@@ -31,16 +31,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
+            "pilot_ex-comstar",
+            "blood type_o_positive",
             "name_Rook",
-            "pilot_steiner"
+            "handedness_right",
+            "eyes_hazel",
+            "pilot_steiner",
+            "pilot_pilot_lazyeye",
+            "stature_short"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

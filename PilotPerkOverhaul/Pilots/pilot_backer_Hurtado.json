@@ -34,19 +34,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_criminal",
-            "pilot_cautious",
-            "pilot_military",
-            "pilot_command",
-            "pilot_mechwarrior",
+            "blood type_ab_negative",
+            "stature_below average",
+            "pilot_pilot_zealot",
+            "handedness_right",
+            "pilot_calm",
             "name_Brother",
+            "eyes_brown",
             "pilot_davion"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

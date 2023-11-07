@@ -37,18 +37,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_merchant",
-            "pilot_dependable",
-            "pilot_gladiator",
             "name_Dragon_66",
+            "blood type_ab_negative",
+            "pilot_pilot_drunk",
+            "pilot_spacer",
+            "eyes_hazel",
+            "handedness_left",
+            "pilot_pilot_fragile",
+            "stature_tall",
             "pilot_davion"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

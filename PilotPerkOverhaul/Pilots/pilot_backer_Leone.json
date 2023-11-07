@@ -31,17 +31,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_gladiator",
-            "pilot_naive",
+            "blood type_ab_negative",
             "name_Succubus",
-            "pilot_steiner"
+            "handedness_right",
+            "eyes_blue",
+            "pilot_steiner",
+            "stature_short",
+            "pilot_inconspicuous",
+            "pilot_pilot_traumatic_injury"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

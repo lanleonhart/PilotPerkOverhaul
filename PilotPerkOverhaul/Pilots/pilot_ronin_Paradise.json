@@ -41,13 +41,17 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_dishonest",
-            "pilot_tech",
             "name_Paradise",
-            "pilot_aurgian"
+            "pilot_ex-comstar",
+            "pilot_spacer",
+            "stature_average",
+            "pilot_pilot_reckless",
+            "pilot_commander",
+            "pilot_periphery",
+            "pilot_pilot_criminal",
+            "eyes_heterochromatic",
+            "blood type_a_positive",
+            "handedness_ambidextrous"
         ],
         "tagSetSourceFile": ""
     },

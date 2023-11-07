@@ -31,17 +31,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_merchant",
-            "pilot_mechwarrior",
-            "name_Sabrewolf",
-            "pilot_lothian"
+            "stature_below average",
+            "pilot_gunslinger",
+            "handedness_right",
+            "pilot_brave",
+            "pilot_periphery",
+            "blood type_a_negative",
+            "eyes_heterochromatic",
+            "pilot_pilot_pretentious",
+            "name_Sabrewolf"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

@@ -35,18 +35,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_military",
-            "pilot_merchant",
-            "pilot_mechwarrior",
+            "pilot_pilot_zealot",
+            "handedness_right",
+            "pilot_athletic",
+            "eyes_brown",
+            "stature_tall",
             "name_Deedah",
-            "pilot_davion"
+            "pilot_technician",
+            "pilot_davion",
+            "blood type_o_negative"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

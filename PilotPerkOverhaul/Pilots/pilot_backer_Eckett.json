@@ -36,20 +36,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_bookish",
-            "pilot_spacer",
-            "pilot_lucky",
-            "pilot_merchant",
-            "pilot_cautious",
-            "pilot_mechwarrior",
             "name_Mummy_Bear",
-            "pilot_steiner"
+            "handedness_right",
+            "pilot_pilot_reckless",
+            "pilot_steiner",
+            "pilot_merchant",
+            "stature_short",
+            "eyes_heterochromatic",
+            "blood type_o_negative"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

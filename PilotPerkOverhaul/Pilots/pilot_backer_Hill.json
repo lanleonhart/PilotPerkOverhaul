@@ -37,18 +37,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_brave",
-            "pilot_tech",
-            "pilot_mechwarrior",
+            "pilot_pilot_zealot",
+            "pilot_gunslinger",
+            "handedness_right",
+            "eyes_hazel",
             "name_Dust_Raker",
-            "pilot_kurita"
+            "pilot_pilot_redline",
+            "stature_short",
+            "pilot_kurita",
+            "pilot_pilot_nearsighted",
+            "blood type_o_negative"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

@@ -38,13 +38,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_merchant",
-            "pilot_honest",
             "name_Wildfire",
-            "pilot_aurigan"
+            "pilot_ex-comstar",
+            "pilot_pilot_nervous",
+            "pilot_spacer",
+            "handedness_right",
+            "stature_above average",
+            "blood type_ab_positive",
+            "pilot_periphery",
+            "pilot_pilot_criminal",
+            "eyes_brown"
         ],
         "tagSetSourceFile": ""
     },

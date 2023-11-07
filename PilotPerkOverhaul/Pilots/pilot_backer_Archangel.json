@@ -41,19 +41,20 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_criminal",
-            "pilot_brave",
-            "pilot_reckless",
-            "pilot_lucky",
+            "pilot_pilot_bookish",
+            "pilot_spacer",
+            "stature_average",
+            "blood type_b_positive",
+            "eyes_hazel",
+            "pilot_calm",
+            "pilot_periphery",
             "name_Archangel",
-            "pilot_liao"
+            "handedness_ambidextrous"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true,
-	"RoninRequiresWhitelist": true
+    "IsVanguard": false,
+    "RoninRequiresWhitelist": true
 }

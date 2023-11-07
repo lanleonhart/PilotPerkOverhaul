@@ -35,18 +35,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_command",
-            "pilot_merchant",
-            "pilot_mechwarrior",
+            "eyes_green",
+            "pilot_pilot_drunk",
+            "stature_average",
             "name_Jester",
-            "pilot_steiner"
+            "handedness_left",
+            "pilot_steiner",
+            "pilot_merchant",
+            "blood type_a_negative"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

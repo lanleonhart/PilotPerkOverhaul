@@ -33,18 +33,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_criminal",
+            "eyes_green",
+            "handedness_right",
+            "pilot_pilot_honest",
             "name_Munin",
-            "pilot_kurita"
+            "blood type_ab_positive",
+            "stature_tall",
+            "pilot_kurita",
+            "pilot_technician"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

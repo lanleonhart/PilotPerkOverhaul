@@ -17,7 +17,7 @@
     "BonusPiloting": 0,
     "BaseGuts": "3",
     "BonusGuts": 0,
-    "BaseTactics": "5",
+    "BaseTactics": "4",
     "BonusTactics": 0,
     "ExperienceUnspent": 0,
     "ExperienceSpent": 5400,
@@ -35,19 +35,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_lucky",
-            "pilot_gladiator",
+            "eyes_green",
+            "handedness_right",
             "name_War_Boar",
-            "pilot_steiner"
+            "blood type_ab_positive",
+            "pilot_brave",
+            "pilot_steiner",
+            "stature_tall",
+            "pilot_pilot_pretentious"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

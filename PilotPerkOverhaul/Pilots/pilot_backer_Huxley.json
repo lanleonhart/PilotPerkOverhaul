@@ -34,14 +34,14 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
+            "pilot_pilot_bookish",
+            "blood type_ab_negative",
+            "handedness_right",
             "pilot_military",
-            "pilot_command",
-            "pilot_criminal",
-            "pilot_spacer",
-            "pilot_merchant",
-            "pilot_mechwarrior",
+            "stature_above average",
+            "pilot_pilot_criminal",
+            "pilot_inconspicuous",
+            "eyes_brown",
             "name_Strider",
             "pilot_liao"
         ],
@@ -49,5 +49,5 @@
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

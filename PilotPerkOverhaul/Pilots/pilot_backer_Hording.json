@@ -33,16 +33,17 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "name_Paladin",
-            "pilot_steiner"
+            "handedness_right",
+            "pilot_brave",
+            "pilot_steiner",
+            "stature_tall",
+            "blood type_a_negative",
+            "eyes_heterochromatic",
+            "name_Paladin"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

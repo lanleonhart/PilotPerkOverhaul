@@ -31,18 +31,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_wealthy",
+            "pilot_pilot_jinxed",
+            "handedness_right",
+            "eyes_hazel",
+            "blood type_ab_positive",
             "name_Kingwolf",
-            "pilot_davion"
+            "stature_tall",
+            "pilot_technician",
+            "pilot_davion",
+            "pilot_pilot_noble"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

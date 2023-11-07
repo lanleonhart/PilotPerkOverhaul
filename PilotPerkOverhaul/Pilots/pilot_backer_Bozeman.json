@@ -33,18 +33,19 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_noble",
-            "pilot_bookish",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "name_Finn",
-            "pilot_davion"
+            "eyes_green",
+            "blood type_o_positive",
+            "handedness_left",
+            "pilot_deadeye",
+            "stature_short",
+            "pilot_inconspicuous",
+            "pilot_pilot_nearsighted",
+            "pilot_davion",
+            "name_Finn"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

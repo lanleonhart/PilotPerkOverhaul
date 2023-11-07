@@ -36,18 +36,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_backer",
-            "BLACKLISTED",
-            "pilot_criminal",
-            "pilot_military",
-            "pilot_command",
-            "pilot_mechwarrior",
+            "stature_below average",
+            "handedness_left",
+            "pilot_lucky",
+            "blood type_a_negative",
             "name_Exodus",
-            "pilot_davion"
+            "pilot_davion",
+            "pilot_pilot_noble",
+            "eyes_heterochromatic"
         ],
         "tagSetSourceFile": ""
     },
     "PilotCost": 0,
     "IsRonin": true,
-    "IsVanguard": true
+    "IsVanguard": false
 }

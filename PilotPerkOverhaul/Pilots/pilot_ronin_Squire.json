@@ -31,12 +31,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "BLACKLISTED",
             "name_Squire",
-            "pilot_bookish",
-            "pilot_tech",
-            "pilot_brave",
-            "pilot_mechwarrior",
+            "pilot_pilot_feral",
+            "pilot_pilot_nearsighted",
+            "handedness_right",
+            "stature_above average",
+            "blood type_ab_positive",
+            "pilot_inconspicuous",
+            "eyes_brown",
+            "pilot_gladiator",
             "pilot_davion"
         ],
         "tagSetSourceFile": ""
@@ -44,5 +47,5 @@
     "PilotCost": 0,
     "IsRonin": true,
     "IsVanguard": false,
-	"RoninRequiresWhitelist": true
+    "RoninRequiresWhitelist": true
 }

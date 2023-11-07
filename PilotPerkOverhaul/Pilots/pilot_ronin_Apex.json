@@ -38,13 +38,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "BLACKLISTED",
-            "pilot_military",
-            "pilot_mechwarrior",
-            "pilot_athletic",
-            "pilot_lucky",
+            "pilot_pilot_feral",
             "name_Apex",
-            "pilot_Aurigan"
+            "blood type_ab_negative",
+            "stature_average",
+            "handedness_right",
+            "pilot_deadeye",
+            "pilot_merchant",
+            "pilot_periphery",
+            "eyes_brown",
+            "pilot_gladiator"
         ],
         "tagSetSourceFile": ""
     },
