@@ -1,6 +1,50 @@
-import random
 import os
 import json
+import zipfile
+import random
+
+# List of valid faction tags
+valid_faction_tags = [
+    "pilot_davion",
+    "pilot_marik",
+    "pilot_liao",
+    # ... (other valid faction tags) ...
+    "pilot_worldofblake"
+]
+
+# Exceptions for tags
+tag_exceptions = ["eyes", "handedness", "bloodtype", "stature"]
+
+# Get the directory of the script
+script_directory = os.path.dirname(__file__)
+
+# Directory paths
+input_directory = os.path.join(script_directory, "PilotGeneration")
+output_directory = os.path.join(script_directory, "..", "PilotPerkOverhaul", "Pilots")
+revert_zip_file = os.path.join(script_directory, "..", "PilotPerkOverhaul", "Pilots", "revert.zip")
+
+# Delete existing JSON files in the "Pilots" folder
+for filename in os.listdir(output_directory):
+    if filename.endswith(".json"):
+        file_path = os.path.join(output_directory, filename)
+        os.remove(file_path)
+
+# Delete existing JSON files in the "PilotGeneration" folder
+for filename in os.listdir(input_directory):
+    if filename.endswith(".json"):
+        file_path = os.path.join(input_directory, filename)
+        os.remove(file_path)
+
+# Extract and copy JSON files from "revert.zip" to "Pilots" folder
+with zipfile.ZipFile(revert_zip_file, "r") as zip_file:
+    for zip_info in zip_file.infolist():
+        if zip_info.filename.endswith(".json"):
+            extracted_tags = json.loads(zip_file.read(zip_info.filename))
+            with open(os.path.join(output_directory, zip_info.filename), "w") as output_file:
+                json.dump(extracted_tags, output_file, indent=4)
+                print(f"Replaced {zip_info.filename}")
+
+print("All JSON files have been replaced with fresh copies.")
 
 # Data
 pilots = {
@@ -35,14 +79,11 @@ perk_categories = {
 
 # Characteristics
 characteristics = {
-    "Eyes": ["Heterochromatic", "Brown", "Blue", "Green", "Hazel"],
-    "Handedness": ["Right", "Left", "Ambidextrous"],
-    "Blood Type": ["B+", "A-", "O+", "A+", "AB-", "AB+", "O-"],
-    "Stature": ["Average", "Tall", "Above Average", "Short", "Below Average"],
+    "Eyes": ["eyes_heterochromatic", "eyes_brown", "eyes_blue", "eyes_green", "eyes_hazel"],
+    "Handedness": ["handedness_right", "handedness_left", "handedness_ambidextrous"],
+    "Blood Type": ["bloodtype_b_positive", "bloodtype_a_negative", "bloodtype_o_positive", "bloodtype_a_positive", "bloodtype_ab_negative", "bloodtype_ab_positive", "bloodtype_o_negative"],
+    "Stature": ["stature_average", "stature_tall", "stature_above_average", "stature_short", "stature_below_average"],
 }
-
-# Get the directory of the script
-script_directory = os.path.dirname(__file__)
 
 # Output folder for JSON files relative to the script's location
 output_folder = os.path.join(script_directory, "PilotGeneration")
@@ -98,6 +139,7 @@ def generate_perks(pilot_category):
     }
 
     return perks, pilot_characteristics
+
 # Output for individual pilot information
 output = []
 
@@ -137,3 +179,63 @@ for pilot_data in output:
     with open(output_file, "w") as file:
         json.dump(pilot_data, file, indent=4)
         print(f"JSON file created for {pilot_id} in '{output_file}'")
+
+def merge_pilot_tags_for_files(pilots_directory, pilot_generation_directory):
+    # Iterate through the files in the Pilots directory
+    for filename in os.listdir(pilots_directory):
+        if filename.endswith(".json"):
+            pilots_file_path = os.path.join(pilots_directory, filename)
+            pilot_generation_file_path = os.path.join(pilot_generation_directory, filename)
+
+            if os.path.exists(pilot_generation_file_path):
+                # Read data from the Pilots file
+                with open(pilots_file_path, "r") as pilots_file:
+                    pilots_data = json.load(pilots_file)
+
+                # Read data from the PilotGeneration file
+                with open(pilot_generation_file_path, "r") as pilot_generation_file:
+                    pilot_generation_data = json.load(pilot_generation_file)
+
+                # Merge PilotTags items without duplicates and with correct prefixes
+                if "PilotTags" in pilots_data and "PilotTags" in pilot_generation_data:
+                    pilot_tags_existing = pilots_data["PilotTags"]["items"]
+                    pilot_tags_new = pilot_generation_data["PilotTags"]["items"]
+
+                    # Merge the tags, ensuring there are no duplicates and adding the correct prefixes
+                    pilot_tags_merged = []
+
+                    for tag in pilot_tags_new:
+                        # Remove the extra prefixes
+                        if tag.startswith("eyes_"):
+                            tag = tag[len("eyes_"):]
+                        elif tag.startswith("handedness_"):
+                            tag = tag[len("handedness_"):]
+                        elif tag.startswith("bloodtype_"):
+                            tag = tag[len("bloodtype_"):]
+                        elif tag.startswith("stature_"):
+                            tag = tag[len("stature_"):]
+
+                        # Add the correct prefix
+                        if tag not in pilot_tags_existing:
+                            if tag == "left" or tag == "right" or tag == "ambidextrous":
+                                tag = f"handedness_{tag}"
+                            pilot_tags_merged.append(tag)
+
+                    pilots_data["PilotTags"]["items"].extend(pilot_tags_merged)
+
+                # Write the updated data back to the Pilots file
+                with open(pilots_file_path, "w") as pilots_file:
+                    json.dump(pilots_data, pilots_file, indent=4)
+
+                print(f"PilotTags merged successfully for {filename}")
+
+
+                # Write the updated data back to the Pilots file
+                with open(pilots_file_path, "w") as pilots_file:
+                    json.dump(pilots_data, pilots_file, indent=4)
+
+                print(f"PilotTags merged successfully for {filename}")
+
+
+# Call the function to merge PilotTags for all files
+merge_pilot_tags_for_files(output_directory, output_folder)
