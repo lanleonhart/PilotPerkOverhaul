@@ -16,9 +16,9 @@ sorted_pilots = [(category, name) for category, names in pilots.items() for name
 # Perk categories
 perk_categories = {
     "Positive": [
-        "Assassin", "Athletic", "Commander", "ex-Comstar", "LosTech", "Merchant", "Military", "Spacer", 
-        "Technician", "Resilient", "Gunslinger", "DeadEye", "Gladiator", "Officer", "Brave", "Inconspicuous", 
-        "Calm", "Lucky"
+        "pilot_assassin", "pilot_athletic", "pilot_commander", "pilot_ex-comstar", "pilot_lostech", "pilot_merchant", "pilot_military", "pilot_spacer",
+        "pilot_technician", "pilot_resilient", "pilot_gunslinger", "pilot_deadeye", "pilot_gladiator", "pilot_officer", "pilot_brave", "pilot_inconspicuous",
+        "pilot_calm", "pilot_lucky"
     ],
     "Mixed": [
         "pilot_bookish", "pilot_cautious", "pilot_criminal", "pilot_dependable",
@@ -28,8 +28,8 @@ perk_categories = {
     "Negative": [
         "pilot_klutz", "pilot_nervous", "pilot_fragile", "pilot_apathetic",
         "pilot_lazyeye", "pilot_traumatic_injury", "pilot_nearsighted",
-        "pilot_limitedvision", "pilot_conspicious", "pilot_pretentious",
-        "pilot_reject", "pilot_inconspicious", "pilot_jinxed"
+        "pilot_limitedvision", "pilot_conspicuous", "pilot_pretentious",
+        "pilot_reject","pilot_jinxed"
     ],
 }
 
@@ -98,7 +98,6 @@ def generate_perks(pilot_category):
     }
 
     return perks, pilot_characteristics
-
 # Output for individual pilot information
 output = []
 
@@ -125,8 +124,9 @@ for pilot_category, pilot_name in sorted_pilots:
         }
     }
 
-    traits = pilot_perks["Positive"] + pilot_perks["Mixed"] + pilot_perks["Negative"]
-    pilot_info["PilotTags"]["items"].extend([f"pilot_{trait.lower()}" for trait in traits])
+    # Add the "pilot_" prefix only to perk tags
+    traits = ["pilot_" + trait.lower() if not trait.startswith("pilot_") else trait.lower() for trait in pilot_perks["Positive"] + pilot_perks["Mixed"] + pilot_perks["Negative"]]
+    pilot_info["PilotTags"]["items"].extend(traits)
 
     output.append(pilot_info)  # Append the pilot information dictionary to the output list
 
