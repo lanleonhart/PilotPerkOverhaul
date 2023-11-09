@@ -4,12 +4,15 @@ import zipfile
 import random
 
 # List of valid faction tags
-valid_faction_tags = [
-    "pilot_davion",
-    "pilot_marik",
-    "pilot_liao",
-    # ... (other valid faction tags) ...
-    "pilot_worldofblake"
+faction_tags = [
+    "pilot_aurigan", "pilot_bloodspirit.json", "pilot_burrock.json", "pilot_circinus.json", "pilot_cloudcobra.json",
+    "pilot_comstar", "pilot_coyote.json", "pilot_davion", "pilot_diamondshark.json", "pilot_firemandrill.json",
+    "pilot_ghostbear.json", "pilot_goliathscorpion.json", "pilot_hellshorses.json", "pilot_icehellion.json",
+    "pilot_illyria.json", "pilot_ives.json", "pilot_kurita", "pilot_liao", "pilot_lothian.json", "pilot_magistracy",
+    "pilot_marian.json", "pilot_marik", "pilot_novacat.json", "pilot_outworld.json",
+    "pilot_periphery", "pilot_smokejaguar.json", "pilot_snowraven.json", "pilot_solaris.json",
+    "pilot_staradder.json", "pilot_steiner", "pilot_steelviper.json", "pilot_taurian", "pilot_tortuga.json",
+    "pilot_valkyrate.json", "pilot_wolf.json", "pilot_worldofblake.json"
 ]
 
 # Exceptions for tags
@@ -221,7 +224,7 @@ def merge_pilot_tags_for_files(pilots_directory, pilot_generation_directory):
 
                     for tag in pilot_tags_new:
                         # Check if the tag is a characteristic or a perk, and add the correct prefix
-                        if tag in valid_faction_tags:
+                        if tag in faction_tags:
                             tag = f"name_{tag}"
                         elif tag in tag_exceptions:
                             tag = f"{tag}_{pilot_tags_existing[tag_exceptions.index(tag)]}"
