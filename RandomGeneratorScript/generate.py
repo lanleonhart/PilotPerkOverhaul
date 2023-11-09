@@ -63,7 +63,7 @@ sorted_pilots = [(category, name) for category, names in pilots.items() for name
 # Perk categories
 perk_categories = {
     "Positive": [
-        "pilot_assassin", "pilot_athletic", "pilot_commander", "pilot_ex-comstar", "pilot_lostech", "pilot_merchant", "pilot_military", "pilot_spacer",
+        "pilot_assassin", "pilot_athletic", "pilot_command", "pilot_ex-comstar", "pilot_lostech", "pilot_merchant", "pilot_military", "pilot_spacer",
         "pilot_technician", "pilot_resilient", "pilot_gunslinger", "pilot_deadeye", "pilot_gladiator", "pilot_officer", "pilot_brave", "pilot_inconspicuous",
         "pilot_calm", "pilot_lucky"
     ],
