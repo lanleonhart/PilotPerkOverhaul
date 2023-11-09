@@ -74,31 +74,42 @@ for filename in os.listdir(pilots_directory):
         file_path = os.path.join(pilots_directory, filename)
         process_pilot_file(file_path)
 
+# Get the total number of pilot JSON files in the directory
+total_pilots = len([f for f in os.listdir(pilots_directory) if f.endswith(".json")])
+
 # Open the output file for writing
 with open(output_file_path, "w") as output_file:
     output_file.write("-" * 30 + "\n")
     output_file.write("Positive Perks Breakdown:\n")
     output_file.write("-" * 30 + "\n")
     for perk, count in positive_perks.items():
-        output_file.write(f"{perk}: {count}\n")
+        fraction = f"{count}/{total_pilots}"
+        percentage = f"{(count / total_pilots * 100):.2f}%"
+        output_file.write(f"{perk}: {fraction} ({percentage})\n")
 
     output_file.write("-" * 30 + "\n")
     output_file.write("Mixed Perks Breakdown:\n")
     output_file.write("-" * 30 + "\n")
     for perk, count in mixed_perks.items():
-        output_file.write(f"{perk}: {count}\n")
+        fraction = f"{count}/{total_pilots}"
+        percentage = f"{(count / total_pilots * 100):.2f}%"
+        output_file.write(f"{perk}: {fraction} ({percentage})\n")
 
     output_file.write("-" * 30 + "\n")
     output_file.write("Negative Perks Breakdown:\n")
     output_file.write("-" * 30 + "\n")
     for perk, count in negative_perks.items():
-        output_file.write(f"{perk}: {count}\n")
+        fraction = f"{count}/{total_pilots}"
+        percentage = f"{(count / total_pilots * 100):.2f}%"
+        output_file.write(f"{perk}: {fraction} ({percentage})\n")
 
     output_file.write("-" * 30 + "\n")
     output_file.write("MechTech Perks Breakdown:\n")
     output_file.write("-" * 30 + "\n")
-    for perk, count in mechtech_perks.items():  # Corrected variable name
-        output_file.write(f"{perk}: {count}\n")
+    for perk, count in mechtech_perks.items():
+        fraction = f"{count}/{total_pilots}"
+        percentage = f"{(count / total_pilots * 100):.2f}%"
+        output_file.write(f"{perk}: {fraction} ({percentage})\n")
 
     output_file.write("-" * 30 + "\n")
     output_file.write("Characteristic Perks Breakdown:\n")
@@ -108,7 +119,10 @@ with open(output_file_path, "w") as output_file:
         output_file.write("-" * 30 + "\n")
         for char_tag in char_tags:
             if char_tag in characteristic_perks[char]:
-                output_file.write(f"{char_tag}: {characteristic_perks[char][char_tag]}\n")
+                count = characteristic_perks[char][char_tag]
+                fraction = f"{count}/{total_pilots}"
+                percentage = f"{(count / total_pilots * 100):.2f}%"
+                output_file.write(f"{char_tag}: {fraction} ({percentage})\n")
         output_file.write("-" * 30 + "\n")
 
 print(f"Statistical data saved to {output_file_path}")
