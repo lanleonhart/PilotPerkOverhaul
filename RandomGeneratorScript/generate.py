@@ -201,33 +201,19 @@ def merge_pilot_tags_for_files(pilots_directory, pilot_generation_directory):
                     pilot_tags_existing = pilots_data["PilotTags"]["items"]
                     pilot_tags_new = pilot_generation_data["PilotTags"]["items"]
 
-                    # Merge the tags, ensuring there are no duplicates and adding the correct prefixes
+                    # Merge the tags, ensuring there are no duplicates and preserving the prefixes
                     pilot_tags_merged = []
 
                     for tag in pilot_tags_new:
-                        # Remove the extra prefixes
-                        if tag.startswith("eyes_"):
-                            tag = tag[len("eyes_"):]
-                        elif tag.startswith("handedness_"):
-                            tag = tag[len("handedness_"):]
-                        elif tag.startswith("bloodtype_"):
-                            tag = tag[len("bloodtype_"):]
-                        elif tag.startswith("stature_"):
-                            tag = tag[len("stature_"):]
-
-                        # Add the correct prefix
-                        if tag not in pilot_tags_existing:
-                            if tag == "left" or tag == "right" or tag == "ambidextrous":
-                                tag = f"handedness_{tag}"
+                        # Check if the tag is a characteristic or a perk, and add the correct prefix
+                        if tag in valid_faction_tags:
+                            tag = f"name_{tag}"
+                        elif tag in tag_exceptions:
+                            tag = f"{tag}_{pilot_tags_existing[tag_exceptions.index(tag)]}"
+                        elif tag not in pilot_tags_existing:
                             pilot_tags_merged.append(tag)
 
                     pilots_data["PilotTags"]["items"].extend(pilot_tags_merged)
-
-                # Write the updated data back to the Pilots file
-                with open(pilots_file_path, "w") as pilots_file:
-                    json.dump(pilots_data, pilots_file, indent=4)
-
-                print(f"PilotTags merged successfully for {filename}")
 
                 # Write the updated data back to the Pilots file
                 with open(pilots_file_path, "w") as pilots_file:
