@@ -22,6 +22,7 @@ perk_categories = {
         "pilot_limitedvision", "pilot_conspicuous", "pilot_pretentious",
         "pilot_reject","pilot_jinxed"
     ],
+    "Mechtech":["pilot_novice_technician","pilot_tech","pilot_adv_technician","pilot_master_technician"],
 }
 
 # Characteristics
@@ -39,6 +40,7 @@ pilots_directory = os.path.join(script_dir, "..", "PilotPerkOverhaul", "Pilots")
 positive_perks = {perk: 0 for perk in perk_categories["Positive"]}
 mixed_perks = {perk: 0 for perk in perk_categories["Mixed"]}
 negative_perks = {perk: 0 for perk in perk_categories["Negative"]}
+mechtech_perks = {perk: 0 for perk in perk_categories["Mechtech"]}
 characteristic_perks = {char: {tag: 0 for tag in char_tags} for char, char_tags in characteristics.items()}
 
 # Function to process a pilot JSON file
@@ -54,6 +56,8 @@ def process_pilot_file(file_path):
                 mixed_perks[tag] += 1
             elif tag in negative_perks:
                 negative_perks[tag] += 1
+            elif tag in mechtech_perks:
+                mechtech_perks[tag] += 1  # Corrected variable name
             else:
                 for char, char_tags in characteristics.items():
                     for char_tag in char_tags:
@@ -61,14 +65,16 @@ def process_pilot_file(file_path):
                             characteristic_perks[char][char_tag] += 1
                             break
 
+# Define the output file path
+output_file_path = os.path.join(script_dir, 'roll_summary.txt')
+
 # Process all pilot files
 for filename in os.listdir(pilots_directory):
     if filename.endswith(".json"):
         file_path = os.path.join(pilots_directory, filename)
         process_pilot_file(file_path)
 
-# Output to a text file
-output_file_path = os.path.join(script_dir, "roll_summary.txt")
+# Open the output file for writing
 with open(output_file_path, "w") as output_file:
     output_file.write("-" * 30 + "\n")
     output_file.write("Positive Perks Breakdown:\n")
@@ -86,6 +92,12 @@ with open(output_file_path, "w") as output_file:
     output_file.write("Negative Perks Breakdown:\n")
     output_file.write("-" * 30 + "\n")
     for perk, count in negative_perks.items():
+        output_file.write(f"{perk}: {count}\n")
+
+    output_file.write("-" * 30 + "\n")
+    output_file.write("MechTech Perks Breakdown:\n")
+    output_file.write("-" * 30 + "\n")
+    for perk, count in mechtech_perks.items():  # Corrected variable name
         output_file.write(f"{perk}: {count}\n")
 
     output_file.write("-" * 30 + "\n")

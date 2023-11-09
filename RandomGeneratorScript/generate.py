@@ -90,7 +90,9 @@ output_folder = os.path.join(script_directory, "PilotGeneration")
 
 # Create the output folder if it doesn't exist
 os.makedirs(output_folder, exist_ok=True)
-
+# Define the MechTech perks and their probabilities
+mechtech_perks = ["pilot_novice_technician", "pilot_tech", "pilot_adv_technician", "pilot_master_technician"]
+roll1_probability = 0.23  # 23% chance for Roll 1
 # Function to generate perks for a pilot
 def generate_perks(pilot_category):
     perks = {
@@ -105,6 +107,19 @@ def generate_perks(pilot_category):
         "Left": 0.15,
         "Ambidextrous": 0.10,
     }
+    # Roll for MechTech perks (Roll 1)
+    if random.random() < roll1_probability:
+        # Roll 2 (if Roll 1 is true)
+        roll2_probability = random.random()
+        if roll2_probability < 0.60:
+            perks["Positive"].append("pilot_novice_technician")
+        elif roll2_probability < 0.90:
+            perks["Positive"].append("pilot_tech")
+        elif roll2_probability < 0.99:
+            perks["Positive"].append("pilot_adv_technician")
+        else:
+            perks["Positive"].append("pilot_master_technician")
+
 
     # Minimum perks required for each category
     min_perks = {
