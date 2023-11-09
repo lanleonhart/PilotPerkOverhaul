@@ -73,16 +73,16 @@ perk_categories = {
         "pilot_klutz", "pilot_nervous", "pilot_fragile", "pilot_apathetic",
         "pilot_lazyeye", "pilot_traumatic_injury", "pilot_nearsighted",
         "pilot_limitedvision", "pilot_conspicuous", "pilot_pretentious",
-        "pilot_reject","pilot_jinxed"
+        "pilot_reject", "pilot_jinxed"
     ],
 }
 
 # Characteristics
 characteristics = {
-    "Eyes": ["eyes_heterochromatic", "eyes_brown", "eyes_blue", "eyes_green", "eyes_hazel"],
-    "Handedness": ["handedness_right", "handedness_left", "handedness_ambidextrous"],
-    "Blood Type": ["bloodtype_b_positive", "bloodtype_a_negative", "bloodtype_o_positive", "bloodtype_a_positive", "bloodtype_ab_negative", "bloodtype_ab_positive", "bloodtype_o_negative"],
-    "Stature": ["stature_average", "stature_tall", "stature_above_average", "stature_short", "stature_below_average"],
+    "Eyes": ["hazel", "brown", "blue", "green", "heterochromatic"],
+    "Handedness": ["right", "left", "ambidextrous"],
+    "Blood Type": ["ab_positive", "a_negative", "o_positive", "a_positive", "ab_negative", "o_negative"],
+    "Stature": ["above_average", "tall", "average", "short", "below_average"],
 }
 
 # Output folder for JSON files relative to the script's location
@@ -160,14 +160,14 @@ for pilot_category, pilot_name in sorted_pilots:
             "items": [
                 f"eyes_{pilot_characteristics['Eyes'].lower()}",
                 f"handedness_{pilot_characteristics['Handedness'].lower()}",
-                f"bloodtype_{pilot_characteristics['Blood Type'].replace('+', '_positive').replace('-', '_negative').lower()}",
+                f"bloodtype_{pilot_characteristics['Blood Type'].lower()}",
                 f"stature_{pilot_characteristics['Stature'].lower()}",
             ]
         }
     }
 
     # Add the "pilot_" prefix only to perk tags
-    traits = ["pilot_" + trait.lower() if not trait.startswith("pilot_") else trait.lower() for trait in pilot_perks["Positive"] + pilot_perks["Mixed"] + pilot_perks["Negative"]]
+    traits = [trait.lower() for trait in pilot_perks["Positive"] + pilot_perks["Mixed"] + pilot_perks["Negative"]]
     pilot_info["PilotTags"]["items"].extend(traits)
 
     output.append(pilot_info)  # Append the pilot information dictionary to the output list
@@ -229,13 +229,11 @@ def merge_pilot_tags_for_files(pilots_directory, pilot_generation_directory):
 
                 print(f"PilotTags merged successfully for {filename}")
 
-
                 # Write the updated data back to the Pilots file
                 with open(pilots_file_path, "w") as pilots_file:
                     json.dump(pilots_data, pilots_file, indent=4)
 
                 print(f"PilotTags merged successfully for {filename}")
-
 
 # Call the function to merge PilotTags for all files
 merge_pilot_tags_for_files(output_directory, output_folder)
