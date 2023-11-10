@@ -1,0 +1,9 @@
+{
+    "Name": "pilot_anchored",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Anchored",
+    "Description": "Modifications made to the Battlemech's foot actuators provide added stability for the pilot. [+20 to STAB Threshold + Max STAB]"
+  }
+  
+  

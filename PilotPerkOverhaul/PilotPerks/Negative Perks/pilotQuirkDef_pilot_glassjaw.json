@@ -1,0 +1,22 @@
+{
+    "id": "pilotQuirkDef_pilot_glassjaw",
+    "tag": "pilot_glassjaw",
+    "quirkName": "Glass Jaw",
+    "description": "",
+    "effectData": [],
+    "quirkEffects": [
+      {
+        "type": "PilotCostFactor",
+        "modifier": 0.20,
+        "secondaryModifier": 0.0,
+        "affectedIds": []
+      },
+      {
+        "type": "PilotHealth",
+        "modifier": -1.0,
+        "secondaryModifier": 0.0,
+        "affectedIds": []
+      }
+    ]
+  }
+  

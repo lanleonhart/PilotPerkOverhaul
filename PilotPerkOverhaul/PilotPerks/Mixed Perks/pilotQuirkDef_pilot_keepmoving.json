@@ -1,0 +1,71 @@
+{
+    "id": "pilotQuirkDef_pilot_keepmoving",
+    "tag": "pilot_keepmoving",
+    "quirkName": "Keep Moving!",
+    "description": "",
+    "effectData": [
+      {
+        "Description" : {
+            "Id" : "StatusEffect-TSM-SprintSpeed",
+            "Name" : "PROTOTYPE TRIPLE MYOMER",
+            "Details" : "This unit's improved myomer muscle technology improves its movement speed by [AMT].",
+            "Icon" : "UixSvgIcon_specialEquip_System"
+        },
+        "effectType" : "StatisticEffect",
+        "nature" : "Buff",
+        "durationData" : {
+            "duration" : -1,
+            "stackLimit" : -1
+        },
+        "targetingData" : {
+            "effectTriggerType" : "Passive",
+            "effectTargetType" : "Creator",
+            "showInTargetPreview" : false,
+            "showInStatusPanel" : false,
+            "hideApplicationFloatie" : true
+        },
+        "statisticData" : {
+            "statName" : "RunSpeed",
+            "operation" : "Float_Multiply",
+            "modValue" : "1.50",
+            "modType" : "System.Single"
+        }
+      },
+      {
+        "Description" : {
+            "Id" : "StatusEffect-TSM-WalkSpeed",
+            "Name" : "PROTOTYPE TRIPLE MYOMER",
+            "Details" : "This unit's improved myomer muscle technology improves its movement speed by [AMT].",
+            "Icon" : "UixSvgIcon_specialEquip_System"
+        },
+        "effectType" : "StatisticEffect",
+        "nature" : "Buff",
+        "durationData" : {
+            "duration" : -1,
+            "stackLimit" : -1
+        },
+        "targetingData" : {
+            "effectTriggerType" : "Passive",
+            "effectTargetType" : "Creator",
+            "showInTargetPreview" : true,
+            "showInStatusPanel" : true,
+            "hideApplicationFloatie" : true
+        },
+        "statisticData" : {
+            "statName" : "WalkSpeed",
+            "operation" : "Float_Multiply",
+            "modValue" : "0.10",
+            "modType" : "System.Single"
+        }
+      }     
+    ],
+    "quirkEffects": [
+      {
+        "type": "PilotCostFactor",
+        "modifier": 0.55,
+        "secondaryModifier": 0.0,
+        "affectedIds": []
+      }
+    ]
+  }
+  

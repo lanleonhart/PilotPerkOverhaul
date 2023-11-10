@@ -1,0 +1,22 @@
+{
+    "id": "pilotQuirkDef_pilot_tough",
+    "tag": "pilot_tough",
+    "quirkName": "Tough",
+    "description": "",
+    "effectData": [],
+    "quirkEffects": [
+      {
+        "type": "PilotCostFactor",
+        "modifier": 0.20,
+        "secondaryModifier": 0.0,
+        "affectedIds": []
+      },
+      {
+        "type": "PilotHealth",
+        "modifier": 1.0,
+        "secondaryModifier": 0.0,
+        "affectedIds": []
+      }
+    ]
+  }
+  

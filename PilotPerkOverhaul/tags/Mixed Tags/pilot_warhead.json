@@ -1,0 +1,8 @@
+{
+    "Name": "pilot_warhead",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Enhanced Warhead",
+    "Description": "This pilot substitutes flight time for a higher explosive yield on all their missiles. [+10% Missile Damage, -10% Missile Range]"
+  }
+  

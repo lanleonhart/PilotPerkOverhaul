@@ -1,0 +1,8 @@
+{
+    "Name": "pilot_keepmoving",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Keep Moving!",
+    "Description": "This individual is always on the run, out of fear of being hit while standing still. [+50% Max Run Distance, -90% Max Walk Distance]"
+  }
+  

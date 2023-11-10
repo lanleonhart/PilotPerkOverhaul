@@ -1,0 +1,8 @@
+{
+    "Name": "pilot_thrustvector",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Enhanced Thrust Vectoring",
+    "Description": "Enhanced precision control of a Battlemech while using Jump Jets. [10% JJ Distance, +1 EVA Gained, -33% Heat Per Hex]"
+  }
+  

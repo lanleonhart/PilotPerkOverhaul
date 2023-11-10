@@ -1,0 +1,64 @@
+{
+  "id": "pilotQuirkDef_pilot_momentum",
+  "tag": "pilot_momentum",
+  "quirkName": "Momentum",
+  "description": "",
+  "effectData": [
+    {
+      "durationData": {
+        "duration": -1,
+        "stackLimit": -1
+      },
+      "targetingData": {
+        "effectTriggerType": "Passive",
+        "effectTargetType": "Creator"
+      },
+      "effectType": "StatisticEffect",
+      "Description": {
+        "Id": "StatusEffect-MaxEVA",
+        "Name": "Increase Max Evasive Pips",
+        "Details": "This unit has an increased maximum evasion.",
+        "Icon": "uixSvgIcon_action_evasivemove"
+      },
+      "statisticData": {
+        "statName": "MaxEvasivePips",
+        "operation": "Int_Add",
+        "modValue": "1",
+        "modType": "System.Int32"
+      },
+      "nature": "Buff"
+    },
+    {
+      "durationData": {
+        "duration": -1,
+        "stackLimit": -1
+      },
+      "targetingData": {
+        "effectTriggerType": "Passive",
+        "effectTargetType": "Creator"
+      },
+      "effectType": "StatisticEffect",
+      "Description": {
+        "Id": "StatusEffect-AcePilot",
+        "Name": "Allows Movement After Firing",
+        "Details": "This unit can fire and move afterwards.",
+        "Icon": ""
+      },
+      "statisticData": {
+        "statName": "CanMoveAfterShooting",
+        "operation": "Set",
+        "modValue": "true",
+        "modType": "System.Boolean"
+      },
+      "nature": "Buff"
+    }
+  ],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.60,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}

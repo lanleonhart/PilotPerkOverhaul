@@ -1,0 +1,73 @@
+{
+    "id": "pilotQuirkDef_pilot_coptics",
+    "tag": "pilot_coptics",
+    "quirkName": "Converging Optics",
+    "description": "",
+    "effectData": [
+      {
+        "durationData": {
+          "duration": -1,
+          "stackLimit": -1
+        },
+        "targetingData": {
+          "effectTriggerType": "Passive",
+          "effectTargetType": "Creator"
+        },
+        "effectType": "StatisticEffect",
+        "Description": {
+          "Id": "TTS3BALLMAXRANGE",
+          "Name": "FCS Ballistic Range: Increased Ballistic Max Range",
+          "Details": "DF Minrange by 50m",
+          "Icon": "uixSvgIcon_ability_mastertactician"
+        },
+        "statisticData": {
+          "statName": "MaxRange",
+          "operation": "Float_Multiply",
+          "modValue": "1.10",
+          "modType": "System.Single",
+          "targetCollection": "Weapon",
+          "targetWeaponCategory": "Energy",
+          "targetWeaponType": "Laser"
+        },
+        "nature": "Buff"
+      },
+      {
+        "durationData": {
+          "duration": -1,
+          "stackLimit": -1
+        },
+        "targetingData": {
+          "effectTriggerType": "Passive",
+          "effectTargetType": "Creator",
+          "showInTargetPreview": false,
+          "showInStatusPanel": false
+        },
+        "effectType": "StatisticEffect",
+        "Description": {
+          "Id": "LRMBuff",
+          "Name": "Increased LRM Damage",
+          "Details": "+25% Damage to LRM",
+          "Icon": ""
+        },
+        "nature": "Buff",
+        "statisticData": {
+          "statName": "HeatGenerated",
+          "operation": "Float_Multiply",
+          "modValue": "1.10",
+          "modType": "System.Single",
+          "targetCollection": "Weapon",
+          "targetWeaponCategory": "Energy",
+          "targetWeaponType": "Laser"
+        }
+      }
+    ],
+    "quirkEffects": [
+      {
+        "type": "PilotCostFactor",
+        "modifier": 0.60,
+        "secondaryModifier": 0.0,
+        "affectedIds": []
+      }
+    ]
+  }
+  
