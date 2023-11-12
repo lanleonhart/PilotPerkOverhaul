@@ -2,13 +2,14 @@
     "Id": "pilot_backer_Fielding",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
+            "eyes_green",
             "handedness_right",
             "bloodtype_a_positive",
-            "stature_short",
-            "pilot_doctor",
-            "pilot_intimidating",
-            "pilot_adrenaline"
+            "stature_below_average",
+            "pilot_novice_technician",
+            "pilot_technician",
+            "pilot_eoptics",
+            "pilot_honest"
         ]
     }
 }

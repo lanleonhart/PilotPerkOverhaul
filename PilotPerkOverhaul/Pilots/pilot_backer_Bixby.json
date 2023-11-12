@@ -36,13 +36,13 @@
             "pilot_regular",
             "name_Arbiter",
             "pilot_steiner",
-            "eyes_hazel",
+            "eyes_brown",
             "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_below_average",
-            "pilot_novice_technician",
-            "pilot_lostech",
-            "pilot_eoptics"
+            "bloodtype_o_positive",
+            "stature_average",
+            "pilot_thrustvector",
+            "pilot_noble",
+            "pilot_nearsighted"
         ],
         "tagSetSourceFile": ""
     },

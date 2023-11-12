@@ -39,13 +39,14 @@
         "items": [
             "name_Dust_Raker",
             "pilot_kurita",
-            "eyes_hazel",
+            "eyes_heterochromatic",
             "handedness_right",
-            "bloodtype_o_negative",
-            "stature_short",
-            "pilot_novice_technician",
-            "pilot_athletic",
-            "pilot_taekwondo"
+            "bloodtype_a_negative",
+            "stature_above_average",
+            "pilot_tech",
+            "pilot_resilient",
+            "pilot_dishonest",
+            "pilot_lazy"
         ],
         "tagSetSourceFile": ""
     },

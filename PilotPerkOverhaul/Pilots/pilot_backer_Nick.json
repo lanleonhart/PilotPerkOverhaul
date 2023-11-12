@@ -39,13 +39,15 @@
         "items": [
             "name_Corsair",
             "pilot_tortuga",
-            "eyes_green",
+            "eyes_blue",
             "handedness_right",
-            "bloodtype_a_negative",
-            "stature_short",
-            "pilot_ex-comstar",
-            "pilot_noble",
-            "pilot_lazyeye"
+            "bloodtype_o_negative",
+            "stature_tall",
+            "pilot_novice_technician",
+            "pilot_military",
+            "pilot_gunslinger",
+            "pilot_redline",
+            "pilot_pretentious"
         ],
         "tagSetSourceFile": ""
     },

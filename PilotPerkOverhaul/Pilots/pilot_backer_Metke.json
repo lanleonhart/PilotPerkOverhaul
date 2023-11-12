@@ -38,7 +38,14 @@
     "PilotTags": {
         "items": [
             "name_Tinker",
-            "pilot_davion"
+            "pilot_davion",
+            "eyes_blue",
+            "handedness_right",
+            "bloodtype_o_negative",
+            "stature_average",
+            "pilot_athletic",
+            "pilot_warhead",
+            "pilot_bookish"
         ],
         "tagSetSourceFile": ""
     },

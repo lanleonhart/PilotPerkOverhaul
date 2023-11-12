@@ -39,11 +39,9 @@
             "pilot_davion",
             "eyes_heterochromatic",
             "handedness_right",
-            "bloodtype_a_negative",
-            "stature_short",
-            "pilot_tech",
-            "pilot_momentum",
-            "pilot_anchored"
+            "bloodtype_ab_negative",
+            "stature_below_average",
+            "pilot_gunslinger"
         ],
         "tagSetSourceFile": ""
     },

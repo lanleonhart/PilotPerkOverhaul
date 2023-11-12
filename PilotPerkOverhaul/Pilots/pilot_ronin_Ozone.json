@@ -42,13 +42,16 @@
         "items": [
             "name_Ozone",
             "pilot_aurigan",
-            "eyes_blue",
+            "eyes_green",
             "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_below_average",
-            "pilot_assassin",
-            "pilot_athletic",
-            "pilot_honest"
+            "bloodtype_o_negative",
+            "stature_short",
+            "pilot_adv_technician",
+            "pilot_command",
+            "pilot_military",
+            "pilot_brave",
+            "pilot_eoptics",
+            "pilot_limitedvision"
         ],
         "tagSetSourceFile": ""
     },

@@ -1,14 +1,14 @@
 {
-    "Id": "pilot_backer_Brown",
+    "Id": "pilot_backer_SwansonK",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_hazel",
             "handedness_right",
             "bloodtype_ab_negative",
             "stature_below_average",
-            "pilot_lostech",
-            "pilot_intimidating",
-            "pilot_pretentious"
+            "pilot_command",
+            "pilot_zealot",
+            "pilot_adrenaline"
         ]
     }
 }

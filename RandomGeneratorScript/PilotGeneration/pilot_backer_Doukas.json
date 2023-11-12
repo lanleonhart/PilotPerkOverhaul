@@ -2,13 +2,12 @@
     "Id": "pilot_backer_Doukas",
     "PilotTags": {
         "items": [
-            "eyes_heterochromatic",
-            "handedness_ambidextrous",
-            "bloodtype_o_positive",
-            "stature_average",
-            "pilot_military",
-            "pilot_taekwondo",
-            "pilot_inadequate"
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_o_negative",
+            "stature_short",
+            "pilot_resilient",
+            "pilot_drunk"
         ]
     }
 }

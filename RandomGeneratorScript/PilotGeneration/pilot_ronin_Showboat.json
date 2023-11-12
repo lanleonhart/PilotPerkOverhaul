@@ -2,15 +2,13 @@
     "Id": "pilot_ronin_Showboat",
     "PilotTags": {
         "items": [
-            "eyes_green",
-            "handedness_ambidextrous",
+            "eyes_hazel",
+            "handedness_left",
             "bloodtype_ab_positive",
-            "stature_average",
-            "pilot_tech",
+            "stature_above_average",
             "pilot_lostech",
-            "pilot_doctor",
-            "pilot_boxer",
-            "pilot_criminal"
+            "pilot_athletic",
+            "pilot_coptics"
         ]
     }
 }

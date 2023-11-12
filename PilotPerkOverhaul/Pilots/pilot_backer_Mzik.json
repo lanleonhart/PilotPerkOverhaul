@@ -36,14 +36,13 @@
         "items": [
             "name_Big_Sly",
             "pilot_marik",
-            "eyes_green",
+            "eyes_brown",
             "handedness_right",
-            "bloodtype_a_negative",
-            "stature_average",
-            "pilot_adv_technician",
-            "pilot_momentum",
-            "pilot_bushido",
-            "pilot_reject"
+            "bloodtype_ab_negative",
+            "stature_tall",
+            "pilot_brave",
+            "pilot_warhead",
+            "pilot_conspicuous"
         ],
         "tagSetSourceFile": ""
     },

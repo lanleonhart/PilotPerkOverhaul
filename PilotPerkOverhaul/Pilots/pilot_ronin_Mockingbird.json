@@ -44,14 +44,15 @@
         "items": [
             "name_Mockingbird",
             "pilot_taurian",
-            "eyes_hazel",
-            "handedness_left",
-            "bloodtype_ab_negative",
-            "stature_below_average",
-            "pilot_tactician",
-            "pilot_inconspicuous",
-            "pilot_taekwondo",
-            "pilot_conspicuous"
+            "eyes_blue",
+            "handedness_right",
+            "bloodtype_a_positive",
+            "stature_short",
+            "pilot_novice_technician",
+            "pilot_lucky",
+            "pilot_deadeye",
+            "pilot_brave",
+            "pilot_criminal"
         ],
         "tagSetSourceFile": ""
     },

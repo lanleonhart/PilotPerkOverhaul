@@ -37,13 +37,12 @@
         "items": [
             "name_Death_Krusade",
             "pilot_outworld",
-            "eyes_hazel",
-            "handedness_right",
-            "bloodtype_ab_positive",
-            "stature_above_average",
-            "pilot_ex-comstar",
-            "pilot_technician",
-            "pilot_nearsighted"
+            "eyes_heterochromatic",
+            "handedness_left",
+            "bloodtype_a_negative",
+            "stature_average",
+            "pilot_deadeye",
+            "pilot_lazyeye"
         ],
         "tagSetSourceFile": ""
     },

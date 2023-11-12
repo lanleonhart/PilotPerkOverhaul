@@ -2,12 +2,13 @@
     "Id": "pilot_backer_Huxley",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_heterochromatic",
             "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_below_average",
-            "pilot_command",
-            "pilot_bushido"
+            "bloodtype_a_negative",
+            "stature_short",
+            "pilot_deadeye",
+            "pilot_assassin",
+            "pilot_redline"
         ]
     }
 }

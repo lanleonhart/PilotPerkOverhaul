@@ -37,7 +37,13 @@
     "PilotTags": {
         "items": [
             "name_Ariamaki",
-            "pilot_outworld"
+            "pilot_outworld",
+            "eyes_green",
+            "handedness_right",
+            "bloodtype_ab_positive",
+            "stature_tall",
+            "pilot_inconspicuous",
+            "pilot_taekwondo"
         ],
         "tagSetSourceFile": ""
     },

@@ -38,13 +38,13 @@
         "items": [
             "name_Bootcamp",
             "pilot_steiner",
-            "eyes_green",
+            "eyes_brown",
             "handedness_right",
-            "bloodtype_o_negative",
-            "stature_short",
-            "pilot_tough",
-            "pilot_zealot",
-            "pilot_dishonest"
+            "bloodtype_ab_negative",
+            "stature_below_average",
+            "pilot_lostech",
+            "pilot_intimidating",
+            "pilot_pretentious"
         ],
         "tagSetSourceFile": ""
     },

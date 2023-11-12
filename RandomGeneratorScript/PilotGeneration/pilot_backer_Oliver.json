@@ -4,10 +4,10 @@
         "items": [
             "eyes_green",
             "handedness_right",
-            "bloodtype_o_positive",
-            "stature_average",
-            "pilot_tough",
-            "pilot_offbalance"
+            "bloodtype_a_positive",
+            "stature_above_average",
+            "pilot_command",
+            "pilot_nearsighted"
         ]
     }
 }

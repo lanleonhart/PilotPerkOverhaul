@@ -38,13 +38,12 @@
         "items": [
             "name_Bearclaw",
             "pilot_steiner",
-            "eyes_blue",
+            "eyes_green",
             "handedness_right",
             "bloodtype_ab_negative",
-            "stature_below_average",
-            "pilot_novice_technician",
-            "pilot_merchant",
-            "pilot_tactician"
+            "stature_tall",
+            "pilot_ex-comstar",
+            "pilot_resilient"
         ],
         "tagSetSourceFile": ""
     },

@@ -33,12 +33,13 @@
         "items": [
             "name_Whisper",
             "pilot_taurian",
-            "eyes_brown",
+            "eyes_heterochromatic",
             "handedness_right",
-            "bloodtype_o_negative",
-            "stature_below_average",
-            "pilot_gunslinger",
-            "pilot_reckless"
+            "bloodtype_ab_positive",
+            "stature_short",
+            "pilot_tough",
+            "pilot_momentum",
+            "pilot_klutz"
         ],
         "tagSetSourceFile": ""
     },

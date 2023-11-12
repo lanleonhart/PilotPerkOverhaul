@@ -38,15 +38,14 @@
         "items": [
             "name_Eck",
             "pilot_liao",
-            "eyes_brown",
-            "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_tall",
-            "pilot_spacer",
-            "pilot_calm",
-            "pilot_taekwondo",
-            "pilot_bushido",
-            "pilot_lazyeye"
+            "eyes_green",
+            "handedness_left",
+            "bloodtype_o_negative",
+            "stature_average",
+            "pilot_thrustvector",
+            "pilot_merchant",
+            "pilot_zealot",
+            "pilot_cowardly"
         ],
         "tagSetSourceFile": ""
     },

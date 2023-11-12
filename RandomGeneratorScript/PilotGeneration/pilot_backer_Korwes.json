@@ -4,9 +4,10 @@
         "items": [
             "eyes_hazel",
             "handedness_right",
-            "bloodtype_a_negative",
-            "stature_tall",
-            "pilot_combatmedic"
+            "bloodtype_ab_negative",
+            "stature_below_average",
+            "pilot_resilient",
+            "pilot_lucky"
         ]
     }
 }

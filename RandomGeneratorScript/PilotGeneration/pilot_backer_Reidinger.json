@@ -1,14 +1,13 @@
 {
-    "Id": "pilot_backer_Hardie",
+    "Id": "pilot_backer_Reidinger",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_green",
             "handedness_right",
             "bloodtype_ab_positive",
             "stature_tall",
-            "pilot_officer",
-            "pilot_noble",
-            "pilot_feral"
+            "pilot_inconspicuous",
+            "pilot_taekwondo"
         ]
     }
 }

@@ -35,13 +35,13 @@
         "items": [
             "name_Gearhead",
             "pilot_valkyrate",
-            "eyes_green",
-            "handedness_right",
-            "bloodtype_ab_positive",
-            "stature_average",
-            "pilot_novice_technician",
-            "pilot_lucky",
-            "pilot_boxer"
+            "eyes_hazel",
+            "handedness_ambidextrous",
+            "bloodtype_a_positive",
+            "stature_above_average",
+            "pilot_technician",
+            "pilot_dishonest",
+            "pilot_traumatic_injury"
         ],
         "tagSetSourceFile": ""
     },

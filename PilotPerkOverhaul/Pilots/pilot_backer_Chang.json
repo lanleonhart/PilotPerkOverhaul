@@ -38,14 +38,12 @@
         "items": [
             "name_Falcon",
             "pilot_liao",
-            "eyes_green",
-            "handedness_left",
+            "eyes_brown",
+            "handedness_right",
             "bloodtype_ab_negative",
-            "stature_tall",
+            "stature_above_average",
             "pilot_combatmedic",
-            "pilot_coptics",
-            "pilot_warhead",
-            "pilot_cowardly"
+            "pilot_dependable"
         ],
         "tagSetSourceFile": ""
     },

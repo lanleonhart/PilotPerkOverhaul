@@ -38,13 +38,12 @@
         "items": [
             "name_Mummy_Bear",
             "pilot_steiner",
-            "eyes_green",
+            "eyes_blue",
             "handedness_right",
-            "bloodtype_ab_positive",
-            "stature_tall",
-            "pilot_anchored",
-            "pilot_bookish",
-            "pilot_offbalance"
+            "bloodtype_o_negative",
+            "stature_short",
+            "pilot_tough",
+            "pilot_coptics"
         ],
         "tagSetSourceFile": ""
     },

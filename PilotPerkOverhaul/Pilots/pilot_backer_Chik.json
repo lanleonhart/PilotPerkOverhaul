@@ -41,14 +41,12 @@
         "items": [
             "name_Paradox",
             "pilot_steiner",
-            "eyes_blue",
+            "eyes_brown",
             "handedness_left",
-            "bloodtype_a_negative",
-            "stature_average",
-            "pilot_novice_technician",
-            "pilot_combatmedic",
-            "pilot_lostech",
-            "pilot_intimidating"
+            "bloodtype_a_positive",
+            "stature_above_average",
+            "pilot_tough",
+            "pilot_zealot"
         ],
         "tagSetSourceFile": ""
     },

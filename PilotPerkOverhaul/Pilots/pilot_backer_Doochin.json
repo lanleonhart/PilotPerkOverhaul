@@ -38,12 +38,14 @@
         "items": [
             "name_El_Duce",
             "pilot_steiner",
-            "eyes_green",
-            "handedness_left",
-            "bloodtype_ab_negative",
-            "stature_above_average",
-            "pilot_tough",
-            "pilot_drunk"
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_o_negative",
+            "stature_short",
+            "pilot_merchant",
+            "pilot_reckless",
+            "pilot_adrenaline",
+            "pilot_lazyeye"
         ],
         "tagSetSourceFile": ""
     },

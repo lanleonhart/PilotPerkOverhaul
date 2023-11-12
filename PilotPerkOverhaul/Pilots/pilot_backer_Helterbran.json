@@ -40,12 +40,11 @@
             "pilot_circinus",
             "eyes_hazel",
             "handedness_right",
-            "bloodtype_ab_negative",
+            "bloodtype_ab_positive",
             "stature_above_average",
-            "pilot_brave",
-            "pilot_intimidating",
-            "pilot_dishonest",
-            "pilot_jinxed"
+            "pilot_anchored",
+            "pilot_adrenaline",
+            "pilot_cowardly"
         ],
         "tagSetSourceFile": ""
     },

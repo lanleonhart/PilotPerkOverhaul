@@ -2,12 +2,14 @@
     "Id": "pilot_backer_Miller",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
+            "eyes_heterochromatic",
             "handedness_right",
             "bloodtype_a_positive",
-            "stature_above_average",
-            "pilot_assassin",
-            "pilot_boxer"
+            "stature_tall",
+            "pilot_gunslinger",
+            "pilot_anchored",
+            "pilot_dishonest",
+            "pilot_nervous"
         ]
     }
 }

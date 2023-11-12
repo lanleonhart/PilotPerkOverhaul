@@ -37,14 +37,13 @@
         "items": [
             "name_War_Boar",
             "pilot_steiner",
-            "eyes_green",
-            "handedness_left",
-            "bloodtype_a_negative",
+            "eyes_blue",
+            "handedness_right",
+            "bloodtype_o_positive",
             "stature_short",
-            "pilot_deadeye",
-            "pilot_tactician",
-            "pilot_noble",
-            "pilot_coptics"
+            "pilot_adv_technician",
+            "pilot_spacer",
+            "pilot_archer"
         ],
         "tagSetSourceFile": ""
     },

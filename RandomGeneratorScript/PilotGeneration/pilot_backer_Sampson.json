@@ -2,11 +2,11 @@
     "Id": "pilot_backer_Sampson",
     "PilotTags": {
         "items": [
-            "eyes_green",
+            "eyes_blue",
             "handedness_right",
-            "bloodtype_o_positive",
-            "stature_tall",
-            "pilot_tactician"
+            "bloodtype_o_negative",
+            "stature_average",
+            "pilot_resilient"
         ]
     }
 }

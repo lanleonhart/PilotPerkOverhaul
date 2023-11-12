@@ -36,13 +36,12 @@
         "items": [
             "name_M4J35T1C",
             "pilot_solaris",
-            "eyes_green",
+            "eyes_hazel",
             "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_tall",
-            "pilot_ex-comstar",
-            "pilot_inconspicuous",
-            "pilot_dishonest"
+            "bloodtype_ab_positive",
+            "stature_average",
+            "pilot_thrustvector",
+            "pilot_honest"
         ],
         "tagSetSourceFile": ""
     },

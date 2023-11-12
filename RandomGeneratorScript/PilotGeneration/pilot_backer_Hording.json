@@ -5,10 +5,12 @@
             "eyes_heterochromatic",
             "handedness_right",
             "bloodtype_o_positive",
-            "stature_below_average",
-            "pilot_deadeye",
-            "pilot_gunslinger",
-            "pilot_adrenaline"
+            "stature_tall",
+            "pilot_calm",
+            "pilot_lostech",
+            "pilot_noble",
+            "pilot_adrenaline",
+            "pilot_offbalance"
         ]
     }
 }

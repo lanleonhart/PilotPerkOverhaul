@@ -2,13 +2,13 @@
     "Id": "pilot_backer_Lemos",
     "PilotTags": {
         "items": [
-            "eyes_heterochromatic",
+            "eyes_hazel",
             "handedness_right",
-            "bloodtype_a_negative",
-            "stature_average",
-            "pilot_officer",
-            "pilot_bookish",
-            "pilot_pretentious"
+            "bloodtype_ab_negative",
+            "stature_tall",
+            "pilot_technician",
+            "pilot_taekwondo",
+            "pilot_dishonest"
         ]
     }
 }

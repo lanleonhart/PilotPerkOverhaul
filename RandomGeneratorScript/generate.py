@@ -52,9 +52,9 @@ print("All JSON files have been replaced with fresh copies.")
 # Data
 pilots = {
     "Green": ["Bono", "FalkM", "Heysek", "Hollabaugh", "Jakes", "Korwes", "Miller", "Piazza", "Ryia", "Shvartz", "Slipais", "SwansonA", "Thomas", "Voyls", "Gibbs", "Godfrey", "Leone", "Liebenow", "Saada", "Sampson", "Woods", "Oliver", "Shields"],
-    "Regular": ["Cochran", "Kaufman", "Loving", "Reichenbach", "Bixby", "Bozeman", "Brewer", "Brown", "Cleary", "Doukas", "Durand", "Eck", "Fielding", "Hording", "Hurtado", "Keane", "Lemos", "Mzik", "Nick"],
-    "Veteran": ["Test9", "Archangel", "Reinke", "Alaniz", "Bemis", "Chang", "Chik", "Chung", "Coldfire", "Doochin", "Eckett", "Endorf", "FalkA", "Hardie", "Helterbran", "Hill", "Huxley"],
-    "Elite": ["Apex", "Arclight", "Blockade", "Buckshot", "Kraken", "Mockingbird", "Ozone", "Paradise", "Showboat", "Squire", "Sumo", "Wildfire"],
+    "Regular": ["Cochran", "Kaufman", "Loving", "Reichenbach", "Bixby", "Bozeman", "Brewer", "Brown", "Cleary", "Doukas", "Durand", "Eck", "Fielding", "Hording", "Hurtado", "Keane", "Lemos", "Mzik", "Nick","SwansonK","Reidinger"],
+    "Veteran": ["Test9", "Archangel", "Reinke", "Alaniz", "Bemis", "Chang", "Chik", "Chung", "Coldfire", "Doochin", "Eckett", "Endorf", "FalkA", "Hardie", "Helterbran", "Hill", "Huxley","Metke"],
+    "Elite": ["Apex", "Arclight", "Blockade", "Buckshot", "Kraken", "Mockingbird", "Ozone", "Paradise", "Showboat", "Squire", "Sumo", "Wildfire","Witness"],
 }
 
 # Sort the pilots by category and name
@@ -167,7 +167,7 @@ for pilot_category, pilot_name in sorted_pilots:
     pilot_perks, pilot_characteristics = generate_perks(pilot_category)
 
     # Determine the appropriate prefix
-    if pilot_name in ["Apex", "Arclight", "Blockade", "Buckshot", "Kraken", "Mockingbird", "Ozone", "Paradise", "Showboat", "Squire", "Sumo", "Wildfire"]:
+    if pilot_name in ["Apex", "Arclight", "Blockade", "Buckshot", "Kraken", "Mockingbird", "Ozone", "Paradise", "Showboat", "Squire", "Sumo", "Wildfire","Witness"]:
         pilot_prefix = "pilot_ronin"
     else:
         pilot_prefix = "pilot_backer"
@@ -207,6 +207,14 @@ def merge_pilot_tags_for_files(pilots_directory, pilot_generation_directory):
             pilot_generation_file_path = os.path.join(pilot_generation_directory, filename)
 
             if os.path.exists(pilot_generation_file_path):
+                # Check the generation of each file
+                pilots_generation_time = os.path.getmtime(pilots_file_path)
+                pilot_generation_time = os.path.getmtime(pilot_generation_file_path)
+
+                if pilots_generation_time > pilot_generation_time:
+                    print(f"Skipping {filename}: Pilots file is newer than PilotGeneration file.")
+                    continue
+
                 # Read data from the Pilots file
                 with open(pilots_file_path, "r") as pilots_file:
                     pilots_data = json.load(pilots_file)
@@ -239,6 +247,9 @@ def merge_pilot_tags_for_files(pilots_directory, pilot_generation_directory):
                     json.dump(pilots_data, pilots_file, indent=4)
 
                 print(f"PilotTags merged successfully for {filename}")
+            else:
+                print(f"Skipping {filename}: PilotGeneration file does not exist.")
+
 
 # Call the function to merge PilotTags for all files
 merge_pilot_tags_for_files(output_directory, output_folder)

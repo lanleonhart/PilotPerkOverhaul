@@ -4,11 +4,12 @@
         "items": [
             "eyes_brown",
             "handedness_right",
-            "bloodtype_a_positive",
-            "stature_average",
-            "pilot_command",
-            "pilot_lostech",
-            "pilot_zealot"
+            "bloodtype_ab_negative",
+            "stature_tall",
+            "pilot_calm",
+            "pilot_lucky",
+            "pilot_taekwondo",
+            "pilot_fragile"
         ]
     }
 }

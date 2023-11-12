@@ -2,13 +2,12 @@
     "Id": "pilot_backer_Slipais",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_hazel",
             "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_average",
-            "pilot_combatmedic",
-            "pilot_zealot",
-            "pilot_lazy"
+            "bloodtype_a_negative",
+            "stature_above_average",
+            "pilot_novice_technician",
+            "pilot_deadeye"
         ]
     }
 }

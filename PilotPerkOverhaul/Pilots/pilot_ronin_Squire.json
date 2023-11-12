@@ -33,15 +33,16 @@
         "items": [
             "name_Squire",
             "pilot_davion",
-            "eyes_green",
-            "handedness_ambidextrous",
-            "bloodtype_a_negative",
-            "stature_short",
-            "pilot_assassin",
+            "eyes_brown",
+            "handedness_left",
+            "bloodtype_a_positive",
+            "stature_below_average",
+            "pilot_novice_technician",
+            "pilot_ex-comstar",
             "pilot_athletic",
-            "pilot_honest",
-            "pilot_dishonest",
-            "pilot_inadequate"
+            "pilot_military",
+            "pilot_redline",
+            "pilot_nearsighted"
         ],
         "tagSetSourceFile": ""
     },

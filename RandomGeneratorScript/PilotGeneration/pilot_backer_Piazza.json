@@ -2,11 +2,12 @@
     "Id": "pilot_backer_Piazza",
     "PilotTags": {
         "items": [
-            "eyes_green",
+            "eyes_heterochromatic",
             "handedness_right",
-            "bloodtype_o_negative",
-            "stature_short",
-            "pilot_gunslinger"
+            "bloodtype_ab_negative",
+            "stature_below_average",
+            "pilot_novice_technician",
+            "pilot_calm"
         ]
     }
 }

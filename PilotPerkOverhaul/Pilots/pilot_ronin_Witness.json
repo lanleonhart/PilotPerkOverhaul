@@ -43,7 +43,14 @@
     "PilotTags": {
         "items": [
             "name_Witness",
-            "pilot_aurigan"
+            "pilot_aurigan",
+            "eyes_blue",
+            "handedness_right",
+            "bloodtype_a_positive",
+            "stature_short",
+            "pilot_calm",
+            "pilot_tough",
+            "pilot_warhead"
         ],
         "tagSetSourceFile": ""
     },

@@ -2,13 +2,13 @@
     "Id": "pilot_backer_FalkA",
     "PilotTags": {
         "items": [
-            "eyes_green",
+            "eyes_blue",
             "handedness_right",
-            "bloodtype_a_negative",
-            "stature_below_average",
-            "pilot_military",
-            "pilot_keepmoving",
-            "pilot_offbalance"
+            "bloodtype_o_negative",
+            "stature_above_average",
+            "pilot_technician",
+            "pilot_archer",
+            "pilot_lazy"
         ]
     }
 }

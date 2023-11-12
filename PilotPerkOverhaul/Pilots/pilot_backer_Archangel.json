@@ -43,14 +43,12 @@
         "items": [
             "name_Archangel",
             "pilot_liao",
-            "eyes_hazel",
-            "handedness_ambidextrous",
-            "bloodtype_o_negative",
-            "stature_short",
-            "pilot_combatmedic",
-            "pilot_drunk",
-            "pilot_archer",
-            "pilot_inadequate"
+            "eyes_heterochromatic",
+            "handedness_right",
+            "bloodtype_ab_positive",
+            "stature_below_average",
+            "pilot_assassin",
+            "pilot_criminal"
         ],
         "tagSetSourceFile": ""
     },

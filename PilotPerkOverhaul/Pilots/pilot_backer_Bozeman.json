@@ -35,13 +35,14 @@
         "items": [
             "name_Finn",
             "pilot_davion",
-            "eyes_brown",
+            "eyes_heterochromatic",
             "handedness_right",
             "bloodtype_ab_positive",
-            "stature_below_average",
+            "stature_average",
+            "pilot_tech",
             "pilot_athletic",
-            "pilot_dishonest",
-            "pilot_jinxed"
+            "pilot_adrenaline",
+            "pilot_intimidating"
         ],
         "tagSetSourceFile": ""
     },

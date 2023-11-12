@@ -2,13 +2,12 @@
     "Id": "pilot_backer_Cochran",
     "PilotTags": {
         "items": [
-            "eyes_heterochromatic",
-            "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_tall",
-            "pilot_assassin",
-            "pilot_dependable",
-            "pilot_lazyeye"
+            "eyes_green",
+            "handedness_ambidextrous",
+            "bloodtype_a_positive",
+            "stature_average",
+            "pilot_thrustvector",
+            "pilot_eoptics"
         ]
     }
 }

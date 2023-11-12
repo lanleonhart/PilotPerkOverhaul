@@ -2,14 +2,14 @@
     "Id": "pilot_ronin_Kraken",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_blue",
             "handedness_right",
-            "bloodtype_a_negative",
+            "bloodtype_a_positive",
             "stature_short",
-            "pilot_gladiator",
-            "pilot_spacer",
-            "pilot_dependable",
-            "pilot_conspicuous"
+            "pilot_lostech",
+            "pilot_doctor",
+            "pilot_keepmoving",
+            "pilot_nervous"
         ]
     }
 }

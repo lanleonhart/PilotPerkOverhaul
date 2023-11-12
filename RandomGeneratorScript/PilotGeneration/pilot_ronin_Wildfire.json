@@ -2,14 +2,13 @@
     "Id": "pilot_ronin_Wildfire",
     "PilotTags": {
         "items": [
-            "eyes_blue",
-            "handedness_ambidextrous",
-            "bloodtype_a_negative",
-            "stature_below_average",
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_o_negative",
+            "stature_above_average",
+            "pilot_doctor",
             "pilot_momentum",
-            "pilot_technician",
-            "pilot_cautious",
-            "pilot_traumatic_injury"
+            "pilot_taekwondo"
         ]
     }
 }

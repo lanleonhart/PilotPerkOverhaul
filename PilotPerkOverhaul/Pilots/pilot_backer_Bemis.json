@@ -36,14 +36,13 @@
         "items": [
             "name_VonKobra",
             "pilot_magistracy",
-            "eyes_blue",
-            "handedness_left",
-            "bloodtype_o_positive",
-            "stature_short",
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_a_positive",
+            "stature_tall",
+            "pilot_novice_technician",
             "pilot_technician",
-            "pilot_dishonest",
-            "pilot_coptics",
-            "pilot_fragile"
+            "pilot_noble"
         ],
         "tagSetSourceFile": ""
     },

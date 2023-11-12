@@ -40,14 +40,14 @@
         "items": [
             "name_Test9",
             "pilot_davion",
-            "eyes_green",
-            "handedness_right",
-            "bloodtype_a_positive",
-            "stature_tall",
-            "pilot_novice_technician",
-            "pilot_merchant",
-            "pilot_archer",
-            "pilot_lazyeye"
+            "eyes_brown",
+            "handedness_left",
+            "bloodtype_o_positive",
+            "stature_below_average",
+            "pilot_gladiator",
+            "pilot_cautious",
+            "pilot_warhead",
+            "pilot_limitedvision"
         ],
         "tagSetSourceFile": ""
     },

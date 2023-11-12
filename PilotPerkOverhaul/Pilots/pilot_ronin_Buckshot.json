@@ -41,16 +41,13 @@
         "items": [
             "name_Buckshot",
             "pilot_liao",
-            "eyes_heterochromatic",
-            "handedness_left",
+            "eyes_brown",
+            "handedness_ambidextrous",
             "bloodtype_ab_negative",
-            "stature_above_average",
-            "pilot_command",
-            "pilot_deadeye",
-            "pilot_inconspicuous",
-            "pilot_archer",
-            "pilot_keepmoving",
-            "pilot_offbalance"
+            "stature_average",
+            "pilot_merchant",
+            "pilot_lostech",
+            "pilot_feral"
         ],
         "tagSetSourceFile": ""
     },

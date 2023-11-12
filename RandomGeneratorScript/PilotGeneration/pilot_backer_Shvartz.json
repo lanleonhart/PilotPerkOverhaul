@@ -2,14 +2,13 @@
     "Id": "pilot_backer_Shvartz",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_green",
             "handedness_right",
             "bloodtype_ab_negative",
-            "stature_average",
-            "pilot_novice_technician",
-            "pilot_momentum",
-            "pilot_tactician",
-            "pilot_fragile"
+            "stature_below_average",
+            "pilot_tech",
+            "pilot_doctor",
+            "pilot_merchant"
         ]
     }
 }

@@ -42,13 +42,15 @@
         "items": [
             "name_Sumo",
             "pilot_aurigan",
-            "eyes_green",
+            "eyes_brown",
             "handedness_right",
-            "bloodtype_o_negative",
-            "stature_average",
-            "pilot_merchant",
-            "pilot_spacer",
-            "pilot_bushido"
+            "bloodtype_a_positive",
+            "stature_short",
+            "pilot_tech",
+            "pilot_calm",
+            "pilot_inconspicuous",
+            "pilot_honest",
+            "pilot_limitedvision"
         ],
         "tagSetSourceFile": ""
     },

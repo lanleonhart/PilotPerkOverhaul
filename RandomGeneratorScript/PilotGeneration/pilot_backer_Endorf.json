@@ -2,13 +2,13 @@
     "Id": "pilot_backer_Endorf",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
+            "eyes_brown",
             "handedness_right",
-            "bloodtype_a_negative",
-            "stature_below_average",
-            "pilot_anchored",
-            "pilot_drunk",
-            "pilot_archer"
+            "bloodtype_o_positive",
+            "stature_short",
+            "pilot_novice_technician",
+            "pilot_resilient",
+            "pilot_keepmoving"
         ]
     }
 }

@@ -33,14 +33,11 @@
         "items": [
             "name_Ice_Trey",
             "pilot_kurita",
-            "eyes_hazel",
-            "handedness_left",
+            "eyes_brown",
+            "handedness_right",
             "bloodtype_o_positive",
-            "stature_tall",
-            "pilot_novice_technician",
-            "pilot_assassin",
-            "pilot_reckless",
-            "pilot_conspicuous"
+            "stature_above_average",
+            "pilot_inconspicuous"
         ],
         "tagSetSourceFile": ""
     },

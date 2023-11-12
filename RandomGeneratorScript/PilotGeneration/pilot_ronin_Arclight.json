@@ -4,11 +4,12 @@
         "items": [
             "eyes_hazel",
             "handedness_right",
-            "bloodtype_a_positive",
-            "stature_above_average",
-            "pilot_resilient",
-            "pilot_honest",
-            "pilot_drunk"
+            "bloodtype_o_positive",
+            "stature_short",
+            "pilot_novice_technician",
+            "pilot_deadeye",
+            "pilot_ex-comstar",
+            "pilot_redline"
         ]
     }
 }

@@ -39,13 +39,14 @@
         "items": [
             "name_Dragon_66",
             "pilot_davion",
-            "eyes_green",
+            "eyes_hazel",
             "handedness_right",
-            "bloodtype_a_positive",
-            "stature_below_average",
-            "pilot_athletic",
-            "pilot_taekwondo",
-            "pilot_cautious"
+            "bloodtype_ab_negative",
+            "stature_average",
+            "pilot_gunslinger",
+            "pilot_noble",
+            "pilot_warhead",
+            "pilot_fragile"
         ],
         "tagSetSourceFile": ""
     },

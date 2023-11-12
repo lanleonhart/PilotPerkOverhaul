@@ -1,16 +1,14 @@
 {
-    "Id": "pilot_ronin_Sumo",
+    "Id": "pilot_ronin_Witness",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_blue",
             "handedness_right",
             "bloodtype_a_positive",
             "stature_short",
-            "pilot_tech",
             "pilot_calm",
-            "pilot_inconspicuous",
-            "pilot_honest",
-            "pilot_limitedvision"
+            "pilot_tough",
+            "pilot_warhead"
         ]
     }
 }

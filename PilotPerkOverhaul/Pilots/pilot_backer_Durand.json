@@ -37,10 +37,11 @@
             "pilot_davion",
             "eyes_brown",
             "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_short",
-            "pilot_technician",
-            "pilot_criminal"
+            "bloodtype_ab_positive",
+            "stature_below_average",
+            "pilot_gladiator",
+            "pilot_bookish",
+            "pilot_drunk"
         ],
         "tagSetSourceFile": ""
     },

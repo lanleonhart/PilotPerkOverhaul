@@ -39,13 +39,14 @@
         "items": [
             "name_Coldfire",
             "pilot_magistracy",
-            "eyes_heterochromatic",
-            "handedness_right",
-            "bloodtype_ab_positive",
-            "stature_short",
-            "pilot_gladiator",
+            "eyes_brown",
+            "handedness_left",
+            "bloodtype_o_positive",
+            "stature_average",
+            "pilot_military",
             "pilot_redline",
-            "pilot_archer"
+            "pilot_cautious",
+            "pilot_tunnelvision"
         ],
         "tagSetSourceFile": ""
     },

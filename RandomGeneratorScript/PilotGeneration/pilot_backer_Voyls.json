@@ -3,11 +3,10 @@
     "PilotTags": {
         "items": [
             "eyes_heterochromatic",
-            "handedness_left",
+            "handedness_right",
             "bloodtype_a_positive",
-            "stature_average",
-            "pilot_novice_technician",
-            "pilot_tactician"
+            "stature_below_average",
+            "pilot_gladiator"
         ]
     }
 }

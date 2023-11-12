@@ -1,13 +1,14 @@
 {
-    "Id": "pilot_backer_Eckett",
+    "Id": "pilot_backer_Metke",
     "PilotTags": {
         "items": [
             "eyes_blue",
             "handedness_right",
             "bloodtype_o_negative",
-            "stature_short",
-            "pilot_tough",
-            "pilot_coptics"
+            "stature_average",
+            "pilot_athletic",
+            "pilot_warhead",
+            "pilot_bookish"
         ]
     }
 }

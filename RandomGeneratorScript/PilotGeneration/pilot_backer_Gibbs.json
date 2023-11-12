@@ -2,12 +2,13 @@
     "Id": "pilot_backer_Gibbs",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_heterochromatic",
             "handedness_right",
-            "bloodtype_o_negative",
-            "stature_below_average",
-            "pilot_gunslinger",
-            "pilot_reckless"
+            "bloodtype_ab_positive",
+            "stature_short",
+            "pilot_tough",
+            "pilot_momentum",
+            "pilot_klutz"
         ]
     }
 }

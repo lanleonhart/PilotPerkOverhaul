@@ -38,12 +38,12 @@
         "items": [
             "name_Hacker",
             "pilot_kurita",
-            "eyes_heterochromatic",
+            "eyes_brown",
             "handedness_right",
-            "bloodtype_a_positive",
+            "bloodtype_o_positive",
             "stature_average",
-            "pilot_momentum",
-            "pilot_intimidating"
+            "pilot_novice_technician",
+            "pilot_inconspicuous"
         ],
         "tagSetSourceFile": ""
     },

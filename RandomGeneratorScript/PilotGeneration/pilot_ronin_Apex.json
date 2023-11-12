@@ -4,12 +4,12 @@
         "items": [
             "eyes_hazel",
             "handedness_right",
-            "bloodtype_ab_positive",
-            "stature_below_average",
-            "pilot_tough",
-            "pilot_merchant",
-            "pilot_taekwondo",
-            "pilot_limitedvision"
+            "bloodtype_o_positive",
+            "stature_above_average",
+            "pilot_novice_technician",
+            "pilot_athletic",
+            "pilot_lostech",
+            "pilot_intimidating"
         ]
     }
 }

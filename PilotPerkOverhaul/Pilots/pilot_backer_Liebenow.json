@@ -33,11 +33,11 @@
         "items": [
             "name_Kingwolf",
             "pilot_davion",
-            "eyes_green",
+            "eyes_heterochromatic",
             "handedness_left",
-            "bloodtype_o_positive",
-            "stature_tall",
-            "pilot_brave"
+            "bloodtype_a_negative",
+            "stature_above_average",
+            "pilot_officer"
         ],
         "tagSetSourceFile": ""
     },

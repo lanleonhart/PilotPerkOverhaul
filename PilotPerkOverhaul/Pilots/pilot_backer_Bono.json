@@ -33,11 +33,13 @@
         "items": [
             "name_T-Bone",
             "pilot_steiner",
-            "eyes_heterochromatic",
-            "handedness_ambidextrous",
-            "bloodtype_a_negative",
+            "eyes_brown",
+            "handedness_right",
+            "bloodtype_o_negative",
             "stature_average",
-            "pilot_officer"
+            "pilot_novice_technician",
+            "pilot_ex-comstar",
+            "pilot_tunnelvision"
         ],
         "tagSetSourceFile": ""
     },

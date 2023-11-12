@@ -34,7 +34,14 @@
     "PilotTags": {
         "items": [
             "name_Ulysses",
-            "pilot_liao"
+            "pilot_liao",
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_ab_negative",
+            "stature_below_average",
+            "pilot_command",
+            "pilot_zealot",
+            "pilot_adrenaline"
         ],
         "tagSetSourceFile": ""
     },
