@@ -37,23 +37,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
+            "name_Dust_Raker",
             "pilot_kurita",
             "eyes_hazel",
-            "pilot_pilot_nearsighted",
-            "pilot_military",
-            "pilot_pilot_reckless",
-            "blood type_o_negative",
-            "pilot_gunslinger",
             "handedness_right",
+            "bloodtype_o_negative",
             "stature_short",
-            "pilot_pilot_redline",
-            "name_Dust_Raker",
-            "pilot_lucky",
-            "pilot_pilot_zealot",
-            "bloodtype_b_positive",
-            "stature_above average",
-            "pilot_pilot_bushido",
-            "pilot_pilot_traumatic_injury"
+            "pilot_novice_technician",
+            "pilot_athletic",
+            "pilot_taekwondo"
         ],
         "tagSetSourceFile": ""
     },

@@ -3,12 +3,15 @@
     "PilotTags": {
         "items": [
             "eyes_heterochromatic",
-            "handedness_right",
-            "bloodtype_b_positive",
-            "stature_average",
-            "pilot_lostech",
-            "pilot_assassin",
-            "pilot_pilot_dependable"
+            "handedness_left",
+            "bloodtype_ab_negative",
+            "stature_above_average",
+            "pilot_command",
+            "pilot_deadeye",
+            "pilot_inconspicuous",
+            "pilot_archer",
+            "pilot_keepmoving",
+            "pilot_offbalance"
         ]
     }
 }

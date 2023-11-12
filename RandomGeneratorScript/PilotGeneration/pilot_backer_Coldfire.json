@@ -2,13 +2,13 @@
     "Id": "pilot_backer_Coldfire",
     "PilotTags": {
         "items": [
-            "eyes_blue",
+            "eyes_heterochromatic",
             "handedness_right",
-            "bloodtype_o_negative",
-            "stature_tall",
-            "pilot_military",
-            "pilot_pilot_bookish",
-            "pilot_pilot_nervous"
+            "bloodtype_ab_positive",
+            "stature_short",
+            "pilot_gladiator",
+            "pilot_redline",
+            "pilot_archer"
         ]
     }
 }

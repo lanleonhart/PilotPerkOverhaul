@@ -2,12 +2,13 @@
     "Id": "pilot_backer_Shields",
     "PilotTags": {
         "items": [
-            "eyes_green",
+            "eyes_blue",
             "handedness_right",
-            "bloodtype_o_negative",
-            "stature_below average",
-            "pilot_deadeye",
-            "pilot_pilot_cautious"
+            "bloodtype_ab_negative",
+            "stature_below_average",
+            "pilot_novice_technician",
+            "pilot_merchant",
+            "pilot_tactician"
         ]
     }
 }

@@ -35,17 +35,12 @@
     "PilotTags": {
         "items": [
             "name_Omega",
+            "pilot_davion",
+            "eyes_hazel",
             "handedness_right",
-            "stature_short",
-            "stature_average",
-            "pilot_spacer",
-            "blood type_a_positive",
-            "eyes_green",
-            "pilot_lucky",
-            "eyes_brown",
-            "handedness_left",
-            "bloodtype_o_positive",
-            "pilot_davion"
+            "bloodtype_a_negative",
+            "stature_tall",
+            "pilot_combatmedic"
         ],
         "tagSetSourceFile": ""
     },

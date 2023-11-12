@@ -2,12 +2,14 @@
     "Id": "pilot_backer_Mzik",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_green",
             "handedness_right",
-            "bloodtype_ab_positive",
-            "stature_above average",
-            "pilot_lostech",
-            "pilot_assassin"
+            "bloodtype_a_negative",
+            "stature_average",
+            "pilot_adv_technician",
+            "pilot_momentum",
+            "pilot_bushido",
+            "pilot_reject"
         ]
     }
 }

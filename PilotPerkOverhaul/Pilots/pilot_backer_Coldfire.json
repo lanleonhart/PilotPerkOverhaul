@@ -37,22 +37,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_assassin",
-            "pilot_military",
-            "bloodtype_o_negative",
-            "handedness_right",
-            "eyes_blue",
             "name_Coldfire",
-            "pilot_pilot_klutz",
             "pilot_magistracy",
-            "blood type_a_negative",
-            "pilot_pilot_nervous",
-            "stature_tall",
-            "pilot_pilot_honest",
-            "stature_above average",
-            "eyes_brown",
-            "pilot_pilot_bookish",
-            "pilot_pilot_dependable"
+            "eyes_heterochromatic",
+            "handedness_right",
+            "bloodtype_ab_positive",
+            "stature_short",
+            "pilot_gladiator",
+            "pilot_redline",
+            "pilot_archer"
         ],
         "tagSetSourceFile": ""
     },

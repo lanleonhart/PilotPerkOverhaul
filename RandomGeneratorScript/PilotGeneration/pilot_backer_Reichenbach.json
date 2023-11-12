@@ -4,10 +4,11 @@
         "items": [
             "eyes_hazel",
             "handedness_right",
-            "bloodtype_b_positive",
-            "stature_tall",
-            "pilot_officer",
-            "pilot_pilot_zealot"
+            "bloodtype_ab_positive",
+            "stature_above_average",
+            "pilot_novice_technician",
+            "pilot_ex-comstar",
+            "pilot_dishonest"
         ]
     }
 }

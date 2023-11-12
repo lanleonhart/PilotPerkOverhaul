@@ -1,0 +1,8 @@
+{
+    "Name": "pilot_inadequate",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Inadequate Training",
+    "Description": "This pilot has not received the proper training in Battlemech operation [-1 Gunnery, -1 Piloting]"
+  }
+  

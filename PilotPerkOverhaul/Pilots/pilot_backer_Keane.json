@@ -33,20 +33,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_kurita",
-            "blood type_ab_positive",
-            "pilot_resilient",
-            "handedness_right",
             "name_Munin",
-            "pilot_pilot_pretentious",
-            "pilot_inconspicuous",
-            "eyes_green",
-            "pilot_pilot_honest",
-            "stature_tall",
-            "eyes_brown",
-            "bloodtype_ab_positive",
-            "handedness_left",
-            "pilot_technician"
+            "pilot_kurita",
+            "eyes_heterochromatic",
+            "handedness_right",
+            "bloodtype_o_positive",
+            "stature_short",
+            "pilot_technician",
+            "pilot_noble",
+            "pilot_adrenaline"
         ],
         "tagSetSourceFile": ""
     },

@@ -2,11 +2,13 @@
     "Id": "pilot_backer_Leone",
     "PilotTags": {
         "items": [
-            "eyes_green",
-            "handedness_right",
-            "bloodtype_o_positive",
-            "stature_below average",
-            "pilot_officer"
+            "eyes_hazel",
+            "handedness_ambidextrous",
+            "bloodtype_a_positive",
+            "stature_tall",
+            "pilot_adv_technician",
+            "pilot_technician",
+            "pilot_lazy"
         ]
     }
 }

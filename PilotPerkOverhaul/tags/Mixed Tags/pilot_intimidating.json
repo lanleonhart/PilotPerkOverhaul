@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_intimdating",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Intimidating",
+    "Description": "This pilot often intimidated others intended or not [+25% Enemy Panic Chance, -5% Lance Resolve Gain]"
+}

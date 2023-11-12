@@ -4,10 +4,11 @@
         "items": [
             "eyes_brown",
             "handedness_right",
-            "bloodtype_o_negative",
-            "stature_tall",
-            "pilot_gunslinger",
-            "pilot_pilot_jinxed"
+            "bloodtype_ab_negative",
+            "stature_average",
+            "pilot_combatmedic",
+            "pilot_zealot",
+            "pilot_lazy"
         ]
     }
 }

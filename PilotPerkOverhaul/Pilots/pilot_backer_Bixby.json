@@ -33,19 +33,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
+            "pilot_regular",
             "name_Arbiter",
-            "eyes_heterochromatic",
-            "bloodtype_o_negative",
-            "handedness_right",
-            "pilot_gladiator",
-            "stature_average",
-            "blood type_a_positive",
-            "eyes_green",
-            "pilot_pilot_bookish",
-            "stature_above average",
             "pilot_steiner",
-            "pilot_officer",
-            "pilot_regular"
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_ab_negative",
+            "stature_below_average",
+            "pilot_novice_technician",
+            "pilot_lostech",
+            "pilot_eoptics"
         ],
         "tagSetSourceFile": ""
     },

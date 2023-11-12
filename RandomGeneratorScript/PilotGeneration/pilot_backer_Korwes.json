@@ -2,11 +2,11 @@
     "Id": "pilot_backer_Korwes",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_hazel",
             "handedness_right",
-            "bloodtype_o_positive",
-            "stature_short",
-            "pilot_lucky"
+            "bloodtype_a_negative",
+            "stature_tall",
+            "pilot_combatmedic"
         ]
     }
 }

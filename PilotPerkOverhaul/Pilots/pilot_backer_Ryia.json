@@ -35,20 +35,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_noble",
-            "pilot_resilient",
-            "pilot_periphery",
-            "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_average",
-            "eyes_blue",
-            "pilot_pilot_lazyeye",
-            "blood type_a_negative",
-            "pilot_inconspicuous",
-            "eyes_brown",
-            "handedness_left",
             "name_Death_Krusade",
-            "pilot_pilot_conspicious"
+            "pilot_outworld",
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_ab_positive",
+            "stature_above_average",
+            "pilot_ex-comstar",
+            "pilot_technician",
+            "pilot_nearsighted"
         ],
         "tagSetSourceFile": ""
     },

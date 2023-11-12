@@ -36,21 +36,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_noble",
-            "eyes_heterochromatic",
-            "handedness_right",
-            "stature_below average",
-            "pilot_deadeye",
-            "blood type_a_negative",
-            "pilot_lucky",
-            "stature_tall",
-            "pilot_pilot_nervous",
             "name_Exodus",
-            "eyes_brown",
-            "handedness_left",
-            "bloodtype_o_positive",
-            "pilot_pilot_bookish",
-            "pilot_davion"
+            "pilot_davion",
+            "eyes_heterochromatic",
+            "handedness_ambidextrous",
+            "bloodtype_ab_negative",
+            "stature_average",
+            "pilot_doctor",
+            "pilot_drunk",
+            "pilot_apathetic"
         ],
         "tagSetSourceFile": ""
     },

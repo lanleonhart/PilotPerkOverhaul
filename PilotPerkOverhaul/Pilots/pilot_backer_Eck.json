@@ -36,17 +36,17 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
-            "blood type_ab_positive",
             "name_Eck",
-            "pilot_calm",
-            "eyes_heterochromatic",
-            "pilot_lostech",
+            "pilot_liao",
+            "eyes_brown",
             "handedness_right",
-            "stature_below average",
-            "bloodtype_b_positive",
-            "stature_above average",
-            "pilot_liao"
+            "bloodtype_ab_negative",
+            "stature_tall",
+            "pilot_spacer",
+            "pilot_calm",
+            "pilot_taekwondo",
+            "pilot_bushido",
+            "pilot_lazyeye"
         ],
         "tagSetSourceFile": ""
     },

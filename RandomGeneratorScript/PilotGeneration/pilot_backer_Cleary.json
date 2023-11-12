@@ -2,13 +2,13 @@
     "Id": "pilot_backer_Cleary",
     "PilotTags": {
         "items": [
-            "eyes_brown",
-            "handedness_right",
-            "bloodtype_o_positive",
-            "stature_tall",
-            "pilot_deadeye",
-            "pilot_pilot_bookish",
-            "pilot_pilot_nervous"
+            "eyes_heterochromatic",
+            "handedness_ambidextrous",
+            "bloodtype_ab_negative",
+            "stature_average",
+            "pilot_doctor",
+            "pilot_drunk",
+            "pilot_apathetic"
         ]
     }
 }

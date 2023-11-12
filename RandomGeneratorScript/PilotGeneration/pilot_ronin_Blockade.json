@@ -2,14 +2,13 @@
     "Id": "pilot_ronin_Blockade",
     "PilotTags": {
         "items": [
-            "eyes_heterochromatic",
+            "eyes_brown",
             "handedness_right",
             "bloodtype_a_positive",
-            "stature_below average",
-            "pilot_assassin",
+            "stature_average",
+            "pilot_command",
             "pilot_lostech",
-            "pilot_pilot_zealot",
-            "pilot_pilot_limitedvision"
+            "pilot_zealot"
         ]
     }
 }

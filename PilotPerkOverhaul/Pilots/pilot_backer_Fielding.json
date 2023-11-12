@@ -33,16 +33,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
+            "name_WeaselCakes",
             "pilot_marik",
-            "blood type_o_negative",
-            "bloodtype_ab_negative",
+            "eyes_hazel",
             "handedness_right",
-            "pilot_gunslinger",
-            "stature_average",
-            "pilot_spacer",
-            "eyes_brown",
-            "pilot_pilot_bookish",
-            "name_WeaselCakes"
+            "bloodtype_a_positive",
+            "stature_short",
+            "pilot_doctor",
+            "pilot_intimidating",
+            "pilot_adrenaline"
         ],
         "tagSetSourceFile": ""
     },

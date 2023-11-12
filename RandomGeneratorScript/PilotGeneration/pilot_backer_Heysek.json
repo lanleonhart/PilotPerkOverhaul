@@ -4,10 +4,9 @@
         "items": [
             "eyes_green",
             "handedness_right",
-            "bloodtype_a_positive",
-            "stature_short",
-            "pilot_merchant",
-            "pilot_pilot_klutz"
+            "bloodtype_o_negative",
+            "stature_above_average",
+            "pilot_thrustvector"
         ]
     }
 }

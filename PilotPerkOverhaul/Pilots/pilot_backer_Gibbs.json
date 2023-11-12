@@ -31,19 +31,14 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "blood type_ab_positive",
             "name_Whisper",
-            "pilot_gladiator",
-            "handedness_right",
-            "eyes_blue",
             "pilot_taurian",
-            "eyes_green",
-            "pilot_brave",
-            "stature_above average",
-            "bloodtype_ab_positive",
-            "stature_tall",
-            "pilot_pilot_honest",
-            "pilot_pilot_criminal"
+            "eyes_brown",
+            "handedness_right",
+            "bloodtype_o_negative",
+            "stature_below_average",
+            "pilot_gunslinger",
+            "pilot_reckless"
         ],
         "tagSetSourceFile": ""
     },

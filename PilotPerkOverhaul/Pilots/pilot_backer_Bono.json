@@ -31,17 +31,13 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
-            "pilot_resilient",
-            "handedness_right",
-            "eyes_blue",
-            "pilot_ex-comstar",
-            "blood type_a_negative",
-            "stature_tall",
+            "name_T-Bone",
             "pilot_steiner",
+            "eyes_heterochromatic",
+            "handedness_ambidextrous",
             "bloodtype_a_negative",
-            "pilot_officer",
-            "name_T-Bone"
+            "stature_average",
+            "pilot_officer"
         ],
         "tagSetSourceFile": ""
     },

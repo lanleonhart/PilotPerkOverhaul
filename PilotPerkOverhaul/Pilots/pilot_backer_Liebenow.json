@@ -31,20 +31,13 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_commander",
-            "eyes_hazel",
-            "blood type_ab_positive",
-            "pilot_pilot_jinxed",
-            "pilot_pilot_noble",
-            "handedness_right",
             "name_Kingwolf",
-            "stature_average",
-            "stature_tall",
-            "pilot_pilot_conspicious",
-            "handedness_ambidextrous",
+            "pilot_davion",
+            "eyes_green",
+            "handedness_left",
             "bloodtype_o_positive",
-            "pilot_technician",
-            "pilot_davion"
+            "stature_tall",
+            "pilot_brave"
         ],
         "tagSetSourceFile": ""
     },

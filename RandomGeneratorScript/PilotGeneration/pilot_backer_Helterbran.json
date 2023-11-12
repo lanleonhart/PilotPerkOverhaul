@@ -2,13 +2,14 @@
     "Id": "pilot_backer_Helterbran",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_hazel",
             "handedness_right",
-            "bloodtype_a_negative",
-            "stature_above average",
-            "pilot_spacer",
-            "pilot_technician",
-            "pilot_pilot_bookish"
+            "bloodtype_ab_negative",
+            "stature_above_average",
+            "pilot_brave",
+            "pilot_intimidating",
+            "pilot_dishonest",
+            "pilot_jinxed"
         ]
     }
 }

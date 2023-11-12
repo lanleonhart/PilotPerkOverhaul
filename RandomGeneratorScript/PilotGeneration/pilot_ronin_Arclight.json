@@ -3,14 +3,12 @@
     "PilotTags": {
         "items": [
             "eyes_hazel",
-            "handedness_left",
-            "bloodtype_a_negative",
-            "stature_above average",
-            "pilot_inconspicuous",
-            "pilot_ex-comstar",
-            "pilot_spacer",
-            "pilot_pilot_dependable",
-            "pilot_pilot_fragile"
+            "handedness_right",
+            "bloodtype_a_positive",
+            "stature_above_average",
+            "pilot_resilient",
+            "pilot_honest",
+            "pilot_drunk"
         ]
     }
 }

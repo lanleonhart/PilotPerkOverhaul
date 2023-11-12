@@ -36,20 +36,14 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
-            "blood type_ab_negative",
-            "handedness_right",
-            "eyes_blue",
-            "stature_short",
-            "bloodtype_a_positive",
-            "pilot_spacer",
-            "pilot_brave",
-            "pilot_pilot_bookish",
+            "name_El_Duce",
             "pilot_steiner",
-            "pilot_pilot_dishonest",
-            "pilot_pilot_drunk",
-            "pilot_merchant",
-            "name_El_Duce"
+            "eyes_green",
+            "handedness_left",
+            "bloodtype_ab_negative",
+            "stature_above_average",
+            "pilot_tough",
+            "pilot_drunk"
         ],
         "tagSetSourceFile": ""
     },

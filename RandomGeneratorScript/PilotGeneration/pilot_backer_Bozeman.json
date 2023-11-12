@@ -2,13 +2,13 @@
     "Id": "pilot_backer_Bozeman",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
+            "eyes_brown",
             "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_above average",
-            "pilot_gladiator",
+            "bloodtype_ab_positive",
+            "stature_below_average",
             "pilot_athletic",
-            "pilot_pilot_limitedvision"
+            "pilot_dishonest",
+            "pilot_jinxed"
         ]
     }
 }

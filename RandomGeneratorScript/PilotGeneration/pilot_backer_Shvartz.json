@@ -6,9 +6,10 @@
             "handedness_right",
             "bloodtype_ab_negative",
             "stature_average",
-            "pilot_ex-comstar",
-            "pilot_pilot_criminal",
-            "pilot_pilot_klutz"
+            "pilot_novice_technician",
+            "pilot_momentum",
+            "pilot_tactician",
+            "pilot_fragile"
         ]
     }
 }

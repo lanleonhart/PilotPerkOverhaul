@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_combatmedic",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Combat Medic",
+    "Description": "Trained in emergency medical care, this pilot is capable of taking care of his comrades [+1 MedTech]"
+}

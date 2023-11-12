@@ -2,14 +2,12 @@
     "Id": "pilot_backer_Doochin",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
-            "handedness_right",
-            "bloodtype_a_positive",
-            "stature_short",
-            "pilot_brave",
-            "pilot_merchant",
-            "pilot_pilot_drunk",
-            "pilot_pilot_bookish"
+            "eyes_green",
+            "handedness_left",
+            "bloodtype_ab_negative",
+            "stature_above_average",
+            "pilot_tough",
+            "pilot_drunk"
         ]
     }
 }

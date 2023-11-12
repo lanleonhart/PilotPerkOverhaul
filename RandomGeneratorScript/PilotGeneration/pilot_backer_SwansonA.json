@@ -2,12 +2,12 @@
     "Id": "pilot_backer_SwansonA",
     "PilotTags": {
         "items": [
-            "eyes_blue",
-            "handedness_right",
-            "bloodtype_o_negative",
+            "eyes_heterochromatic",
+            "handedness_ambidextrous",
+            "bloodtype_o_positive",
             "stature_tall",
-            "pilot_calm",
-            "pilot_pilot_pretentious"
+            "pilot_lostech",
+            "pilot_intimidating"
         ]
     }
 }

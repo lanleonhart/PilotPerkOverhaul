@@ -2,12 +2,14 @@
     "Id": "pilot_backer_Bemis",
     "PilotTags": {
         "items": [
-            "eyes_brown",
-            "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_above average",
-            "pilot_assassin",
-            "pilot_pilot_dependable"
+            "eyes_blue",
+            "handedness_left",
+            "bloodtype_o_positive",
+            "stature_short",
+            "pilot_technician",
+            "pilot_dishonest",
+            "pilot_coptics",
+            "pilot_fragile"
         ]
     }
 }

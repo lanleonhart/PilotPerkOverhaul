@@ -34,21 +34,14 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
-            "pilot_military",
-            "blood type_ab_negative",
-            "handedness_right",
             "name_Strider",
-            "stature_average",
-            "pilot_deadeye",
-            "pilot_inconspicuous",
-            "stature_above average",
+            "pilot_liao",
             "eyes_brown",
-            "pilot_pilot_criminal",
-            "bloodtype_o_positive",
-            "pilot_pilot_bookish",
-            "pilot_pilot_dependable",
-            "pilot_liao"
+            "handedness_right",
+            "bloodtype_ab_negative",
+            "stature_below_average",
+            "pilot_command",
+            "pilot_bushido"
         ],
         "tagSetSourceFile": ""
     },

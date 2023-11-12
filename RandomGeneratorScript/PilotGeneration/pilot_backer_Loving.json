@@ -4,9 +4,11 @@
         "items": [
             "eyes_green",
             "handedness_right",
-            "bloodtype_a_positive",
+            "bloodtype_ab_negative",
             "stature_tall",
-            "pilot_resilient"
+            "pilot_ex-comstar",
+            "pilot_inconspicuous",
+            "pilot_dishonest"
         ]
     }
 }

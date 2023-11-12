@@ -38,23 +38,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "blood type_ab_positive",
-            "bloodtype_o_negative",
             "name_Wildfire",
-            "pilot_periphery",
-            "handedness_right",
-            "pilot_lostech",
-            "pilot_pilot_redline",
-            "pilot_spacer",
-            "pilot_pilot_nervous",
-            "pilot_ex-comstar",
-            "eyes_green",
-            "stature_above average",
-            "eyes_brown",
-            "pilot_pilot_criminal",
-            "pilot_pilot_dishonest",
-            "pilot_athletic",
-            "pilot_merchant"
+            "pilot_aurigan",
+            "eyes_blue",
+            "handedness_ambidextrous",
+            "bloodtype_a_negative",
+            "stature_below_average",
+            "pilot_momentum",
+            "pilot_technician",
+            "pilot_cautious",
+            "pilot_traumatic_injury"
         ],
         "tagSetSourceFile": ""
     },

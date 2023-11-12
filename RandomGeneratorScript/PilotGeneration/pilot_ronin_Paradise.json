@@ -2,13 +2,14 @@
     "Id": "pilot_ronin_Paradise",
     "PilotTags": {
         "items": [
-            "eyes_green",
-            "handedness_left",
-            "bloodtype_a_positive",
-            "stature_short",
-            "pilot_spacer",
-            "pilot_commander",
-            "pilot_pilot_bookish"
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_o_negative",
+            "stature_average",
+            "pilot_anchored",
+            "pilot_brave",
+            "pilot_dependable",
+            "pilot_nearsighted"
         ]
     }
 }

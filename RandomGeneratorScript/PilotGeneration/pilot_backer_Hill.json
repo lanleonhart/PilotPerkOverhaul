@@ -4,13 +4,11 @@
         "items": [
             "eyes_hazel",
             "handedness_right",
-            "bloodtype_b_positive",
-            "stature_above average",
-            "pilot_military",
-            "pilot_lucky",
-            "pilot_pilot_bushido",
-            "pilot_pilot_reckless",
-            "pilot_pilot_traumatic_injury"
+            "bloodtype_o_negative",
+            "stature_short",
+            "pilot_novice_technician",
+            "pilot_athletic",
+            "pilot_taekwondo"
         ]
     }
 }

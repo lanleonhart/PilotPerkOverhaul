@@ -1,0 +1,8 @@
+{
+    "Name": "pilot_offbalance",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Off Balance",
+    "Description": "This individual has poor balance control [-10 Stability Threshold]"
+  }
+  

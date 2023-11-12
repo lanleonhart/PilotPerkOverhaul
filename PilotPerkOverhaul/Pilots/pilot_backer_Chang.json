@@ -36,21 +36,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_nearsighted",
-            "pilot_pilot_feral",
             "name_Falcon",
-            "eyes_hazel",
-            "pilot_military",
-            "pilot_calm",
+            "pilot_liao",
+            "eyes_green",
+            "handedness_left",
             "bloodtype_ab_negative",
-            "handedness_right",
-            "stature_below average",
-            "pilot_gunslinger",
-            "pilot_pilot_redline",
-            "blood type_a_negative",
-            "pilot_pilot_zealot",
-            "handedness_ambidextrous",
-            "pilot_liao"
+            "stature_tall",
+            "pilot_combatmedic",
+            "pilot_coptics",
+            "pilot_warhead",
+            "pilot_cowardly"
         ],
         "tagSetSourceFile": ""
     },

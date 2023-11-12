@@ -35,20 +35,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_feral",
-            "pilot_gladiator",
-            "blood type_o_positive",
-            "pilot_periphery",
-            "handedness_right",
-            "eyes_blue",
-            "eyes_green",
-            "pilot_pilot_fragile",
-            "stature_above average",
-            "handedness_ambidextrous",
-            "bloodtype_o_positive",
-            "pilot_pilot_bookish",
             "name_Phantom",
-            "pilot_commander"
+            "pilot_outworld",
+            "eyes_green",
+            "handedness_right",
+            "bloodtype_a_negative",
+            "stature_below_average",
+            "pilot_military",
+            "pilot_keepmoving",
+            "pilot_offbalance"
         ],
         "tagSetSourceFile": ""
     },

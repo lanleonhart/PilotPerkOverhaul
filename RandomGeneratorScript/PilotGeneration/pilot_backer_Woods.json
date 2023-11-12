@@ -2,11 +2,14 @@
     "Id": "pilot_backer_Woods",
     "PilotTags": {
         "items": [
-            "eyes_blue",
-            "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_below average",
-            "pilot_spacer"
+            "eyes_hazel",
+            "handedness_left",
+            "bloodtype_o_positive",
+            "stature_tall",
+            "pilot_novice_technician",
+            "pilot_assassin",
+            "pilot_reckless",
+            "pilot_conspicuous"
         ]
     }
 }

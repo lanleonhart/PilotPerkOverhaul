@@ -2,12 +2,13 @@
     "Id": "pilot_backer_Alaniz",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_green",
             "handedness_right",
             "bloodtype_a_positive",
-            "stature_short",
-            "pilot_lostech",
-            "pilot_pilot_bookish"
+            "stature_below_average",
+            "pilot_athletic",
+            "pilot_taekwondo",
+            "pilot_cautious"
         ]
     }
 }

@@ -2,12 +2,12 @@
     "Id": "pilot_backer_Godfrey",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
-            "handedness_right",
-            "bloodtype_a_positive",
-            "stature_short",
-            "pilot_calm",
-            "pilot_pilot_fragile"
+            "eyes_green",
+            "handedness_left",
+            "bloodtype_ab_negative",
+            "stature_above_average",
+            "pilot_novice_technician",
+            "pilot_military"
         ]
     }
 }

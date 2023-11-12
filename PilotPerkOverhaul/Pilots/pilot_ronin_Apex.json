@@ -38,22 +38,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_feral",
-            "pilot_military",
-            "pilot_gladiator",
-            "eyes_heterochromatic",
-            "pilot_periphery",
-            "blood type_ab_negative",
-            "handedness_right",
-            "stature_average",
-            "pilot_deadeye",
-            "pilot_spacer",
-            "stature_tall",
             "name_Apex",
-            "bloodtype_b_positive",
-            "eyes_brown",
+            "pilot_aurigan",
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_ab_positive",
+            "stature_below_average",
+            "pilot_tough",
             "pilot_merchant",
-            "pilot_pilot_dependable"
+            "pilot_taekwondo",
+            "pilot_limitedvision"
         ],
         "tagSetSourceFile": ""
     },

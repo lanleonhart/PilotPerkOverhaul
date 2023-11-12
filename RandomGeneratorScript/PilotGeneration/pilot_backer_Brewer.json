@@ -2,12 +2,13 @@
     "Id": "pilot_backer_Brewer",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_hazel",
             "handedness_ambidextrous",
             "bloodtype_ab_negative",
-            "stature_short",
-            "pilot_merchant",
-            "pilot_pilot_reject"
+            "stature_tall",
+            "pilot_novice_technician",
+            "pilot_doctor",
+            "pilot_keepmoving"
         ]
     }
 }

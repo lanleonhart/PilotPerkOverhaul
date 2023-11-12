@@ -38,19 +38,14 @@
     "PilotTags": {
         "items": [
             "name_Hammer",
-            "pilot_calm",
-            "bloodtype_ab_negative",
-            "handedness_right",
-            "stature_short",
-            "eyes_blue",
-            "blood type_a_positive",
-            "stature_tall",
-            "pilot_pilot_fragile",
-            "pilot_pilot_zealot",
-            "pilot_pilot_bushido",
             "pilot_steiner",
-            "pilot_merchant",
-            "pilot_pilot_drunk"
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_a_negative",
+            "stature_below_average",
+            "pilot_anchored",
+            "pilot_drunk",
+            "pilot_archer"
         ],
         "tagSetSourceFile": ""
     },

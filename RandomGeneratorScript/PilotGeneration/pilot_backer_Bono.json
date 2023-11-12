@@ -2,11 +2,11 @@
     "Id": "pilot_backer_Bono",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
-            "handedness_right",
+            "eyes_heterochromatic",
+            "handedness_ambidextrous",
             "bloodtype_a_negative",
-            "stature_tall",
-            "pilot_resilient"
+            "stature_average",
+            "pilot_officer"
         ]
     }
 }

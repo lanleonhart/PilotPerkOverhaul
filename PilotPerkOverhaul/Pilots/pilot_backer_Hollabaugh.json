@@ -35,19 +35,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "blood type_o_negative",
-            "bloodtype_ab_negative",
-            "handedness_right",
-            "stature_short",
             "name_Deedah",
-            "stature_tall",
-            "pilot_pilot_zealot",
-            "eyes_green",
-            "eyes_brown",
-            "pilot_officer",
-            "pilot_athletic",
-            "pilot_technician",
-            "pilot_davion"
+            "pilot_davion",
+            "eyes_heterochromatic",
+            "handedness_right",
+            "bloodtype_a_negative",
+            "stature_short",
+            "pilot_tech",
+            "pilot_momentum",
+            "pilot_anchored"
         ],
         "tagSetSourceFile": ""
     },

@@ -2,13 +2,12 @@
     "Id": "pilot_backer_Chung",
     "PilotTags": {
         "items": [
-            "eyes_green",
+            "eyes_blue",
             "handedness_right",
-            "bloodtype_o_positive",
+            "bloodtype_a_positive",
             "stature_tall",
-            "pilot_athletic",
-            "pilot_pilot_criminal",
-            "pilot_pilot_pretentious"
+            "pilot_spacer",
+            "pilot_feral"
         ]
     }
 }

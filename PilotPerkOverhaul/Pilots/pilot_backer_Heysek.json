@@ -36,18 +36,13 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "blood type_ab_positive",
-            "pilot_gladiator",
-            "handedness_right",
-            "stature_short",
-            "pilot_pilot_klutz",
-            "bloodtype_a_positive",
-            "eyes_green",
-            "stature_above average",
-            "eyes_brown",
             "name_Sabercat",
-            "pilot_merchant",
-            "pilot_davion"
+            "pilot_davion",
+            "eyes_green",
+            "handedness_right",
+            "bloodtype_o_negative",
+            "stature_above_average",
+            "pilot_thrustvector"
         ],
         "tagSetSourceFile": ""
     },

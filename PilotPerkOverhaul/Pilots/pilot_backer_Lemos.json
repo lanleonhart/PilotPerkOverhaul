@@ -31,19 +31,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_heterochromatic",
-            "pilot_periphery",
-            "handedness_right",
-            "stature_below average",
-            "pilot_gunslinger",
-            "bloodtype_ab_negative",
-            "pilot_pilot_pretentious",
-            "blood type_a_negative",
-            "pilot_brave",
             "name_Sabrewolf",
-            "stature_tall",
-            "pilot_pilot_bushido",
-            "pilot_technician"
+            "pilot_lothian",
+            "eyes_heterochromatic",
+            "handedness_right",
+            "bloodtype_a_negative",
+            "stature_average",
+            "pilot_officer",
+            "pilot_bookish",
+            "pilot_pretentious"
         ],
         "tagSetSourceFile": ""
     },

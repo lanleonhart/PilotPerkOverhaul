@@ -2,14 +2,13 @@
     "Id": "pilot_ronin_Ozone",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_blue",
             "handedness_right",
-            "bloodtype_a_positive",
-            "stature_average",
-            "pilot_brave",
-            "pilot_inconspicuous",
-            "pilot_pilot_drunk",
-            "pilot_pilot_bookish"
+            "bloodtype_ab_negative",
+            "stature_below_average",
+            "pilot_assassin",
+            "pilot_athletic",
+            "pilot_honest"
         ]
     }
 }

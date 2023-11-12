@@ -35,22 +35,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "experience_green",
-            "pilot_pilot_jinxed",
-            "bloodtype_o_negative",
-            "blood type_o_negative",
-            "pilot_gunslinger",
             "name_Adrenaline",
-            "handedness_right",
-            "eyes_green",
-            "pilot_pilot_fragile",
-            "stature_above average",
+            "pilot_davion",
             "eyes_brown",
-            "stature_tall",
-            "handedness_left",
-            "pilot_athletic",
-            "pilot_green",
-            "pilot_davion"
+            "handedness_right",
+            "bloodtype_ab_negative",
+            "stature_average",
+            "pilot_combatmedic",
+            "pilot_zealot",
+            "pilot_lazy"
         ],
         "tagSetSourceFile": ""
     },

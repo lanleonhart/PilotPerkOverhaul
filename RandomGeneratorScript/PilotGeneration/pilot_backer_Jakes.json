@@ -2,12 +2,12 @@
     "Id": "pilot_backer_Jakes",
     "PilotTags": {
         "items": [
-            "eyes_blue",
+            "eyes_brown",
             "handedness_right",
-            "bloodtype_b_positive",
-            "stature_average",
+            "bloodtype_o_negative",
+            "stature_tall",
             "pilot_spacer",
-            "pilot_pilot_conspicious"
+            "pilot_klutz"
         ]
     }
 }

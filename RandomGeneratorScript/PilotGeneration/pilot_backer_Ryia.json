@@ -2,12 +2,13 @@
     "Id": "pilot_backer_Ryia",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_hazel",
             "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_average",
-            "pilot_inconspicuous",
-            "pilot_pilot_lazyeye"
+            "bloodtype_ab_positive",
+            "stature_above_average",
+            "pilot_ex-comstar",
+            "pilot_technician",
+            "pilot_nearsighted"
         ]
     }
 }

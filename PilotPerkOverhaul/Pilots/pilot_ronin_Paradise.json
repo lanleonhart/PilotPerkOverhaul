@@ -41,22 +41,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "handedness_left",
-            "pilot_pilot_reckless",
-            "eyes_heterochromatic",
-            "pilot_periphery",
-            "stature_short",
-            "stature_average",
             "name_Paradise",
-            "bloodtype_a_positive",
-            "pilot_spacer",
-            "pilot_ex-comstar",
-            "blood type_a_positive",
-            "eyes_green",
-            "pilot_pilot_criminal",
-            "handedness_ambidextrous",
-            "pilot_pilot_bookish",
-            "pilot_commander"
+            "pilot_aurgian",
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_o_negative",
+            "stature_average",
+            "pilot_anchored",
+            "pilot_brave",
+            "pilot_dependable",
+            "pilot_nearsighted"
         ],
         "tagSetSourceFile": ""
     },

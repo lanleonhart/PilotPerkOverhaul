@@ -1,0 +1,43 @@
+{
+    "id": "pilotQuirkDef_pilot_offbalance",
+    "tag": "pilot_offbalance",
+    "quirkName": "Off Balance",
+    "description": "",
+    "effectData": [
+      {
+        "durationData": {
+          "duration": -1,
+          "stackLimit": -1
+        },
+        "targetingData": {
+          "effectTriggerType": "Passive",
+          "effectTargetType": "Creator",
+          "showInTargetPreview": false,
+          "showInStatusPanel": false
+        },
+        "effectType": "StatisticEffect",
+        "Description": {
+          "Id": "GyroThreshold",
+          "Name": "Increased Unsteady Threshold",
+          "Details": "The gyro helps maintain the center-of-mass equilibrium for the BattleMech.",
+          "Icon": "uixSvgIcon_equipment_Gyro"
+        },
+        "statisticData": {
+          "statName": "UnsteadyThreshold",
+          "operation": "Float_Subtract",
+          "modValue": "10.0",
+          "modType": "System.Single"
+        },
+        "nature": "Buff"
+      }
+    ],
+    "quirkEffects": [
+      {
+        "type": "PilotCostFactor",
+        "modifier": 0.20,
+        "secondaryModifier": 0.0,
+        "affectedIds": []
+      }
+    ]
+  }
+  

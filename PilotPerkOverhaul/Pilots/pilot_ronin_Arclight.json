@@ -42,24 +42,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
             "name_Arclight",
-            "pilot_calm",
-            "pilot_pilot_reckless",
-            "pilot_periphery",
-            "blood type_ab_negative",
+            "pilot_aurigan",
+            "eyes_hazel",
             "handedness_right",
-            "eyes_blue",
-            "bloodtype_a_negative",
-            "pilot_ex-comstar",
-            "pilot_inconspicuous",
-            "stature_tall",
-            "pilot_spacer",
-            "stature_above average",
-            "pilot_pilot_bushido",
-            "pilot_pilot_fragile",
-            "handedness_left",
-            "pilot_pilot_dependable"
+            "bloodtype_a_positive",
+            "stature_above_average",
+            "pilot_resilient",
+            "pilot_honest",
+            "pilot_drunk"
         ],
         "tagSetSourceFile": ""
     },

@@ -2,12 +2,13 @@
     "Id": "pilot_backer_Eckett",
     "PilotTags": {
         "items": [
-            "eyes_brown",
-            "handedness_left",
+            "eyes_green",
+            "handedness_right",
             "bloodtype_ab_positive",
-            "stature_short",
-            "pilot_merchant",
-            "pilot_pilot_noble"
+            "stature_tall",
+            "pilot_anchored",
+            "pilot_bookish",
+            "pilot_offbalance"
         ]
     }
 }

@@ -36,19 +36,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_kurita",
-            "handedness_ambidextrous",
-            "eyes_heterochromatic",
-            "blood type_ab_negative",
-            "stature_below average",
-            "eyes_blue",
-            "handedness_right",
-            "pilot_brave",
-            "bloodtype_b_positive",
             "name_Popo",
-            "pilot_athletic",
-            "pilot_technician",
-            "pilot_pilot_conspicious"
+            "pilot_kurita",
+            "eyes_heterochromatic",
+            "handedness_ambidextrous",
+            "bloodtype_o_positive",
+            "stature_average",
+            "pilot_military",
+            "pilot_taekwondo",
+            "pilot_inadequate"
         ],
         "tagSetSourceFile": ""
     },

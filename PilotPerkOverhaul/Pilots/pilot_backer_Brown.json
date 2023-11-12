@@ -36,21 +36,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_nearsighted",
-            "pilot_pilot_feral",
-            "pilot_gunslinger",
-            "handedness_right",
-            "stature_short",
-            "eyes_blue",
-            "stature_average",
-            "pilot_pilot_apathetic",
-            "bloodtype_b_positive",
-            "eyes_brown",
-            "pilot_steiner",
             "name_Bootcamp",
-            "handedness_ambidextrous",
-            "blood type_b_positive",
-            "pilot_technician"
+            "pilot_steiner",
+            "eyes_green",
+            "handedness_right",
+            "bloodtype_o_negative",
+            "stature_short",
+            "pilot_tough",
+            "pilot_zealot",
+            "pilot_dishonest"
         ],
         "tagSetSourceFile": ""
     },

@@ -2,11 +2,13 @@
     "Id": "pilot_backer_Hording",
     "PilotTags": {
         "items": [
-            "eyes_brown",
-            "handedness_left",
-            "bloodtype_ab_positive",
-            "stature_average",
-            "pilot_officer"
+            "eyes_heterochromatic",
+            "handedness_right",
+            "bloodtype_o_positive",
+            "stature_below_average",
+            "pilot_deadeye",
+            "pilot_gunslinger",
+            "pilot_adrenaline"
         ]
     }
 }

@@ -36,18 +36,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
-            "pilot_calm",
-            "handedness_right",
-            "stature_below average",
-            "blood type_a_positive",
             "name_Flatline",
-            "stature_tall",
-            "bloodtype_b_positive",
-            "pilot_pilot_zealot",
-            "eyes_brown",
             "pilot_steiner",
-            "pilot_officer"
+            "eyes_hazel",
+            "handedness_right",
+            "bloodtype_ab_positive",
+            "stature_above_average",
+            "pilot_novice_technician",
+            "pilot_ex-comstar",
+            "pilot_dishonest"
         ],
         "tagSetSourceFile": ""
     },

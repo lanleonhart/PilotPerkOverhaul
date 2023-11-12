@@ -2,14 +2,14 @@
     "Id": "pilot_backer_Chik",
     "PilotTags": {
         "items": [
-            "eyes_heterochromatic",
+            "eyes_blue",
             "handedness_left",
-            "bloodtype_o_negative",
-            "stature_above average",
-            "pilot_ex-comstar",
-            "pilot_pilot_cautious",
-            "pilot_pilot_feral",
-            "pilot_pilot_traumatic_injury"
+            "bloodtype_a_negative",
+            "stature_average",
+            "pilot_novice_technician",
+            "pilot_combatmedic",
+            "pilot_lostech",
+            "pilot_intimidating"
         ]
     }
 }

@@ -2,13 +2,14 @@
     "Id": "pilot_ronin_Apex",
     "PilotTags": {
         "items": [
-            "eyes_heterochromatic",
+            "eyes_hazel",
             "handedness_right",
-            "bloodtype_b_positive",
-            "stature_tall",
-            "pilot_military",
-            "pilot_spacer",
-            "pilot_pilot_dependable"
+            "bloodtype_ab_positive",
+            "stature_below_average",
+            "pilot_tough",
+            "pilot_merchant",
+            "pilot_taekwondo",
+            "pilot_limitedvision"
         ]
     }
 }

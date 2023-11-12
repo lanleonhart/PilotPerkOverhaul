@@ -33,18 +33,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
+            "name_Paladin",
+            "pilot_steiner",
             "eyes_heterochromatic",
             "handedness_right",
-            "stature_average",
-            "name_Paladin",
-            "blood type_a_negative",
-            "pilot_brave",
-            "stature_tall",
-            "bloodtype_ab_positive",
-            "eyes_brown",
-            "pilot_steiner",
-            "handedness_left",
-            "pilot_officer"
+            "bloodtype_o_positive",
+            "stature_below_average",
+            "pilot_deadeye",
+            "pilot_gunslinger",
+            "pilot_adrenaline"
         ],
         "tagSetSourceFile": ""
     },

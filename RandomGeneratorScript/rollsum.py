@@ -6,22 +6,22 @@ script_dir = os.path.dirname(os.path.abspath(__file__)) if "__file__" in globals
 
 # Perk categories
 perk_categories = {
-      "Positive": [
+     "Positive": [
         "pilot_assassin", "pilot_athletic", "pilot_command", "pilot_ex-comstar", "pilot_lostech", "pilot_merchant", "pilot_military", "pilot_spacer",
         "pilot_technician", "pilot_resilient", "pilot_gunslinger", "pilot_deadeye", "pilot_gladiator", "pilot_officer", "pilot_brave", "pilot_inconspicuous",
-        "pilot_calm", "pilot_lucky","pilot_momentum","pilot_tough","pilot_anchored","pilot_thrustvector","pilot_doctor","pilot_combatmedic"
+        "pilot_calm", "pilot_lucky","pilot_momentum","pilot_tough","pilot_anchored","pilot_thrustvector","pilot_doctor","pilot_combatmedic","pilot_tactician"
     ],
     "Mixed": [
         "pilot_bookish", "pilot_cautious", "pilot_criminal", "pilot_dependable",
         "pilot_dishonest", "pilot_drunk", "pilot_reckless", "pilot_honest",
         "pilot_noble", "pilot_bushido", "pilot_zealot", "pilot_feral", "pilot_redline","pilot_archer","pilot_warhead",
-        "pilot_eoptics","pilot_coptics","pilot_keepmoving","pilot_intimidating"
+        "pilot_eoptics","pilot_coptics","pilot_keepmoving","pilot_intimidating","pilot_adrenaline","pilot_boxer","pilot_taekwondo"
     ],
     "Negative": [
         "pilot_klutz", "pilot_nervous", "pilot_fragile", "pilot_apathetic",
         "pilot_lazyeye", "pilot_traumatic_injury", "pilot_nearsighted",
         "pilot_limitedvision", "pilot_conspicuous", "pilot_pretentious",
-        "pilot_reject", "pilot_jinxed","pilot_glassjaw"
+        "pilot_reject", "pilot_jinxed","pilot_glassjaw","pilot_tunnelvision","pilot_lazy","pilot_offbalance","pilot_inadequate","pilot_cowardly"
     ],
     "Mechtech": ["pilot_novice_technician", "pilot_tech", "pilot_adv_technician", "pilot_master_technician"],
 }
@@ -40,10 +40,10 @@ faction_tags = [
     "pilot_comstar", "pilot_coyote", "pilot_davion", "pilot_diamondshark", "pilot_firemandrill",
     "pilot_ghostbear", "pilot_goliathscorpion", "pilot_hellshorses", "pilot_icehellion",
     "pilot_illyria", "pilot_ives", "pilot_kurita", "pilot_liao", "pilot_lothian", "pilot_magistracy",
-    "pilot_marian", "pilot_marik", "pilot_noble", "pilot_novacat", "pilot_outworld",
+    "pilot_marian", "pilot_marik", "pilot_novacat", "pilot_outworld",
     "pilot_periphery", "pilot_smokejaguar", "pilot_snowraven", "pilot_solaris",
     "pilot_staradder", "pilot_steiner", "pilot_steelviper", "pilot_taurian", "pilot_tortuga",
-    "pilot_valkyrate", "pilot_wolf", "pilot_worldofblake"
+    "pilot_valkyrate", "pilot_wolf", "pilot_worldofblake","pilot_periphery"
 ]
 
 # Define the directory where the JSON files are located

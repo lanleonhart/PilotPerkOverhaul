@@ -38,22 +38,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_dependable",
-            "pilot_davion",
-            "bloodtype_o_negative",
             "name_Test9",
-            "pilot_gunslinger",
+            "pilot_davion",
+            "eyes_green",
             "handedness_right",
-            "stature_short",
-            "eyes_blue",
-            "pilot_pilot_apathetic",
-            "pilot_pilot_redline",
-            "stature_average",
-            "pilot_pilot_lazyeye",
-            "pilot_pilot_honest",
-            "handedness_left",
-            "blood type_b_positive",
-            "pilot_commander"
+            "bloodtype_a_positive",
+            "stature_tall",
+            "pilot_novice_technician",
+            "pilot_merchant",
+            "pilot_archer",
+            "pilot_lazyeye"
         ],
         "tagSetSourceFile": ""
     },

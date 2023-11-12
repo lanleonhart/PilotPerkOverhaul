@@ -40,23 +40,17 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "blood type_ab_positive",
-            "pilot_pilot_jinxed",
-            "eyes_heterochromatic",
-            "pilot_pilot_reckless",
-            "pilot_periphery",
-            "handedness_right",
-            "bloodtype_ab_negative",
-            "stature_average",
-            "eyes_blue",
-            "pilot_gunslinger",
-            "pilot_spacer",
-            "pilot_pilot_cautious",
-            "pilot_pilot_bushido",
-            "handedness_left",
-            "pilot_athletic",
             "name_Showboat",
-            "pilot_pilot_dependable"
+            "pilot_solaris",
+            "eyes_green",
+            "handedness_ambidextrous",
+            "bloodtype_ab_positive",
+            "stature_average",
+            "pilot_tech",
+            "pilot_lostech",
+            "pilot_doctor",
+            "pilot_boxer",
+            "pilot_criminal"
         ],
         "tagSetSourceFile": ""
     },

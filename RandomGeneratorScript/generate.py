@@ -65,19 +65,19 @@ perk_categories = {
    "Positive": [
         "pilot_assassin", "pilot_athletic", "pilot_command", "pilot_ex-comstar", "pilot_lostech", "pilot_merchant", "pilot_military", "pilot_spacer",
         "pilot_technician", "pilot_resilient", "pilot_gunslinger", "pilot_deadeye", "pilot_gladiator", "pilot_officer", "pilot_brave", "pilot_inconspicuous",
-        "pilot_calm", "pilot_lucky","pilot_momentum","pilot_tough","pilot_anchored","pilot_thrustvector","pilot_doctor","pilot_combatmedic"
+        "pilot_calm", "pilot_lucky","pilot_momentum","pilot_tough","pilot_anchored","pilot_thrustvector","pilot_doctor","pilot_combatmedic","pilot_tactician"
     ],
     "Mixed": [
         "pilot_bookish", "pilot_cautious", "pilot_criminal", "pilot_dependable",
         "pilot_dishonest", "pilot_drunk", "pilot_reckless", "pilot_honest",
         "pilot_noble", "pilot_bushido", "pilot_zealot", "pilot_feral", "pilot_redline","pilot_archer","pilot_warhead",
-        "pilot_eoptics","pilot_coptics","pilot_keepmoving","pilot_intimidating"
+        "pilot_eoptics","pilot_coptics","pilot_keepmoving","pilot_intimidating","pilot_adrenaline","pilot_boxer","pilot_taekwondo"
     ],
     "Negative": [
         "pilot_klutz", "pilot_nervous", "pilot_fragile", "pilot_apathetic",
         "pilot_lazyeye", "pilot_traumatic_injury", "pilot_nearsighted",
         "pilot_limitedvision", "pilot_conspicuous", "pilot_pretentious",
-        "pilot_reject", "pilot_jinxed","pilot_glassjaw"
+        "pilot_reject", "pilot_jinxed","pilot_glassjaw","pilot_tunnelvision","pilot_lazy","pilot_offbalance","pilot_inadequate","pilot_cowardly"
     ],
 }
 
@@ -128,7 +128,7 @@ def generate_perks(pilot_category):
     # Minimum perks required for each category
     min_perks = {
         "Green": (1, 0, 0),
-        "Regular": (1, 0, 0),
+        "Regular": (1, 1, 0),
         "Veteran": (1, 1, 0),
         "Elite": (2, 1, 0),
     }

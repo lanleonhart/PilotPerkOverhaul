@@ -2,12 +2,13 @@
     "Id": "pilot_backer_Hardie",
     "PilotTags": {
         "items": [
-            "eyes_heterochromatic",
-            "handedness_left",
-            "bloodtype_ab_negative",
-            "stature_above average",
-            "pilot_deadeye",
-            "pilot_pilot_cautious"
+            "eyes_blue",
+            "handedness_right",
+            "bloodtype_o_negative",
+            "stature_short",
+            "pilot_thrustvector",
+            "pilot_reckless",
+            "pilot_dishonest"
         ]
     }
 }

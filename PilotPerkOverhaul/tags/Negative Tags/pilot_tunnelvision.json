@@ -1,0 +1,8 @@
+{
+    "Name": "pilot_tunnelvision",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Tunnel Vision",
+    "Description": "This pilot often has tunnel vision causing them to lose situational awareness [-5 Heat Sinking Per Turn, +10% Visibility]"
+  }
+  

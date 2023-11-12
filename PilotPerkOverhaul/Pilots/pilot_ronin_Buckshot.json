@@ -39,19 +39,18 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_assassin",
             "name_Buckshot",
-            "blood type_o_positive",
-            "pilot_periphery",
-            "handedness_right",
+            "pilot_liao",
             "eyes_heterochromatic",
-            "stature_average",
-            "pilot_lostech",
+            "handedness_left",
+            "bloodtype_ab_negative",
+            "stature_above_average",
+            "pilot_command",
+            "pilot_deadeye",
             "pilot_inconspicuous",
-            "stature_tall",
-            "bloodtype_b_positive",
-            "pilot_pilot_dishonest",
-            "pilot_pilot_dependable"
+            "pilot_archer",
+            "pilot_keepmoving",
+            "pilot_offbalance"
         ],
         "tagSetSourceFile": ""
     },

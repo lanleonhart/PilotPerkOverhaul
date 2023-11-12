@@ -40,21 +40,14 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
-            "handedness_right",
-            "stature_below average",
-            "pilot_pilot_apathetic",
-            "pilot_athletic",
-            "pilot_pilot_pretentious",
             "name_Scrub",
-            "pilot_pilot_cautious",
-            "eyes_green",
+            "pilot_liao",
+            "eyes_blue",
+            "handedness_right",
+            "bloodtype_a_positive",
             "stature_tall",
-            "pilot_pilot_criminal",
-            "bloodtype_o_positive",
-            "blood type_b_positive",
-            "pilot_commander",
-            "pilot_liao"
+            "pilot_spacer",
+            "pilot_feral"
         ],
         "tagSetSourceFile": ""
     },

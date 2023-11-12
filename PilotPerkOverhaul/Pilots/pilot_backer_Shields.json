@@ -36,20 +36,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_nearsighted",
             "name_Bearclaw",
-            "experience_green",
-            "bloodtype_o_negative",
-            "blood type_o_positive",
-            "handedness_right",
-            "stature_below average",
-            "pilot_deadeye",
-            "pilot_ex-comstar",
-            "pilot_pilot_cautious",
-            "eyes_green",
-            "eyes_brown",
             "pilot_steiner",
-            "pilot_green"
+            "eyes_blue",
+            "handedness_right",
+            "bloodtype_ab_negative",
+            "stature_below_average",
+            "pilot_novice_technician",
+            "pilot_merchant",
+            "pilot_tactician"
         ],
         "tagSetSourceFile": ""
     },

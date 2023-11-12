@@ -40,23 +40,15 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_military",
-            "pilot_lostech",
-            "pilot_periphery",
-            "handedness_right",
-            "stature_short",
-            "bloodtype_ab_negative",
-            "pilot_pilot_redline",
-            "pilot_deadeye",
-            "blood type_a_negative",
-            "pilot_lucky",
-            "eyes_green",
-            "stature_tall",
-            "eyes_brown",
             "name_Sumo",
-            "pilot_officer",
-            "pilot_pilot_traumatic_injury",
-            "pilot_pilot_dependable"
+            "pilot_aurigan",
+            "eyes_green",
+            "handedness_right",
+            "bloodtype_o_negative",
+            "stature_average",
+            "pilot_merchant",
+            "pilot_spacer",
+            "pilot_bushido"
         ],
         "tagSetSourceFile": ""
     },

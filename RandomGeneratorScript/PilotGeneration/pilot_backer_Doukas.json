@@ -3,12 +3,12 @@
     "PilotTags": {
         "items": [
             "eyes_heterochromatic",
-            "handedness_right",
-            "bloodtype_b_positive",
-            "stature_below average",
-            "pilot_technician",
-            "pilot_brave",
-            "pilot_pilot_conspicious"
+            "handedness_ambidextrous",
+            "bloodtype_o_positive",
+            "stature_average",
+            "pilot_military",
+            "pilot_taekwondo",
+            "pilot_inadequate"
         ]
     }
 }

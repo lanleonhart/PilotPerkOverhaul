@@ -39,24 +39,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_feral",
-            "pilot_assassin",
-            "eyes_heterochromatic",
-            "pilot_lostech",
-            "pilot_periphery",
-            "handedness_right",
-            "stature_below average",
-            "stature_average",
-            "pilot_athletic",
             "name_Kraken",
-            "pilot_spacer",
-            "pilot_pilot_zealot",
+            "pilot_aurigan",
             "eyes_brown",
-            "pilot_officer",
-            "bloodtype_o_positive",
-            "blood type_b_positive",
-            "pilot_pilot_limitedvision",
-            "pilot_pilot_dependable"
+            "handedness_right",
+            "bloodtype_a_negative",
+            "stature_short",
+            "pilot_gladiator",
+            "pilot_spacer",
+            "pilot_dependable",
+            "pilot_conspicuous"
         ],
         "tagSetSourceFile": ""
     },

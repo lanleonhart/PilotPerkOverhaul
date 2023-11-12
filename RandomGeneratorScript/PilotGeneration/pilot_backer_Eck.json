@@ -2,11 +2,15 @@
     "Id": "pilot_backer_Eck",
     "PilotTags": {
         "items": [
-            "eyes_heterochromatic",
+            "eyes_brown",
             "handedness_right",
-            "bloodtype_b_positive",
-            "stature_above average",
-            "pilot_lostech"
+            "bloodtype_ab_negative",
+            "stature_tall",
+            "pilot_spacer",
+            "pilot_calm",
+            "pilot_taekwondo",
+            "pilot_bushido",
+            "pilot_lazyeye"
         ]
     }
 }

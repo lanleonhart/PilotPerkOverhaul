@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_doctor",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Doctor",
+    "Description": "Having comprehensive medical training this indiviudal provides a boost to the med facilities. [+2 MedTech]"
+}

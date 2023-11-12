@@ -3,13 +3,12 @@
     "PilotTags": {
         "items": [
             "eyes_green",
-            "handedness_ambidextrous",
-            "bloodtype_o_positive",
-            "stature_above average",
-            "pilot_commander",
-            "pilot_pilot_bookish",
-            "pilot_pilot_feral",
-            "pilot_pilot_fragile"
+            "handedness_right",
+            "bloodtype_a_negative",
+            "stature_below_average",
+            "pilot_military",
+            "pilot_keepmoving",
+            "pilot_offbalance"
         ]
     }
 }

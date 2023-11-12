@@ -2,13 +2,12 @@
     "Id": "pilot_backer_Durand",
     "PilotTags": {
         "items": [
-            "eyes_hazel",
+            "eyes_brown",
             "handedness_right",
-            "bloodtype_a_positive",
-            "stature_below average",
+            "bloodtype_ab_negative",
+            "stature_short",
             "pilot_technician",
-            "pilot_calm",
-            "pilot_pilot_fragile"
+            "pilot_criminal"
         ]
     }
 }

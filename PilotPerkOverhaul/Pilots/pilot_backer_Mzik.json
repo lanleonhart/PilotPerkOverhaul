@@ -34,19 +34,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_assassin",
-            "pilot_marik",
             "name_Big_Sly",
-            "eyes_heterochromatic",
-            "pilot_lostech",
+            "pilot_marik",
+            "eyes_green",
             "handedness_right",
+            "bloodtype_a_negative",
             "stature_average",
-            "pilot_athletic",
-            "bloodtype_ab_positive",
-            "stature_above average",
-            "eyes_brown",
-            "blood type_b_positive",
-            "pilot_pilot_limitedvision"
+            "pilot_adv_technician",
+            "pilot_momentum",
+            "pilot_bushido",
+            "pilot_reject"
         ],
         "tagSetSourceFile": ""
     },

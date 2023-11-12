@@ -39,20 +39,16 @@
     "AIPersonality": "Undefined",
     "PilotTags": {
         "items": [
-            "pilot_pilot_feral",
             "name_Paradox",
-            "eyes_heterochromatic",
-            "bloodtype_o_negative",
-            "stature_below average",
-            "eyes_blue",
-            "pilot_deadeye",
-            "blood type_a_negative",
-            "pilot_ex-comstar",
-            "pilot_pilot_cautious",
-            "stature_above average",
             "pilot_steiner",
+            "eyes_blue",
             "handedness_left",
-            "pilot_pilot_traumatic_injury"
+            "bloodtype_a_negative",
+            "stature_average",
+            "pilot_novice_technician",
+            "pilot_combatmedic",
+            "pilot_lostech",
+            "pilot_intimidating"
         ],
         "tagSetSourceFile": ""
     },

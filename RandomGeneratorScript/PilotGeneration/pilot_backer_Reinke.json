@@ -2,14 +2,14 @@
     "Id": "pilot_backer_Reinke",
     "PilotTags": {
         "items": [
-            "eyes_brown",
+            "eyes_heterochromatic",
             "handedness_right",
             "bloodtype_ab_positive",
-            "stature_below average",
-            "pilot_lucky",
-            "pilot_deadeye",
-            "pilot_pilot_feral",
-            "pilot_pilot_pretentious"
+            "stature_short",
+            "pilot_ex-comstar",
+            "pilot_zealot",
+            "pilot_criminal",
+            "pilot_limitedvision"
         ]
     }
 }
