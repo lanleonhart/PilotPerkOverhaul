@@ -6,21 +6,22 @@ script_dir = os.path.dirname(os.path.abspath(__file__)) if "__file__" in globals
 
 # Perk categories
 perk_categories = {
-    "Positive": [
-        "pilot_assassin", "pilot_athletic", "pilot_commander", "pilot_ex-comstar", "pilot_lostech", "pilot_merchant", "pilot_military", "pilot_spacer",
+      "Positive": [
+        "pilot_assassin", "pilot_athletic", "pilot_command", "pilot_ex-comstar", "pilot_lostech", "pilot_merchant", "pilot_military", "pilot_spacer",
         "pilot_technician", "pilot_resilient", "pilot_gunslinger", "pilot_deadeye", "pilot_gladiator", "pilot_officer", "pilot_brave", "pilot_inconspicuous",
-        "pilot_calm", "pilot_lucky"
+        "pilot_calm", "pilot_lucky","pilot_momentum","pilot_tough","pilot_anchored","pilot_thrustvector","pilot_doctor","pilot_combatmedic"
     ],
     "Mixed": [
         "pilot_bookish", "pilot_cautious", "pilot_criminal", "pilot_dependable",
         "pilot_dishonest", "pilot_drunk", "pilot_reckless", "pilot_honest",
-        "pilot_noble", "pilot_bushido", "pilot_zealot", "pilot_feral", "pilot_redline"
+        "pilot_noble", "pilot_bushido", "pilot_zealot", "pilot_feral", "pilot_redline","pilot_archer","pilot_warhead",
+        "pilot_eoptics","pilot_coptics","pilot_keepmoving","pilot_intimidating"
     ],
     "Negative": [
         "pilot_klutz", "pilot_nervous", "pilot_fragile", "pilot_apathetic",
         "pilot_lazyeye", "pilot_traumatic_injury", "pilot_nearsighted",
         "pilot_limitedvision", "pilot_conspicuous", "pilot_pretentious",
-        "pilot_reject", "pilot_jinxed"
+        "pilot_reject", "pilot_jinxed","pilot_glassjaw"
     ],
     "Mechtech": ["pilot_novice_technician", "pilot_tech", "pilot_adv_technician", "pilot_master_technician"],
 }

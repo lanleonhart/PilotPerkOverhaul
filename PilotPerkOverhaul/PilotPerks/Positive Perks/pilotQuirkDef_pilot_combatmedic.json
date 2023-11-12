@@ -1,0 +1,21 @@
+{
+    "id": "pilotQuirkDef_pilot_combatmedic",
+    "tag": "pilot_combatmedic",
+    "quirkName": "CombatMedic",
+    "description": "",
+"effectData": [],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.30,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    },
+    {
+        "type": "MedTech",
+        "modifier": 1.0,
+        "secondaryModifier": 0.0,
+        "affectedIds": []
+      }
+  ]
+}

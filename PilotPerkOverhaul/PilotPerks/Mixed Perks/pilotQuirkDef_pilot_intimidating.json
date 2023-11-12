@@ -1,0 +1,68 @@
+{
+    "id": "pilotQuirkDef_pilot_intimidating",
+    "tag": "pilot_intimidating",
+    "quirkName": "Intimidating",
+    "description": "",
+"effectData": [
+    {
+        "durationData": {
+          "duration": -1,
+          "stackLimit": -1
+        },
+        "targetingData": {
+          "effectTriggerType": "Passive",
+          "effectTargetType": "AllLanceMates",
+          "showInTargetPreview": false,
+          "showInStatusPanel": false
+        },
+        "effectType": "StatisticEffect",
+        "Description": {
+          "Id": "ResolveGainLance",
+          "Name": "Lance Resolve Generation",
+          "Details": "Provides a bonus to actions that generate Morale.",
+          "Icon": "uixSvgIcon_equipment_Cockpit"
+        },
+        "nature": "Buff",
+        "statisticData": {
+          "statName": "resolveGenBaseMult",
+          "operation": "Float_Multiply",
+          "modValue": "0.95",
+          "modType": "System.Single"
+        }
+      },
+      {
+        "durationData": {
+          "duration": -1,
+          "stackLimit": -1
+        },
+        "targetingData": {
+          "effectTriggerType": "Passive",
+          "effectTargetType": "EnemiesWithinRange",
+          "showInTargetPreview": false,
+          "showInStatusPanel": false
+        },
+        "effectType": "StatisticEffect",
+        "Description": {
+          "Id": "IntimidatedPenalty",
+          "Name": "Inflict Enemies With Panic Chance",
+          "Details": "Debilitated",
+          "Icon": "uixSvgIcon_equipment_Cockpit"
+        },
+        "nature": "Buff",
+        "statisticData": {
+          "statName": "PanicStatMultiplier",
+          "operation": "Float_Multiply",
+          "modValue": "1.25",
+          "modType": "System.Single"
+        }
+    }
+],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.30,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}
