@@ -1,71 +1,70 @@
 {
-    "id": "pilotQuirkDef_pilot_warhead",
-    "tag": "pilot_warhead",
-    "quirkName": "Enhanced Warhead",
-    "description": "",
-    "effectData": [
-      {
-        "durationData": {
-          "duration": -1,
-          "stackLimit": -1
-        },
-        "targetingData": {
-          "effectTriggerType": "Passive",
-          "effectTargetType": "Creator"
-        },
-        "effectType": "StatisticEffect",
-        "Description": {
-          "Id": "TTS3BALLMAXRANGE",
-          "Name": "FCS Ballistic Range: Increased Ballistic Max Range",
-          "Details": "DF Minrange by 50m",
-          "Icon": "uixSvgIcon_ability_mastertactician"
-        },
-        "statisticData": {
-          "statName": "MaxRange",
-          "operation": "Float_Multiply",
-          "modValue": "0.90",
-          "modType": "System.Single",
-          "targetCollection": "Weapon",
-          "targetWeaponCategory": "Missiles"
-        },
-        "nature": "Buff"
+  "id": "pilotQuirkDef_pilot_warhead",
+  "tag": "pilot_warhead",
+  "quirkName": "Enhanced Warhead",
+  "description": "",
+  "effectData": [
+    {
+      "durationData": {
+        "duration": -1,
+        "stackLimit": -1
       },
-      {
-        "durationData": {
-          "duration": -1,
-          "stackLimit": -1
-        },
-        "targetingData": {
-          "effectTriggerType": "Passive",
-          "effectTargetType": "Creator",
-          "showInTargetPreview": false,
-          "showInStatusPanel": false
-        },
-        "effectType": "StatisticEffect",
-        "Description": {
-          "Id": "LRMBuff",
-          "Name": "Increased LRM Damage",
-          "Details": "+25% Damage to LRM",
-          "Icon": ""
-        },
-        "nature": "Buff",
-        "statisticData": {
-          "statName": "DamagePerShot",
-          "operation": "Float_Multiply",
-          "modValue": "1.10",
-          "modType": "System.Single",
-          "targetCollection": "Weapon",
-          "targetWeaponCategory": "Missiles"
-        }
+      "targetingData": {
+        "effectTriggerType": "Passive",
+        "effectTargetType": "Creator"
+      },
+      "effectType": "StatisticEffect",
+      "description": {
+        "Id": "TTS3BALLMAXRANGE",
+        "Name": "FCS Ballistic Range: Increased Ballistic Max Range",
+        "Details": "DF Minrange by 50m",
+        "Icon": "uixSvgIcon_ability_mastertactician"
+      },
+      "statisticData": {
+        "statName": "MaxRange",
+        "operation": "Float_Multiply",
+        "modValue": "0.90",
+        "modType": "System.Single",
+        "targetCollection": "Weapon",
+        "targetWeaponCategory": "Missile"
+      },
+      "nature": "Buff"
+    },
+    {
+      "durationData": {
+        "duration": -1,
+        "stackLimit": -1
+      },
+      "targetingData": {
+        "effectTriggerType": "Passive",
+        "effectTargetType": "Creator",
+        "showInTargetPreview": false,
+        "showInStatusPanel": false
+      },
+      "effectType": "StatisticEffect",
+      "description": {
+        "Id": "LRMBuff",
+        "Name": "Increased LRM Damage",
+        "Details": "+25% Damage to LRM",
+        "Icon": "" 
+      },
+      "nature": "Buff",
+      "statisticData": {
+        "statName": "DamagePerShot",
+        "operation": "Float_Multiply",
+        "modValue": "1.10",
+        "modType": "System.Single",
+        "targetCollection": "Weapon",
+        "targetWeaponCategory": "Missile"
       }
-    ],
-    "quirkEffects": [
-      {
-        "type": "PilotCostFactor",
-        "modifier": 0.20,
-        "secondaryModifier": 0.0,
-        "affectedIds": []
-      }
-    ]
-  }
-  
+    }
+  ],
+  "quirkEffects": [
+    {
+      "type": "PilotCostFactor",
+      "modifier": 0.20,
+      "secondaryModifier": 0.0,
+      "affectedIds": []
+    }
+  ]
+}
