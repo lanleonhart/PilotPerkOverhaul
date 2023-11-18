@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg4444" xmlns="http://www.w3.org/2000/svg" width="243.32" height="146.39" viewBox="0 0 243.32 146.39">
+<svg id="svg4444" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244.32 147.39">
   <defs>
     <style>
       .cls-1 {
         fill: #fff;
-      }
-
-      .cls-1, .cls-2 {
         stroke-width: 0px;
       }
 
       .cls-2 {
         fill: #3b3734;
+        stroke: #fff;
+        stroke-miterlimit: 10;
       }
     </style>
   </defs>
   <g id="layer33">
-    <path id="path107584" class="cls-2" d="m.14,97.68c-.08-26.79-.14-59.6-.14-72.91V.57l56.64-.14c31.15-.08,85.9-.21,121.66-.29l65.02-.14-.15,72.99c-.08,40.14-.17,73.01-.19,73.02-.02.02-54.63.11-121.36.21l-121.33.17-.14-48.71Z"/>
+    <path id="path107584" class="cls-2" d="m.64,98.18c-.08-26.79-.14-59.6-.14-72.91V1.07l56.64-.14c31.15-.08,85.9-.21,121.66-.29l65.02-.14-.15,72.99c-.08,40.14-.17,73.01-.19,73.02-.02.02-54.63.11-121.36.21l-121.33.17-.14-48.71h-.01Z"/>
   </g>
   <g id="layer35">
-    <ellipse id="path108561" class="cls-1" cx="51.13" cy="65.73" rx="18.01" ry="15.26"/>
-    <ellipse id="path108561-3" class="cls-1" cx="75.63" cy="29.35" rx="18.01" ry="15.26"/>
-    <ellipse id="path108561-5" class="cls-1" cx="34.15" cy="112.33" rx="18.01" ry="15.26"/>
-    <ellipse id="path108561-31" class="cls-1" cx="165.33" cy="85.36" rx="25.62" ry="22.77"/>
-    <ellipse id="path108561-31-1" class="cls-1" cx="196.33" cy="31.91" rx="28.64" ry="25.32"/>
+    <ellipse id="path108561" class="cls-1" cx="51.63" cy="66.23" rx="18.01" ry="15.26"/>
+    <ellipse id="path108561-3" class="cls-1" cx="76.13" cy="29.85" rx="18.01" ry="15.26"/>
+    <ellipse id="path108561-5" class="cls-1" cx="34.65" cy="112.83" rx="18.01" ry="15.26"/>
+    <ellipse id="path108561-31" class="cls-1" cx="165.83" cy="85.86" rx="25.62" ry="22.77"/>
+    <ellipse id="path108561-31-1" class="cls-1" cx="196.83" cy="32.41" rx="28.64" ry="25.32"/>
   </g>
 </svg>
