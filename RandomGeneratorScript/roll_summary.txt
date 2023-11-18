@@ -1,0 +1,155 @@
+------------------------------
+Positive Perks Breakdown (Highest Occurrence to Lowest):
+------------------------------
+pilot_deadeye: 8/75 (10.67%)
+pilot_lostech: 7/75 (9.33%)
+pilot_resilient: 7/75 (9.33%)
+pilot_gunslinger: 6/75 (8.00%)
+pilot_calm: 6/75 (8.00%)
+pilot_thrustvector: 6/75 (8.00%)
+pilot_athletic: 5/75 (6.67%)
+pilot_ex-comstar: 5/75 (6.67%)
+pilot_technician: 5/75 (6.67%)
+pilot_inconspicuous: 5/75 (6.67%)
+pilot_tough: 5/75 (6.67%)
+pilot_command: 4/75 (5.33%)
+pilot_merchant: 4/75 (5.33%)
+pilot_military: 4/75 (5.33%)
+pilot_gladiator: 4/75 (5.33%)
+pilot_lucky: 4/75 (5.33%)
+pilot_anchored: 4/75 (5.33%)
+pilot_brave: 3/75 (4.00%)
+pilot_momentum: 3/75 (4.00%)
+pilot_doctor: 3/75 (4.00%)
+pilot_assassin: 2/75 (2.67%)
+pilot_officer: 2/75 (2.67%)
+pilot_spacer: 1/75 (1.33%)
+pilot_combatmedic: 1/75 (1.33%)
+pilot_tactician: 0/75 (0.00%)
+------------------------------
+Mixed Perks Breakdown (Highest Occurrence to Lowest):
+------------------------------
+pilot_adrenaline: 6/75 (8.00%)
+pilot_noble: 5/75 (6.67%)
+pilot_redline: 5/75 (6.67%)
+pilot_archer: 5/75 (6.67%)
+pilot_warhead: 5/75 (6.67%)
+pilot_dishonest: 4/75 (5.33%)
+pilot_drunk: 4/75 (5.33%)
+pilot_honest: 4/75 (5.33%)
+pilot_taekwondo: 4/75 (5.33%)
+pilot_cautious: 3/75 (4.00%)
+pilot_criminal: 3/75 (4.00%)
+pilot_zealot: 3/75 (4.00%)
+pilot_feral: 3/75 (4.00%)
+pilot_eoptics: 3/75 (4.00%)
+pilot_intimidating: 3/75 (4.00%)
+pilot_bookish: 2/75 (2.67%)
+pilot_coptics: 2/75 (2.67%)
+pilot_keepmoving: 2/75 (2.67%)
+pilot_dependable: 1/75 (1.33%)
+pilot_reckless: 1/75 (1.33%)
+pilot_boxer: 1/75 (1.33%)
+pilot_bushido: 0/75 (0.00%)
+------------------------------
+Negative Perks Breakdown (Highest Occurrence to Lowest):
+------------------------------
+pilot_lazyeye: 5/75 (6.67%)
+pilot_limitedvision: 4/75 (5.33%)
+pilot_nearsighted: 3/75 (4.00%)
+pilot_nervous: 2/75 (2.67%)
+pilot_fragile: 2/75 (2.67%)
+pilot_conspicuous: 2/75 (2.67%)
+pilot_pretentious: 2/75 (2.67%)
+pilot_tunnelvision: 2/75 (2.67%)
+pilot_lazy: 2/75 (2.67%)
+pilot_offbalance: 2/75 (2.67%)
+pilot_cowardly: 2/75 (2.67%)
+pilot_klutz: 1/75 (1.33%)
+pilot_traumatic_injury: 1/75 (1.33%)
+pilot_glassjaw: 1/75 (1.33%)
+pilot_apathetic: 0/75 (0.00%)
+pilot_reject: 0/75 (0.00%)
+pilot_jinxed: 0/75 (0.00%)
+pilot_inadequate: 0/75 (0.00%)
+------------------------------
+MechTech Perks Breakdown (Highest Occurrence to Lowest):
+------------------------------
+pilot_novice_technician: 12/75 (16.00%)
+pilot_tech: 4/75 (5.33%)
+pilot_adv_technician: 3/75 (4.00%)
+pilot_master_technician: 0/75 (0.00%)
+------------------------------
+Characteristic Perks Breakdown (Highest Occurrence to Lowest):
+------------------------------
+Eyes
+------------------------------
+eyes_brown: 22/75 (29.33%)
+eyes_hazel: 17/75 (22.67%)
+eyes_heterochromatic: 14/75 (18.67%)
+eyes_blue: 11/75 (14.67%)
+eyes_green: 11/75 (14.67%)
+------------------------------
+Handedness
+------------------------------
+handedness_right: 60/75 (80.00%)
+handedness_left: 10/75 (13.33%)
+handedness_ambidextrous: 5/75 (6.67%)
+------------------------------
+Blood Type
+------------------------------
+bloodtype_ab_negative: 17/75 (22.67%)
+bloodtype_a_positive: 15/75 (20.00%)
+bloodtype_o_negative: 13/75 (17.33%)
+bloodtype_o_positive: 11/75 (14.67%)
+bloodtype_ab_positive: 11/75 (14.67%)
+bloodtype_a_negative: 8/75 (10.67%)
+bloodtype_b_positive: 0/75 (0.00%)
+------------------------------
+Stature
+------------------------------
+stature_below_average: 17/75 (22.67%)
+stature_tall: 16/75 (21.33%)
+stature_short: 15/75 (20.00%)
+stature_average: 14/75 (18.67%)
+stature_above_average: 13/75 (17.33%)
+------------------------------
+------------------------------
+Faction Tags Breakdown (Highest Occurrence to Lowest):
+------------------------------
+pilot_davion: 15/75 (20.00%)
+pilot_steiner: 15/75 (20.00%)
+pilot_liao: 8/75 (10.67%)
+pilot_aurigan: 7/75 (9.33%)
+pilot_kurita: 7/75 (9.33%)
+pilot_marik: 5/75 (6.67%)
+pilot_outworld: 5/75 (6.67%)
+pilot_taurian: 3/75 (4.00%)
+pilot_magistracy: 2/75 (2.67%)
+pilot_solaris: 2/75 (2.67%)
+pilot_circinus: 1/75 (1.33%)
+pilot_lothian: 1/75 (1.33%)
+pilot_tortuga: 1/75 (1.33%)
+pilot_valkyrate: 1/75 (1.33%)
+pilot_bloodspirit: 0/75 (0.00%)
+pilot_burrock: 0/75 (0.00%)
+pilot_cloudcobra: 0/75 (0.00%)
+pilot_comstar: 0/75 (0.00%)
+pilot_coyote: 0/75 (0.00%)
+pilot_diamondshark: 0/75 (0.00%)
+pilot_firemandrill: 0/75 (0.00%)
+pilot_ghostbear: 0/75 (0.00%)
+pilot_goliathscorpion: 0/75 (0.00%)
+pilot_hellshorses: 0/75 (0.00%)
+pilot_icehellion: 0/75 (0.00%)
+pilot_illyria: 0/75 (0.00%)
+pilot_ives: 0/75 (0.00%)
+pilot_marian: 0/75 (0.00%)
+pilot_novacat: 0/75 (0.00%)
+pilot_periphery: 0/75 (0.00%)
+pilot_smokejaguar: 0/75 (0.00%)
+pilot_snowraven: 0/75 (0.00%)
+pilot_staradder: 0/75 (0.00%)
+pilot_steelviper: 0/75 (0.00%)
+pilot_wolf: 0/75 (0.00%)
+pilot_worldofblake: 0/75 (0.00%)
