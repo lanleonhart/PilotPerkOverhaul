@@ -316,6 +316,13 @@
       },
       {
         "colour": "#000000",
+        "tag": "pilot_pirate",
+        "descriptionDefId": "",
+        "svgAssetId": "PIP_Pirate",
+        "priority": 3
+      },
+      {
+        "colour": "#000000",
         "tag": "commander_player",
         "descriptionDefId": "",
         "svgAssetId": "uixSvgIcon_mwrank_Commander",
