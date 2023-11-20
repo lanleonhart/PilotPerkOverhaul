@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_military",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Military",
+    "Description": "Coming from a military family, this pilot follows the advice and wisdom of their predecessors [+2 Tactics, Increased Spotting Range]"
+}

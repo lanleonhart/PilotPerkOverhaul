@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_mechwarrior",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Mechwarrior",
+    "Description": "A seasoned MechWarrior well-versed in combat tactics [ +1 Gunnery, +1 Tactics ]"
+}

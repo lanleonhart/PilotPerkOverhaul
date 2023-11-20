@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_wealthy",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Wealthy",
+    "Description": "Using their personal wealth, this individual has set forth onto the battlefield not knowing the horrors of war. [-1 to All Skills, +2 Initiative, -5% Heat Generation]"
+}

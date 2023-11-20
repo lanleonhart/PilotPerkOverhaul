@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_officer",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Officer",
+    "Description": "A seasoned MechWarrior who has adequate experience as a Lance leader, able to rally their lance mates in battle. [+1 Lance Initiative, +1 Guts, +1 Tactics, -1 Recoil]"
+}

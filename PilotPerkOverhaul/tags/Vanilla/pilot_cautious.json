@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_cautious",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Cautious",
+    "Description": "While not afraid of a fight, they value self-preservation over reckless actions [ -1 Initiative, -5% Run Distance, Entrench on Movement]"
+}

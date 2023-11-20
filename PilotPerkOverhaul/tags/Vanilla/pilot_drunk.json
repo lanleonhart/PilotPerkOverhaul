@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_drunk",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Drunk",
+    "Description": "The overindulgence of alcohol caused a loss of coordination, focus, and often in good spirits [-1 Gunnery, -2 Accuracy, +1 Initiative]"
+}

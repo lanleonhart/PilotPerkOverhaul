@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_criminal",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Criminal",
+    "Description": "This individual has connections to criminal organizations across the Inner Sphere [ -1 Tactics, +8% Run Distance, +3% Stability Damage]"
+}

@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_klutz",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Klutz",
+    "Description": "A lack of coordination makes this pilot prone to accidents and mistakes [ +3% Chance to Fall, -2% Accuracy ]"
+}

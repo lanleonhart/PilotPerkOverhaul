@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_gladiator",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Gladiator",
+    "Description": "A dedicated MechWarrior who has set out for glory in the Arena on Solaris VII. [+5% Damage from Physical Weapons, -1 Recoil, +2 Melee Accuracy]"
+}

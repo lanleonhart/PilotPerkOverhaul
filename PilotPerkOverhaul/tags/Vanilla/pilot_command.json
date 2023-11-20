@@ -1,0 +1,7 @@
+{
+    "Name": "pilot_command",
+    "Important": false,
+    "PlayerVisible": true,
+    "FriendlyName": "Commander",
+    "Description": "Having fought in many battles across the Inner Sphere, they established a role in leadership [ +1 Lance Initiative, +1 Piloting]"
+}
