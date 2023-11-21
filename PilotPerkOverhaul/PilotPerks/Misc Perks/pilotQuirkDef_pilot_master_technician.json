@@ -7,7 +7,7 @@
   "quirkEffects": [
     {
       "type": "PilotCostFactor",
-      "modifier": 0.70,
+      "modifier": 2.70,
       "secondaryModifier": 0.0,
       "affectedIds": []
     },

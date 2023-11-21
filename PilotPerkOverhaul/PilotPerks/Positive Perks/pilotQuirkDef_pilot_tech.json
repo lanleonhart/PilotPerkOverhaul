@@ -13,7 +13,7 @@
     },
     {
       "type": "PilotCostFactor",
-      "modifier": 0.25,
+      "modifier": 2.0,
       "secondaryModifier": 0.0,
       "affectedIds": []
     }
